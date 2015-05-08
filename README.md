@@ -4,9 +4,9 @@ Repository of public domain and freely licensed bibles in XML and other standard
 
 ## Translations
 
-| Filename              | Format | Language   | Version                               | License       |
-|-----------------------|--------|------------|---------------------------------------|---------------|
-| kjv.osis.xml          | OSIS   | English    | King James Version                    | Public Domain |
-| por-almedida.usfx.xml | USFX   | Portuguese | João Ferreira de Almeida              | Public Domain |
-| rccv.usfx.xml         | USFX   | Romanian   | Romanian Corrected Cornilescu Version | Public Domain |
-| web.usfx.xml          | USFX   | English    | World English Bible                   | Public Domain |
+| Filename              | Language   | Format | Version                               | License       |
+|-----------------------|------------|--------|---------------------------------------|---------------|
+| eng-kjv.osis.xml      | English    | OSIS   | King James Version                    | Public Domain |
+| eng-web.usfx.xml      | English    | USFX   | World English Bible                   | Public Domain |
+| por-almedida.usfx.xml | Portuguese | USFX   | João Ferreira de Almeida              | Public Domain |
+| ron-rccv.usfx.xml     | Romanian   | USFX   | Romanian Corrected Cornilescu Version | Public Domain |
