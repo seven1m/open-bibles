@@ -6,6 +6,7 @@ Repository of public domain and freely licensed bibles in XML and other standard
 
 | Filename              | Language   | Format | Version                               | License       |
 |-----------------------|------------|--------|---------------------------------------|---------------|
+| chr-cherokee.usfx.xml | Cherokee   | USFX   | Cherokee New Testament                | Public Domain |
 | eng-kjv.osis.xml      | English    | OSIS   | King James Version                    | Public Domain |
 | eng-web.usfx.xml      | English    | USFX   | World English Bible                   | Public Domain |
 | por-almeida.usfx.xml  | Portuguese | USFX   | João Ferreira de Almeida              | Public Domain |
