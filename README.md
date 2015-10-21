@@ -15,5 +15,5 @@ Repository of public domain and freely licensed bibles in XML and other standard
 
 ## How to Use
 
-You can use the [bible_parser](https://github.com/seven1m/bible_parser) Ruby gem to read these bibles
+You can use the [bible_parser](https://github.com/churchio/bible_parser) Ruby gem to read these bibles
 and do something amazing with them!
