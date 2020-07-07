@@ -1,0 +1,1 @@
+IMPORTANT: when adding a new bible translation to this repo, please link to the source where you obtained the file. If it's not obvious from the linked source, please also link to the license for the bible translation so we can ensure it is available for distribution. Thanks!
