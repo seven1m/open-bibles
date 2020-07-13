@@ -11,7 +11,7 @@ Repository of public domain and freely licensed bibles in XML and other standard
 | eng-web.usfx.xml               | English    | USFX    | World English Bible                   | Public Domain |
 | lat-clementine-vul.usfx.xml    | Latin      | USFX    | Clementine Latin Vulgate              | Public Domain |
 | por-almeida.usfx.xml           | Portuguese | USFX    | João Ferreira de Almeida              | Public Domain |
-| ron-rccv.usfx.xml              | Romanian   | USFX    | Romanian Corrected Cornilescu Version | Public Domain |
+| ron-rccv.usfx.xml              | Romanian   | USFX    | Protestant Romanian Corrected Cornilescu Version | Public Domain |
 | nl-statenvertaling.zefania.xml | Dutch      | Zefania | Statenvertaling (1637)                | Public Domain |
 
 ## How to Use
