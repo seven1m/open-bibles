@@ -14,6 +14,7 @@ Repository of public domain and freely licensed bibles in XML and other standard
 | por-almeida.usfx.xml           | Portuguese | USFX    | João Ferreira de Almeida                         | Public Domain |
 | ron-rccv.usfx.xml              | Romanian   | USFX    | Protestant Romanian Corrected Cornilescu Version | Public Domain |
 | nl-statenvertaling.zefania.xml | Dutch      | Zefania | Statenvertaling (1637)                           | Public Domain |
+| jp-kougo.osis.xml              | Japanese   | OSIS    | Japanese Kougo (Colloquial)                      | Public Domain |
 
 ## Translation Details
 
