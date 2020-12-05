@@ -7,6 +7,7 @@ Repository of public domain and freely licensed bibles in XML and other standard
 | Filename                       | Language   | Format  | Version                                          | License       |
 |--------------------------------|------------|---------|--------------------------------------------------|---------------|
 | chr-cherokee.usfx.xml          | Cherokee   | USFX    | Cherokee New Testament                           | Public Domain |
+| cze-bkr.zefania.xml            | Czech      | Zefania | Bible kralická                                   | Public Domain |
 | eng-kjv.osis.xml               | English    | OSIS    | King James Version                               | Public Domain |
 | eng-web.usfx.xml               | English    | USFX    | World English Bible                              | Public Domain |
 | heb-leningrad.usfx.xml         | Hebrew     | USFX    | Hebrew Leningrad Codex                           | _see below_   |
