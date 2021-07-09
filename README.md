@@ -4,21 +4,22 @@ Repository of public domain and freely licensed bibles in XML and other standard
 
 ## Translation List
 
-| Filename                       | Language     | Format  | Version                                          | License       |
-|--------------------------------|--------------|---------|--------------------------------------------------|---------------|
-| chr-cherokee.usfx.xml          | Cherokee     | USFX    | Cherokee New Testament                           | Public Domain |
-| cze-bkr.zefania.xml            | Czech        | Zefania | Bible kralická                                   | Public Domain |
-| eng-kjv.osis.xml               | English      | OSIS    | King James Version                               | Public Domain |
-| eng-gb-oeb.osis.xml            | English (UK) | OSIS    | Open English Bible, Commonwealth Edition         | Public Domain |
-| eng-gb-webbe.osis.xml          | English (UK) | OSIS    | World English Bible, British Edition             | Public Domain |
-| eng-us-oeb.osis.xml            | English (US) | OSIS    | Open English Bible, US Edition                   | Public Domain |
-| eng-web.usfx.xml               | English      | USFX    | World English Bible                              | Public Domain |
-| heb-leningrad.usfx.xml         | Hebrew       | USFX    | Hebrew Leningrad Codex                           | _see below_   |
-| lat-clementine-vul.usfx.xml    | Latin        | USFX    | Clementine Latin Vulgate                         | Public Domain |
-| por-almeida.usfx.xml           | Portuguese   | USFX    | João Ferreira de Almeida                         | Public Domain |
-| ron-rccv.usfx.xml              | Romanian     | USFX    | Protestant Romanian Corrected Cornilescu Version | Public Domain |
-| nl-statenvertaling.zefania.xml | Dutch        | Zefania | Statenvertaling (1637)                           | Public Domain |
-| jp-kougo.osis.xml              | Japanese     | OSIS    | Japanese Kougo (Colloquial)                      | Public Domain |
+| Filename                       | Language     | Format  | Abbrev | Version                                          | License       |
+|--------------------------------|--------------|---------|--------|--------------------------------------------------|---------------|
+| chr-cherokee.usfx.xml          | Cherokee     | USFX    |        | Cherokee New Testament                           | Public Domain |
+| cze-bkr.zefania.xml            | Czech        | Zefania |        | Bible kralická                                   | Public Domain |
+| eng-kjv.osis.xml               | English      | OSIS    | KJV    | King James Version                               | Public Domain |
+| eng-bbe.usfx.xml               | English      | USFX    | BBE    | Bible in Basic English                           | Public Domain |
+| eng-gb-oeb.osis.xml            | English (UK) | OSIS    | OEB    | Open English Bible, Commonwealth Edition         | Public Domain |
+| eng-gb-webbe.osis.xml          | English (UK) | OSIS    | WEBBE  | World English Bible, British Edition             | Public Domain |
+| eng-us-oeb.osis.xml            | English (US) | OSIS    | OEB    | Open English Bible, US Edition                   | Public Domain |
+| eng-web.usfx.xml               | English      | USFX    | WEB    | World English Bible                              | Public Domain |
+| heb-leningrad.usfx.xml         | Hebrew       | USFX    |        | Hebrew Leningrad Codex                           | _see below_   |
+| lat-clementine-vul.usfx.xml    | Latin        | USFX    |        | Clementine Latin Vulgate                         | Public Domain |
+| por-almeida.usfx.xml           | Portuguese   | USFX    |        | João Ferreira de Almeida                         | Public Domain |
+| ron-rccv.usfx.xml              | Romanian     | USFX    |        | Protestant Romanian Corrected Cornilescu Version | Public Domain |
+| nl-statenvertaling.zefania.xml | Dutch        | Zefania |        | Statenvertaling (1637)                           | Public Domain |
+| jp-kougo.osis.xml              | Japanese     | OSIS    |        | Japanese Kougo (Colloquial)                      | Public Domain |
 
 ## Translation Details
 
