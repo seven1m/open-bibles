@@ -10,6 +10,7 @@ Repository of public domain and freely licensed bibles in XML and other standard
 | cze-bkr.zefania.xml            | Czech        | Zefania | Bible kralická                                   | Public Domain |
 | eng-kjv.osis.xml               | English      | OSIS    | King James Version                               | Public Domain |
 | eng-gb-oeb.osis.xml            | English (UK) | OSIS    | Open English Bible, Commonwealth Edition         | Public Domain |
+| eng-gb-webbe.osis.xml          | English (UK) | OSIS    | World English Bible, British Edition             | Public Domain |
 | eng-us-oeb.osis.xml            | English (US) | OSIS    | Open English Bible, US Edition                   | Public Domain |
 | eng-web.usfx.xml               | English      | USFX    | World English Bible                              | Public Domain |
 | heb-leningrad.usfx.xml         | Hebrew       | USFX    | Hebrew Leningrad Codex                           | _see below_   |
