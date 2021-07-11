@@ -11,7 +11,7 @@ Repository of public domain and freely licensed bibles in XML and other standard
 | eng-kjv.osis.xml                | English      | OSIS    | KJV    | King James Version                               | Public Domain |
 | eng-bbe.usfx.xml                | English      | USFX    | BBE    | Bible in Basic English                           | Public Domain |
 | eng-gb-oeb.osis.xml             | English (UK) | OSIS    | OEB    | Open English Bible, Commonwealth Edition         | Public Domain |
-| eng-gb-webbe.osis.xml           | English (UK) | OSIS    | WEBBE  | World English Bible, British Edition             | Public Domain |
+| eng-gb-webbe.usfx.xml           | English (UK) | USFX    | WEBBE  | World English Bible, British Edition             | Public Domain |
 | eng-us-oeb.osis.xml             | English (US) | OSIS    | OEB    | Open English Bible, US Edition                   | Public Domain |
 | eng-web.usfx.xml                | English      | USFX    | WEB    | World English Bible                              | Public Domain |
 | heb-leningrad.usfx.xml          | Hebrew       | USFX    |        | Hebrew Leningrad Codex                           | _see below_   |
