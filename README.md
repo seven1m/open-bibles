@@ -15,7 +15,7 @@ Repository of public domain and freely licensed bibles in XML and other standard
 | eng-us-oeb.osis.xml             | English (US) | OSIS    | OEB-US | Open English Bible, US Edition                   | Public Domain |
 | eng-web.usfx.xml                | English      | USFX    | WEB    | World English Bible                              | Public Domain |
 | heb-leningrad.usfx.xml          | Hebrew       | USFX    |        | Hebrew Leningrad Codex                           | _see below_   |
-| lat-clementine-vul.usfx.xml     | Latin        | USFX    |        | Clementine Latin Vulgate                         | Public Domain |
+| lat-clementine.usfx.xml         | Latin        | USFX    |        | Clementine Latin Vulgate                         | Public Domain |
 | por-almeida.usfx.xml            | Portuguese   | USFX    |        | João Ferreira de Almeida                         | Public Domain |
 | ron-rccv.usfx.xml               | Romanian     | USFX    |        | Protestant Romanian Corrected Cornilescu Version | Public Domain |
 | dut-statenvertaling.zefania.xml | Dutch        | Zefania |        | Statenvertaling (1637)                           | Public Domain |
