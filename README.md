@@ -33,5 +33,6 @@ Repository of public domain and freely licensed bibles in XML and other standard
 
 ## How to Use
 
-You can use the [bible_parser](https://github.com/churchio/bible_parser) Ruby gem to read these bibles
-and do something amazing with them!
+The XML files are in a few different "standard" formats, all marked up in XML. There are various tools on the 'net that will let you parse the files and build something cool.
+
+I use these files along with the [bible_parser](https://github.com/churchio/bible_parser) Ruby gem to build a MySQL database that backs the service [bible-api.com](https://bible-api.com), which is free for everyone to use.
