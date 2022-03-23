@@ -1,6 +1,6 @@
 # Open Bibles
 
-Repository of public domain and freely licensed bibles in XML and other standard formats
+Repository of public domain and freely licensed bibles in some standard XML formats.
 
 ## Translation List
 
