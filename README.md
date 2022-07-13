@@ -21,9 +21,9 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | dut-statenvertaling.zefania.xml | Dutch        | Zefania |        | Statenvertaling (1637)                           | Public Domain |
 | jpn-kougo.osis.xml              | Japanese     | OSIS    |        | Japanese Kougo (Colloquial)                      | Public Domain |
 | spaRV1909_usfx.xml              | Spanish      | USFX    | RV1909 | Reina Valera 1909                                | Public Domain |
-| spabes_usfx.xml                 | Spanish      | USFX    | SPNBES | La Biblia en Español Sencillo                    | Public Domain |
-| spapddpt_usfx.xml               | Spanish      | USFX    | SPAPDT | Spanish Bible (God's Word for You)               | Public Domain |
-| spavbl_usfx.xml                 | Spanish      | USFX    | VBL    | Spanish Free Bible Version                       | Public Domain |
+| spabes_usfx.xml                 | Spanish      | USFX    | SPNBES | La Biblia en Español Sencillo                    | Creative Commons |
+| spapddpt_usfx.xml               | Spanish      | USFX    | SPAPDT | Spanish Bible (God's Word for You)               | Creative Commons |
+| spavbl_usfx.xml                 | Spanish      | USFX    | VBL    | Spanish Free Bible Version                       | Creative Commons |
 
 
 ## Translation Details
