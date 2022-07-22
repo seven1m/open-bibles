@@ -34,6 +34,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 - License: http://www.tanach.us/License.html
 
 >All biblical Hebrew text, in any format, may be viewed or copied without restriction.
+>
 >Citation...is appreciated. Please include the version number, 26.0, as a reference. 
 
 ### La Biblia en Español Sencillo
@@ -44,19 +45,29 @@ Repository of public domain and freely licensed bibles in some standard XML form
 Copyright and license notice copied from the above URL as of July 2022:
 
 >La Biblia en Español Sencillo.
+>
 >© 2018 AudioBiblia.org / Irma Flores
+>
 >Esta obra esta publicada bajo la Licencia Creative Commons Reconocimiento 4.0 Internacional
+>
 >Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by/4.0
+>
 >Se puede copiar y redistribuir La Biblia en Español Sencillo con reconocimiento a AudioBiblia.org/Irma Flores
+>
 >email: info@audiobiblia.org
 
 Translated to English:
 
 >The Bible in Simple Spanish.
+>
 >© 2018 AudioBible.org / Irma Flores
+>
 >This work is published under the Creative Commons Attribution 4.0 International License
+>
 >To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
+>
 >The Simple Spanish Bible may be copied and redistributed with acknowledgment to AudioBiblia.org/Irma Flores
+
 >email: info@audiobiblia.org
 
 ### Palabra de Dios para ti
@@ -67,12 +78,19 @@ Translated to English:
 Copyright and license notice copied from the above URL as of July 2022:
 
 >copyright © 2017-2022 Asociacion Biblica Latinoamericana
+>
 >This translation is made available to you under the terms of the Creative Commons Attribution Share-Alike license 4.0.
+>
 >You have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:
+>
 >    You include the above copyright and source information.
+>
 >    If you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.
+>
 >    If you redistribute this text, you must distribute your contributions under the same license as the original.
+>
 >Pictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents. For other uses, please contact the respective copyright owners.
+
 
 ### Versión Biblia Libre
 
@@ -82,11 +100,17 @@ Copyright and license notice copied from the above URL as of July 2022:
 Copyright and license notice copied from the above URL as of July 2022:
 
 >copyright © 2018-2020 Jonathan Gallagher y Shelly Barrios de Avila
+>
 >This translation is made available to you under the terms of the Creative Commons Attribution Share-Alike license 4.0.
+>
 >You have permission to share and redistribute this Bible translation in any format and to make reasonable revisions and adaptations of this translation, provided that:
+>
 >    You include the above copyright and source information.
+>
 >    If you make any changes to the text, you must indicate that you did so in a way that makes it clear that the original licensor is not necessarily endorsing your changes.
+>
 >    If you redistribute this text, you must distribute your contributions under the same license as the original.
+>
 >Pictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents. For other uses, please contact the respective copyright owners.
 
 ## How to Use
