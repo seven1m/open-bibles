@@ -12,12 +12,13 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | eng-asv.osis.xml                | English      | OSIS    | ASV    | American Standard Version (1901)                  | Public Domain |
 | eng-bbe.usfx.xml                | English      | USFX    | BBE    | Bible in Basic English                            | Public Domain |
 | eng-darby.osis.xml              | English      | OSIS    | DARBY  | Darby Bible                                       | Public Domain |
-| eng-dra.osis.xml                | English      | OSIS    | DRA    | Douay-Rheims 1899 American Edition           | Public Domain |
+| eng-dra.osis.xml                | English      | OSIS    | DRA    | Douay-Rheims 1899 American Edition                | Public Domain |
 | eng-gb-oeb.osis.xml             | English (UK) | OSIS    | OEB-CW | Open English Bible, Commonwealth Edition          | Public Domain |
 | eng-gb-webbe.usfx.xml           | English (UK) | USFX    | WEBBE  | World English Bible, British Edition              | Public Domain |
 | eng-kjv.osis.xml                | English      | OSIS    | KJV    | King James Version                                | Public Domain |
 | eng-us-oeb.osis.xml             | English (US) | OSIS    | OEB-US | Open English Bible, US Edition                    | Public Domain |
 | eng-web.usfx.xml                | English      | USFX    | WEB    | World English Bible                               | Public Domain |
+| eng-ylt.osis.xml                | English      | OSIS    | YLT    | Young's Literal Translation                       | Public Domain |
 | heb-leningrad.usfx.xml          | Hebrew       | USFX    |        | Hebrew Leningrad Codex                            | _see below_   |
 | jpn-kougo.osis.xml              | Japanese     | OSIS    |        | Japanese Kougo (Colloquial)                       | Public Domain |
 | lat-clementine.usfx.xml         | Latin        | USFX    |        | Clementine Latin Vulgate                          | Public Domain |
