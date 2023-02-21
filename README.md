@@ -9,6 +9,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | chr-cherokee.usfx.xml           | Cherokee     | USFX    |        | Cherokee New Testament                            | Public Domain |
 | cze-bkr.zefania.xml             | Czech        | Zefania |        | Bible kralická                                    | Public Domain |
 | dut-statenvertaling.zefania.xml | Dutch        | Zefania |        | Statenvertaling (1637)                            | Public Domain |
+| eng-asv.osis.xml                | English      | OSIS    | ASV    | American Standard Version (1901)                  | Public Domain |
 | eng-bbe.usfx.xml                | English      | USFX    | BBE    | Bible in Basic English                            | Public Domain |
 | eng-gb-oeb.osis.xml             | English (UK) | OSIS    | OEB-CW | Open English Bible, Commonwealth Edition          | Public Domain |
 | eng-gb-webbe.usfx.xml           | English (UK) | USFX    | WEBBE  | World English Bible, British Edition              | Public Domain |
