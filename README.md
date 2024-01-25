@@ -29,6 +29,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | spa-rv1909.usfx.xml             | Spanish      | USFX    | RV1909 | Reina Valera 1909                                 | Public Domain |
 | spa-vbl.usfx.xml                | Spanish      | USFX    | SPNVBL | Versión Biblia Libre / Spanish Free Bible Version | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | rus_synodal.xml                 | Russian      | USFX    |        | Russian Synodal Translation                       | Public Domain |
+| lit-lt.zefania.xml              | Lithuanian   | Zefania |        | Lithuanian Bible Translation                      | Public Domain |
 
 
 ## Translation Details
