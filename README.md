@@ -27,6 +27,8 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | spa-bes.usfx.xml                | Spanish      | USFX    | SPNBES | La Biblia en Español Sencillo                     | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | spa-pddpt.usfx.xml              | Spanish      | USFX    | SPAPDT | Palabra de Dios para ti / God's Word for You      | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | spa-rv1909.usfx.xml             | Spanish      | USFX    | RV1909 | Reina Valera 1909                                 | Public Domain |
+| spa-RVR1960.zefania.xml         | Spanish      | Zefania | RV1960 | Reina Valera 1960                                 | Public Domain |
+| spa-NVI.zefania.xml             | Spanish      | Zefania | NVI    | New International Version                                | Public Domain |
 | spa-vbl.usfx.xml                | Spanish      | USFX    | SPNVBL | Versión Biblia Libre / Spanish Free Bible Version | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | rus-synodal.xml                 | Russian      | USFX    |        | Russian Synodal Translation                       | Public Domain |
 
@@ -40,7 +42,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 
 >All biblical Hebrew text, in any format, may be viewed or copied without restriction.
 >
->Citation...is appreciated. Please include the version number, 26.0, as a reference. 
+>Citation...is appreciated. Please include the version number, 26.0, as a reference.
 
 ### La Biblia en Español Sencillo
 
