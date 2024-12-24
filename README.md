@@ -6,7 +6,6 @@ Repository of public domain and freely licensed bibles in some standard XML form
 
 | Filename                        | Language     | Format  | Abbrev | Version                                           | License       |
 |---------------------------------|--------------|---------|--------|---------------------------------------------------|---------------|
-| chi-cuv.osis.xml                | Chinese      | OSIS    | CUV    | Chinese Union Version                             | Public Domain |
 | chr-cherokee.usfx.xml           | Cherokee     | USFX    |        | Cherokee New Testament                            | Public Domain |
 | cze-bkr.zefania.xml             | Czech        | Zefania |        | Bible kralická                                    | Public Domain |
 | dut-statenvertaling.zefania.xml | Dutch        | Zefania |        | Statenvertaling (1637)                            | Public Domain |
