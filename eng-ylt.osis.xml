@@ -22,7 +22,7 @@
     <rights>
     </rights>
   </INFORMATION>
-  <BIBLEBOOK bnumber="40">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Matt">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">A roll of the birth of Jesus Christ, son of David, son of Abraham.</VERS>
       <VERS vnumber="2">Abraham fathered Isaac, and Isaac fathered Jacob, and Jacob fathered Judah and his brethren,</VERS>
@@ -2177,7 +2177,7 @@
       </VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="41">
+  <BIBLEBOOK bnumber="41" bname="Mark" bsname="Mark">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">A beginning of the good news of Jesus Christ, Son of God.</VERS>
       <VERS vnumber="2">As it has been written in the prophets, 'Lo, I send My messenger before your face, who shall prepare your way <DIV><NOTE type="x-studynote">who shall engineer your road</NOTE></DIV> before you,' --</VERS>
@@ -3202,7 +3202,7 @@
       <VERS vnumber="20">and they, having gone forth, did preach everywhere, the Lord working with <STYLE css="color:#808080;font-style:italic">them</STYLE>, and confirming the word, through the signs following. Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="42">
+  <BIBLEBOOK bnumber="42" bname="Luke" bsname="Luke">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Seeing that many did take in hand to set in order a narration of the matters that have been fully assured among us,</VERS>
       <VERS vnumber="2">as they did deliver to us, who from the beginning became eye-witnesses, and officers of the Word, --</VERS>
@@ -5232,7 +5232,7 @@
       <VERS vnumber="53">and were continually in the temple, praising and blessing God. Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="43">
+  <BIBLEBOOK bnumber="43" bname="John" bsname="John">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">In the beginning was the Word, and the Word was with God, and the Word was God;</VERS>
       <VERS vnumber="2">this one was in the beginning with God;</VERS>
@@ -6697,7 +6697,7 @@
       <VERS vnumber="25">And there are also many other things -- as many as Jesus did -- which, if they may be written one by one, not even the world itself I think to have place for the books written. Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="44">
+  <BIBLEBOOK bnumber="44" bname="Acts" bsname="Acts">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">The former account, indeed, I made concerning all things, O Theophilus, that Jesus began both to do and to teach,</VERS>
       <VERS vnumber="2">till the day in which, having given command, through the Holy Spirit, to the apostles whom he did choose out, he was taken up,</VERS>
@@ -7780,7 +7780,7 @@
       <VERS vnumber="31">preaching the reign of God, and teaching the things concerning the Lord Jesus Christ with all boldness -- unforbidden.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="45">
+  <BIBLEBOOK bnumber="45" bname="Romans" bsname="Rom">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, a servant of Jesus Christ, a called apostle, having been separated to the good news of God --</VERS>
       <VERS vnumber="2">which He announced before through His prophets in holy writings --</VERS>
@@ -8248,7 +8248,7 @@
       <VERS vnumber="27">to the only wise God, through Jesus Christ, to him <STYLE css="color:#808080;font-style:italic">be</STYLE> glory to the ages. Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="46">
+  <BIBLEBOOK bnumber="46" bname="1 Corinthians" bsname="1Cor">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, a called apostle of Jesus Christ, through the will of God, and Sosthenes the brother,</VERS>
       <VERS vnumber="2">to the assembly of God that is in Corinth, to those sanctified in Christ Jesus, called saints, with all those calling upon the name of our Lord Jesus Christ in every place -- both theirs and ours:</VERS>
@@ -8721,7 +8721,7 @@
       <VERS vnumber="24">my love <STYLE css="color:#808080;font-style:italic">is</STYLE> with you all in Christ Jesus. Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="47">
+  <BIBLEBOOK bnumber="47" bname="2 Corinthians" bsname="2Cor">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, an apostle of Jesus Christ, through the will of God, and Timotheus the brother, to the assembly of God that is in Corinth, with all the saints who are in all Achaia:</VERS>
       <VERS vnumber="2">Grace to you and peace from God our Father, and the Lord Jesus Christ!</VERS>
@@ -9006,7 +9006,7 @@
       <VERS vnumber="14">the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, <STYLE css="color:#808080;font-style:italic">is</STYLE> with you all! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="48">
+  <BIBLEBOOK bnumber="48" bname="Galatians" bsname="Gal">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, an apostle -- not from men, nor through man, but through Jesus Christ, and God the Father, who did raise him out of the dead --</VERS>
       <VERS vnumber="2">and all the brethren with me, to the assemblies of Galatia:</VERS>
@@ -9169,7 +9169,7 @@
       <VERS vnumber="18">The grace of our Lord Jesus Christ <STYLE css="color:#808080;font-style:italic">is</STYLE> with your spirit, brethren! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="49">
+  <BIBLEBOOK bnumber="49" bname="Ephesians" bsname="Eph">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, an apostle <DIV><NOTE type="x-studynote">courier, one dispatched</NOTE></DIV> of Jesus Christ through the will of God, to the saints who are in Ephesus, and to the faithful <DIV><NOTE type="x-studynote">believers</NOTE></DIV> in Christ Jesus:</VERS>
       <VERS vnumber="2">Grace to you, and peace from God our Father, and the Lord Jesus Christ!</VERS>
@@ -9338,7 +9338,7 @@
       <VERS vnumber="24">The grace with all those loving our Lord Jesus Christ -- undecayingly! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="50">
+  <BIBLEBOOK bnumber="50" bname="Philippians" bsname="Phil">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul and Timotheus, servants of Jesus Christ, to all the saints in Christ Jesus who are in Philippi, with overseers and ministers;</VERS>
       <VERS vnumber="2">Grace to you, and peace from God our Father, and the Lord Jesus Christ.</VERS>
@@ -9452,7 +9452,7 @@
       <VERS vnumber="23">the grace of our Lord Jesus Christ <STYLE css="color:#808080;font-style:italic">is</STYLE> with you all. Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="51">
+  <BIBLEBOOK bnumber="51" bname="Colossians" bsname="Col">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, an apostle of Jesus Christ through the will of God, and Timotheus the brother,</VERS>
       <VERS vnumber="2">to the saints in Colossae, and to the faithful brethren in Christ: Grace to you, and peace from God our Father, and the Lord Jesus Christ!</VERS>
@@ -9557,7 +9557,7 @@
       <VERS vnumber="18">The salutation by the hand of me, Paul; remember my bonds; the grace <STYLE css="color:#808080;font-style:italic">is</STYLE> with you. Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="52">
+  <BIBLEBOOK bnumber="52" bname="1 Thessalonians" bsname="1Thess">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, and Silvanus, and Timothy, to the assembly of Thessalonians in God the Father, and the Lord Jesus Christ: Grace to you, and peace, from God our Father, and the Lord Jesus Christ!</VERS>
       <VERS vnumber="2">We give thanks to God always for you all, making mention of you in our prayers,</VERS>
@@ -9658,7 +9658,7 @@
       <VERS vnumber="28">the grace of our Lord Jesus Christ <STYLE css="color:#808080;font-style:italic">is</STYLE> with you! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="53">
+  <BIBLEBOOK bnumber="53" bname="2 Thessalonians" bsname="2Thess">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, and Silvanus, and Timotheus, to the assembly of Thessalonians in God our Father, and the Lord Jesus Christ:</VERS>
       <VERS vnumber="2">Grace to you, and peace, from God our Father, and the Lord Jesus Christ!</VERS>
@@ -9714,7 +9714,7 @@
       <VERS vnumber="18">the grace of our Lord Jesus Christ <STYLE css="color:#808080;font-style:italic">is</STYLE> with you all! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="54">
+  <BIBLEBOOK bnumber="54" bname="1 Timothy" bsname="1Tim">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, an apostle of Jesus Christ, according to a command of God our Saviour, and of the Lord Jesus Christ our hope,</VERS>
       <VERS vnumber="2">to Timothy -- genuine child in faith: Grace, kindness, peace, from God our Father, and Christ Jesus our Lord,</VERS>
@@ -9841,7 +9841,7 @@
       <VERS vnumber="21">which certain professing -- concerning the faith did swerve; the grace <STYLE css="color:#808080;font-style:italic">is</STYLE> with you. Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="55">
+  <BIBLEBOOK bnumber="55" bname="2 Timothy" bsname="2Tim">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, an apostle of Jesus Christ, through the will of God, according to a promise of life that <STYLE css="color:#808080;font-style:italic">is</STYLE> in Christ Jesus,</VERS>
       <VERS vnumber="2">to Timothy, beloved child: Grace, kindness, peace, from God the Father, and Christ Jesus our Lord!</VERS>
@@ -9934,7 +9934,7 @@
       <VERS vnumber="22">The Lord Jesus Christ <STYLE css="color:#808080;font-style:italic">is</STYLE> with your spirit; the grace <STYLE css="color:#808080;font-style:italic">is</STYLE> with you! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="56">
+  <BIBLEBOOK bnumber="56" bname="Titus" bsname="Titus">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of the choice ones of God, and an acknowledging of truth that <STYLE css="color:#808080;font-style:italic">is</STYLE> according to piety,</VERS>
       <VERS vnumber="2">upon hope of life age-during, which God, who does not lie, did promise before times of ages,</VERS>
@@ -9988,7 +9988,7 @@
       <VERS vnumber="15">Salute <DIV><NOTE type="x-studynote">greet</NOTE></DIV> you do all those with me; salute <DIV><NOTE type="x-studynote">greet</NOTE></DIV> those loving us in faith; the grace <STYLE css="color:#808080;font-style:italic">is</STYLE> with you all!</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="57">
+  <BIBLEBOOK bnumber="57" bname="Philemon" bsname="Phlm">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, a prisoner of Christ Jesus, and Timothy the brother, to Philemon our beloved and fellow-worker,</VERS>
       <VERS vnumber="2">and Apphia the beloved, and Archippus our fellow-soldier, and the assembly in your house:</VERS>
@@ -10017,7 +10017,7 @@
       <VERS vnumber="25">The grace of our Lord Jesus Christ <STYLE css="color:#808080;font-style:italic">is</STYLE> with your spirit! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="58">
+  <BIBLEBOOK bnumber="58" bname="Hebrews" bsname="Heb">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">In many parts, and many ways, God of old having spoken to the fathers in the prophets,</VERS>
       <VERS vnumber="2">in these last days did speak to us in a Son, whom He appointed heir of all things, through whom also He did make the ages;</VERS>
@@ -10349,7 +10349,7 @@
       <VERS vnumber="25">the grace <STYLE css="color:#808080;font-style:italic">is</STYLE> with you all! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="59">
+  <BIBLEBOOK bnumber="59" bname="James" bsname="Jas">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">James, of God and of the Lord Jesus Christ a servant, to the Twelve Tribes who are in the dispersion: Hail!</VERS>
       <VERS vnumber="2">All joy count <STYLE css="color:#808080;font-style:italic">it</STYLE>, my brethren, when you may fall into temptations manifold;</VERS>
@@ -10469,7 +10469,7 @@
       <VERS vnumber="20">let him know that he who did turn back a sinner from the straying of his way shall save a soul from death, and shall cover a multitude of sins.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="60">
+  <BIBLEBOOK bnumber="60" bname="1 Peter" bsname="1Pet">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Peter, an apostle of Jesus Christ, to the choice sojourners of the dispersion of Pontus, Galatia, Cappadocia, Asia, and Bithynia,</VERS>
       <VERS vnumber="2">according to a foreknowledge of God the Father, in sanctification of the Spirit, to obedience and sprinkling of the blood of Jesus Christ: Grace to you and peace be multiplied!</VERS>
@@ -10586,7 +10586,7 @@
       <VERS vnumber="14">Salute you one another in a kiss of love; peace to you all who <STYLE css="color:#808080;font-style:italic">are</STYLE> in Christ Jesus! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="61">
+  <BIBLEBOOK bnumber="61" bname="2 Peter" bsname="2Pet">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Simeon Peter, a servant and an apostle of Jesus Christ, to those who did obtain a like precious faith with us in the righteousness of our God and Saviour Jesus Christ:</VERS>
       <VERS vnumber="2">Grace to you, and peace be multiplied in the acknowledgement of God and of Jesus our Lord!</VERS>
@@ -10655,7 +10655,7 @@
       <VERS vnumber="18">and increase you in grace, and in the knowledge of our Lord and Saviour Jesus Christ; to him <STYLE css="color:#808080;font-style:italic">is</STYLE> the glory both now, and to the day of the age! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="62">
+  <BIBLEBOOK bnumber="62" bname="1 John" bsname="1John">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we did behold, and our hands did handle, concerning the Word of the Life --</VERS>
       <VERS vnumber="2">and the Life was manifested, and we have seen, and do testify, and declare to you the Life, the Age-during, which was with the Father, and was manifested to us --</VERS>
@@ -10773,7 +10773,7 @@
       <VERS vnumber="21">Little children, guard yourselves from the idols! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="63">
+  <BIBLEBOOK bnumber="63" bname="2 John" bsname="2John">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">The Elder to the choice Kyria, and to her children, whom I love in truth, and not I only, but also all those having known the truth,</VERS>
       <VERS vnumber="2">because of the truth that is remaining in us, and with us shall be to the age,</VERS>
@@ -10790,7 +10790,7 @@
       <VERS vnumber="13">salute you do the children of your choice sister. Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="64">
+  <BIBLEBOOK bnumber="64" bname="3 John" bsname="3John">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">The Elder to Gaius the beloved, whom I love in truth!</VERS>
       <VERS vnumber="2">beloved, concerning all things I desire you to prosper, and to be in health, even as your soul does prosper,</VERS>
@@ -10808,7 +10808,7 @@
       <VERS vnumber="14">and I hope straightway to see you, and mouth to mouth we shall speak. Peace to you! salute you do the friends; be saluting the friends by name.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="65">
+  <BIBLEBOOK bnumber="65" bname="Jude" bsname="Jude">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Judas, of Jesus Christ a servant, and brother of James, to those sanctified in God the Father, and in Jesus Christ kept -- called,</VERS>
       <VERS vnumber="2">kindness to you, and peace, and love, be multiplied!</VERS>
@@ -10837,7 +10837,7 @@
       <VERS vnumber="25">to the only wise God our Saviour, <STYLE css="color:#808080;font-style:italic">is</STYLE> glory and greatness, power and authority, both now and to all the ages! Amen.</VERS>
     </CHAPTER>
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="66">
+  <BIBLEBOOK bnumber="66" bname="Revelation" bsname="Rev">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">A revelation of Jesus Christ, that God gave to him, to show to his servants what things it behooves to come to pass quickly; and he did signify <STYLE css="color:#808080;font-style:italic">it</STYLE>, having sent through his messenger to his servant John,</VERS>
       <VERS vnumber="2">who did testify the word of God, and the testimony of Jesus Christ, as many things also as he did see.</VERS>
