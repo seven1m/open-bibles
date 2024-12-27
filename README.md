@@ -19,7 +19,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | eng-kjv.osis.xml                | English      | OSIS    | KJV    | King James Version                                | Public Domain |
 | eng-us-oeb.osis.xml             | English (US) | OSIS    | OEB-US | Open English Bible, US Edition                    | Public Domain |
 | eng-web.usfx.xml                | English      | USFX    | WEB    | World English Bible                               | Public Domain |
-| eng-ylt.osis.xml                | English      | OSIS    | YLT    | Young's Literal Translation                       | Public Domain |
+| eng-ylt.osis.xml                | English      | OSIS    | YLT    | Young's Literal Translation (NT only)             | Public Domain |
 | heb-leningrad.usfx.xml          | Hebrew       | USFX    |        | Hebrew Leningrad Codex                            | _see below_   |
 | jpn-kougo.osis.xml              | Japanese     | OSIS    |        | Japanese Kougo (Colloquial)                       | Public Domain |
 | lat-clementine.usfx.xml         | Latin        | USFX    |        | Clementine Latin Vulgate                          | Public Domain |
