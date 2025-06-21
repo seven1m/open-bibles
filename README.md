@@ -6,30 +6,30 @@ Repository of public domain and freely licensed bibles in some standard XML form
 
 | Filename                        | Language     | Format  | Abbrev | Version                                           | License       |
 |---------------------------------|--------------|---------|--------|---------------------------------------------------|---------------|
-| chr-cherokee.usfx.xml           | Cherokee     | USFX    |        | Cherokee New Testament                            | Public Domain |
 | chi-cuv.usfx.xml                | Chinese      | USFX    | CUV    | Chinese Union Version                             | Public Domain |
+| chr-cherokee.usfx.xml           | Cherokee     | USFX    |        | Cherokee New Testament                            | Public Domain |
 | cze-bkr.zefania.xml             | Czech        | Zefania |        | Bible kralická                                    | Public Domain |
 | dut-statenvertaling.zefania.xml | Dutch        | Zefania |        | Statenvertaling (1637)                            | Public Domain |
-| eng-asv.osis.xml                | English      | OSIS    | ASV    | American Standard Version (1901)                  | Public Domain |
+| eng-asv.zefania.xml             | English      | Zefania | ASV    | American Standard Version (1901)                  | Public Domain |
 | eng-bbe.usfx.xml                | English      | USFX    | BBE    | Bible in Basic English                            | Public Domain |
-| eng-darby.osis.xml              | English      | OSIS    | DARBY  | Darby Bible                                       | Public Domain |
-| eng-dra.osis.xml                | English      | OSIS    | DRA    | Douay-Rheims 1899 American Edition                | Public Domain |
+| eng-darby.zefania.xml           | English      | Zefania | DARBY  | Darby Bible                                       | Public Domain |
+| eng-dra.zefania.xml             | English      | Zefania | DRA    | Douay-Rheims 1899 American Edition                | Public Domain |
 | eng-gb-oeb.osis.xml             | English (UK) | OSIS    | OEB-CW | Open English Bible, Commonwealth Edition          | Public Domain |
 | eng-gb-webbe.usfx.xml           | English (UK) | USFX    | WEBBE  | World English Bible, British Edition              | Public Domain |
 | eng-kjv.osis.xml                | English      | OSIS    | KJV    | King James Version                                | Public Domain |
 | eng-us-oeb.osis.xml             | English (US) | OSIS    | OEB-US | Open English Bible, US Edition                    | Public Domain |
 | eng-web.usfx.xml                | English      | USFX    | WEB    | World English Bible                               | Public Domain |
-| eng-ylt.osis.xml                | English      | OSIS    | YLT    | Young's Literal Translation (NT only)             | Public Domain |
+| eng-ylt.zefania.xml             | English      | Zefania | YLT    | Young's Literal Translation (NT only)             | Public Domain |
 | heb-leningrad.usfx.xml          | Hebrew       | USFX    |        | Hebrew Leningrad Codex                            | _see below_   |
 | jpn-kougo.osis.xml              | Japanese     | OSIS    |        | Japanese Kougo (Colloquial)                       | Public Domain |
 | lat-clementine.usfx.xml         | Latin        | USFX    |        | Clementine Latin Vulgate                          | Public Domain |
 | por-almeida.usfx.xml            | Portuguese   | USFX    |        | João Ferreira de Almeida                          | Public Domain |
 | ron-rccv.usfx.xml               | Romanian     | USFX    |        | Protestant Romanian Corrected Cornilescu Version  | Public Domain |
+| rus-synodal.zefania.xml         | Russian      | Zefania |        | Russian Synodal Translation                       | Public Domain |
 | spa-bes.usfx.xml                | Spanish      | USFX    | SPNBES | La Biblia en Español Sencillo                     | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | spa-pddpt.usfx.xml              | Spanish      | USFX    | SPAPDT | Palabra de Dios para ti / God's Word for You      | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | spa-rv1909.usfx.xml             | Spanish      | USFX    | RV1909 | Reina Valera 1909                                 | Public Domain |
 | spa-vbl.usfx.xml                | Spanish      | USFX    | SPNVBL | Versión Biblia Libre / Spanish Free Bible Version | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| rus-synodal.xml                 | Russian      | USFX    |        | Russian Synodal Translation                       | Public Domain |
 
 
 ## Translation Details
