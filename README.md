@@ -23,6 +23,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | heb-leningrad.usfx.xml          | Hebrew       | USFX    |        | Hebrew Leningrad Codex                            | _see below_   |
 | jpn-kougo.osis.xml              | Japanese     | OSIS    |        | Japanese Kougo (Colloquial)                       | Public Domain |
 | lat-clementine.usfx.xml         | Latin        | USFX    |        | Clementine Latin Vulgate                          | Public Domain |
+| mal-malsvp.zefania.xml          | Malayalam    | Zefania |        | Malayalam 1956 Transilation                       | Public Domain |
 | por-almeida.usfx.xml            | Portuguese   | USFX    |        | João Ferreira de Almeida                          | Public Domain |
 | ron-rccv.usfx.xml               | Romanian     | USFX    |        | Protestant Romanian Corrected Cornilescu Version  | Public Domain |
 | rus-synodal.zefania.xml         | Russian      | Zefania |        | Russian Synodal Translation                       | Public Domain |
