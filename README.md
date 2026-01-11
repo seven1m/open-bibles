@@ -4,54 +4,54 @@ Repository of public domain and freely licensed bibles in some standard XML form
 
 ## Translation List
 
-| Filename                        | Language     | Format  | Abbrev | Version                                           | License       |
-|---------------------------------|--------------|---------|--------|---------------------------------------------------|---------------|
-| sqi-albanian.osis.xml           | Albanian     | OSIS    |        | Albanian Bible                                    | Public Domain |
-| bul-bulgarian.osis.xml          | Bulgarian    | OSIS    |        | Bulgarian Bible                                   | Public Domain |
-| chi-cuv.usfx.xml                | Chinese(Traditional)      | USFX    | CUV    | Chinese Union Version                             | Public Domain |
-| chi-cuv-simp.usfx.xml                | Chinese(Simplified)      | USFX    | CUV    | Chinese Union Version                             | Public Domain |
-| chr-cherokee.usfx.xml           | Cherokee     | USFX    |        | Cherokee New Testament                            | Public Domain |
-| cze-bkr.zefania.xml             | Czech        | Zefania |        | Bible kralická                                    | Public Domain |
-| hrv-croatian.osis.xml           | Croatian     | OSIS    |        | Croatian Bible                                    | Public Domain |
-| dan-danish.osis.xml             | Danish       | OSIS    |        | Danish Bible                                      | Public Domain |
-| dut-statenvertaling.zefania.xml | Dutch        | Zefania |        | Statenvertaling (1637)                            | Public Domain |
-| eng-asv.zefania.xml             | English      | Zefania | ASV    | American Standard Version (1901)                  | Public Domain |
-| eng-bbe.usfx.xml                | English      | USFX    | BBE    | Bible in Basic English                            | Public Domain |
-| eng-darby.zefania.xml           | English      | Zefania | DARBY  | Darby Bible                                       | Public Domain |
-| eng-dra.zefania.xml             | English      | Zefania | DRA    | Douay-Rheims 1899 American Edition                | Public Domain |
-| eng-gb-oeb.osis.xml             | English (UK) | OSIS    | OEB-CW | Open English Bible, Commonwealth Edition          | Public Domain |
-| eng-gb-webbe.usfx.xml           | English (UK) | USFX    | WEBBE  | World English Bible, British Edition              | Public Domain |
-| eng-kjv.osis.xml                | English      | OSIS    | KJV    | King James Version                                | Public Domain |
-| eng-us-oeb.osis.xml             | English (US) | OSIS    | OEB-US | Open English Bible, US Edition                    | Public Domain |
-| eng-web.usfx.xml                | English      | USFX    | WEB    | World English Bible                               | Public Domain |
-| eng-ylt.zefania.xml             | English      | Zefania | YLT    | Young's Literal Translation (NT only)             | Public Domain |
-| fin-biblia.osis.xml             | Finnish      | OSIS    |        | Finnish Bible                                     | Public Domain |
-| fra-ostervald.osis.xml          | French       | OSIS    |        | French Ostervald 1996                             | Public Domain |
-| deu-luther1912.osis.xml         | German       | OSIS    |        | Luther Bible 1912                                 | Public Domain |
-| grc-septuagint.osis.xml         | Greek        | OSIS    | LXX    | Septuagint (Greek Old Testament)                  | Public Domain |
-| heb-leningrad.usfx.xml          | Hebrew       | USFX    |        | Hebrew Leningrad Codex                            | _see below_   |
-| hun-karoli.osis.xml             | Hungarian    | OSIS    |        | Hungarian Károli Bible                            | Public Domain |
-| ita-riveduta.osis.xml           | Italian      | OSIS    |        | Italian Riveduta Bible 1927                       | Public Domain |
-| jpn-kougo.osis.xml              | Japanese     | OSIS    |        | Japanese Kougo (Colloquial)                       | Public Domain |
-| kor-korean.osis.xml             | Korean       | OSIS    |        | Korean Bible                                      | Public Domain |
-| lat-clementine.usfx.xml         | Latin        | USFX    |        | Clementine Latin Vulgate                          | Public Domain |
-| lav-latvian.osis.xml            | Latvian      | OSIS    |        | Latvian Bible                                     | Public Domain |
-| mri-maori.osis.xml              | Maori        | OSIS    |        | Maori Bible                                       | Public Domain |
-| nor-norwegian.osis.xml          | Norwegian    | OSIS    |        | Norwegian Bible                                   | Public Domain |
-| pol-gdanska.osis.xml            | Polish       | OSIS    |        | Polish Gdańska Bible                              | Public Domain |
-| por-almeida.usfx.xml            | Portuguese   | USFX    |        | João Ferreira de Almeida                          | Public Domain |
-| ron-rccv.usfx.xml               | Romanian     | USFX    |        | Protestant Romanian Corrected Cornilescu Version  | Public Domain |
-| rus-synodal.zefania.xml         | Russian      | Zefania |        | Russian Synodal Translation                       | Public Domain |
-| spa-bes.usfx.xml                | Spanish      | USFX    | SPNBES | La Biblia en Español Sencillo                     | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| spa-pddpt.usfx.xml              | Spanish      | USFX    | SPAPDT | Palabra de Dios para ti / God's Word for You      | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| spa-rv1909.usfx.xml             | Spanish      | USFX    | RV1909 | Reina Valera 1909                                 | Public Domain |
-| spa-vbl.usfx.xml                | Spanish      | USFX    | SPNVBL | Versión Biblia Libre / Spanish Free Bible Version | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| swe-swedish.osis.xml            | Swedish      | OSIS    |        | Swedish Bible                                     | Public Domain |
-| swa-swahili.osis.xml            | Swahili      | OSIS    |        | Swahili Bible                                     | Public Domain |
-| tgl-tagalog.osis.xml            | Tagalog      | OSIS    |        | Tagalog Bible (Ang Dating Biblia)                 | Public Domain |
-| tha-thai.osis.xml               | Thai         | OSIS    |        | Thai Bible                                        | Public Domain |
-| tur-turkish.osis.xml            | Turkish      | OSIS    |        | Turkish Bible                                     | Public Domain |
-| vie-cadman.osis.xml             | Vietnamese   | OSIS    |        | Vietnamese Cadman Bible 1934                      | Public Domain |
+| Filename                         | Language              | Format   | Abbrev | Version                                           | License                    |
+|----------------------------------|-----------------------|----------|--------|---------------------------------------------------|----------------------------|
+| sqi-albanian.osis.xml            | Albanian              | OSIS     |        | Albanian Bible                                    | Public Domain              |
+| bul-bulgarian.osis.xml           | Bulgarian             | OSIS     |        | Bulgarian Bible                                   | Public Domain              |
+| chi-cuv.usfx.xml                 | Chinese (Traditional) | USFX     | CUV    | Chinese Union Version                             | Public Domain              |
+| chi-cuv-simp.usfx.xml            | Chinese (Simplified)  | USFX     | CUV    | Chinese Union Version                             | Public Domain              |
+| chr-cherokee.usfx.xml            | Cherokee              | USFX     |        | Cherokee New Testament                            | Public Domain              |
+| cze-bkr.zefania.xml              | Czech                 | Zefania  |        | Bible kralická                                    | Public Domain              |
+| hrv-croatian.osis.xml            | Croatian              | OSIS     |        | Croatian Bible                                    | Public Domain              |
+| dan-danish.osis.xml              | Danish                | OSIS     |        | Danish Bible                                      | Public Domain              |
+| dut-statenvertaling.zefania.xml  | Dutch                 | Zefania  |        | Statenvertaling (1637)                            | Public Domain              |
+| eng-asv.zefania.xml              | English               | Zefania  | ASV    | American Standard Version (1901)                  | Public Domain              |
+| eng-bbe.usfx.xml                 | English               | USFX     | BBE    | Bible in Basic English                            | Public Domain              |
+| eng-darby.zefania.xml            | English               | Zefania  | DARBY  | Darby Bible                                       | Public Domain              |
+| eng-dra.zefania.xml              | English               | Zefania  | DRA    | Douay-Rheims 1899 American Edition                | Public Domain              |
+| eng-gb-oeb.osis.xml              | English (UK)          | OSIS     | OEB-CW | Open English Bible, Commonwealth Edition          | Public Domain              |
+| eng-gb-webbe.usfx.xml            | English (UK)          | USFX     | WEBBE  | World English Bible, British Edition              | Public Domain              |
+| eng-kjv.osis.xml                 | English               | OSIS     | KJV    | King James Version                                | Public Domain              |
+| eng-us-oeb.osis.xml              | English (US)          | OSIS     | OEB-US | Open English Bible, US Edition                    | Public Domain              |
+| eng-web.usfx.xml                 | English               | USFX     | WEB    | World English Bible                               | Public Domain              |
+| eng-ylt.zefania.xml              | English               | Zefania  | YLT    | Young's Literal Translation (NT only)             | Public Domain              |
+| fin-biblia.osis.xml              | Finnish               | OSIS     |        | Finnish Bible                                     | Public Domain              |
+| fra-ostervald.osis.xml           | French                | OSIS     |        | French Ostervald 1996                             | Public Domain              |
+| deu-luther1912.osis.xml          | German                | OSIS     |        | Luther Bible 1912                                 | Public Domain              |
+| grc-septuagint.osis.xml          | Greek                 | OSIS     | LXX    | Septuagint (Greek Old Testament)                  | Public Domain              |
+| heb-leningrad.usfx.xml           | Hebrew                | USFX     |        | Hebrew Leningrad Codex                            | _see below_                |
+| hun-karoli.osis.xml              | Hungarian             | OSIS     |        | Hungarian Károli Bible                            | Public Domain              |
+| ita-riveduta.osis.xml            | Italian               | OSIS     |        | Italian Riveduta Bible 1927                       | Public Domain              |
+| jpn-kougo.osis.xml               | Japanese              | OSIS     |        | Japanese Kougo (Colloquial)                       | Public Domain              |
+| kor-korean.osis.xml              | Korean                | OSIS     |        | Korean Bible                                      | Public Domain              |
+| lat-clementine.usfx.xml          | Latin                 | USFX     |        | Clementine Latin Vulgate                          | Public Domain              |
+| lav-latvian.osis.xml             | Latvian               | OSIS     |        | Latvian Bible                                     | Public Domain              |
+| mri-maori.osis.xml               | Maori                 | OSIS     |        | Maori Bible                                       | Public Domain              |
+| nor-norwegian.osis.xml           | Norwegian             | OSIS     |        | Norwegian Bible                                   | Public Domain              |
+| pol-gdanska.osis.xml             | Polish                | OSIS     |        | Polish Gdańska Bible                              | Public Domain              |
+| por-almeida.usfx.xml             | Portuguese            | USFX     |        | João Ferreira de Almeida                          | Public Domain              |
+| ron-rccv.usfx.xml                | Romanian              | USFX     |        | Protestant Romanian Corrected Cornilescu Version  | Public Domain              |
+| rus-synodal.zefania.xml          | Russian               | Zefania  |        | Russian Synodal Translation                       | Public Domain              |
+| spa-bes.usfx.xml                 | Spanish               | USFX     | SPNBES | La Biblia en Español Sencillo                     | [CC BY 4.0][cc-by-4]       |
+| spa-pddpt.usfx.xml               | Spanish               | USFX     | SPAPDT | Palabra de Dios para ti / God's Word for You      | [CC BY-SA 4.0][cc-by-sa-4] |
+| spa-rv1909.usfx.xml              | Spanish               | USFX     | RV1909 | Reina Valera 1909                                 | Public Domain              |
+| spa-vbl.usfx.xml                 | Spanish               | USFX     | SPNVBL | Versión Biblia Libre / Spanish Free Bible Version | [CC BY-SA 4.0][cc-by-sa-4] |
+| swe-swedish.osis.xml             | Swedish               | OSIS     |        | Swedish Bible                                     | Public Domain              |
+| swa-swahili.osis.xml             | Swahili               | OSIS     |        | Swahili Bible                                     | Public Domain              |
+| tgl-tagalog.osis.xml             | Tagalog               | OSIS     |        | Tagalog Bible (Ang Dating Biblia)                 | Public Domain              |
+| tha-thai.osis.xml                | Thai                  | OSIS     |        | Thai Bible                                        | Public Domain              |
+| tur-turkish.osis.xml             | Turkish               | OSIS     |        | Turkish Bible                                     | Public Domain              |
+| vie-cadman.osis.xml              | Vietnamese            | OSIS     |        | Vietnamese Cadman Bible 1934                      | Public Domain              |
 
 
 ## Translation Details
@@ -146,3 +146,6 @@ Copyright and license notice copied from the above URL as of July 2022:
 The XML files are in a few different (de facto) standard formats, all marked up with XML. There are various tools on the 'net that will let you parse the files and build something cool.
 
 I use these files along with the [bible_parser](https://github.com/seven1m/bible_parser) Ruby gem to build a MySQL database that backs the service [bible-api.com](https://bible-api.com), which is free for everyone to use.
+
+[cc-by-4]: https://creativecommons.org/licenses/by/4.0/
+[cc-by-sa-4]: https://creativecommons.org/licenses/by-sa/4.0/
