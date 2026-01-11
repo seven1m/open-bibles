@@ -8,7 +8,8 @@ Repository of public domain and freely licensed bibles in some standard XML form
 |---------------------------------|--------------|---------|--------|---------------------------------------------------|---------------|
 | sqi-albanian.osis.xml           | Albanian     | OSIS    |        | Albanian Bible                                    | Public Domain |
 | bul-bulgarian.osis.xml          | Bulgarian    | OSIS    |        | Bulgarian Bible                                   | Public Domain |
-| chi-cuv.usfx.xml                | Chinese      | USFX    | CUV    | Chinese Union Version                             | Public Domain |
+| chi-cuv.usfx.xml                | Chinese(Traditional)      | USFX    | CUV    | Chinese Union Version                             | Public Domain |
+| chi-cuv-simp.usfx.xml                | Chinese(Simplified)      | USFX    | CUV    | Chinese Union Version                             | Public Domain |
 | chr-cherokee.usfx.xml           | Cherokee     | USFX    |        | Cherokee New Testament                            | Public Domain |
 | cze-bkr.zefania.xml             | Czech        | Zefania |        | Bible kralická                                    | Public Domain |
 | hrv-croatian.osis.xml           | Croatian     | OSIS    |        | Croatian Bible                                    | Public Domain |
