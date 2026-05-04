@@ -28,7 +28,6 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | fin-biblia.osis.xml              | Finnish               | OSIS     |        | Finnish Bible                                     | Public Domain              |
 | fra-ostervald.osis.xml           | French                | OSIS     |        | French Ostervald 1996                             | Public Domain              |
 | deu-luther1912.osis.xml          | German                | OSIS     |        | Luther Bible 1912                                 | Public Domain              |
-| grc-septuagint.osis.xml          | Greek                 | OSIS     | LXX    | Septuagint (Greek Old Testament)                  | Public Domain              |
 | heb-leningrad.usfx.xml           | Hebrew                | USFX     |        | Hebrew Leningrad Codex                            | _see below_                |
 | hun-karoli.osis.xml              | Hungarian             | OSIS     |        | Hungarian Károli Bible                            | Public Domain              |
 | ita-riveduta.osis.xml            | Italian               | OSIS     |        | Italian Riveduta Bible 1927                       | Public Domain              |
