@@ -3296,7 +3296,7 @@ def main():
         "-o", help="specify output file", metavar="output_file"
     )
     parser.add_argument(
-        "-l", help="specify langauge code", metavar="LANG", default="und"
+        "-l", help="specify language code", metavar="LANG", default="und"
     )
     parser.add_argument(
         "-s", help="sort order", choices=BOOKORDERS, default="canonical"
