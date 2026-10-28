@@ -33,6 +33,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | hun-karoli.osis.xml              | Hungarian             | OSIS     |        | Hungarian Károli Bible                            | Public Domain              |
 | ita-riveduta.osis.xml            | Italian               | OSIS     |        | Italian Riveduta Bible 1927                       | Public Domain              |
 | jpn-kougo.osis.xml               | Japanese              | OSIS     |        | Japanese Kougo (Colloquial)                       | Public Domain              |
+| jpn-bungo.osis.xml               | Japanese              | OSIS     |        | Japanese Bungo (Classical)                        | Public Domain              |
 | kor-korean.osis.xml              | Korean                | OSIS     |        | Korean Bible                                      | Public Domain              |
 | lat-clementine.usfx.xml          | Latin                 | USFX     |        | Clementine Latin Vulgate                          | Public Domain              |
 | lav-latvian.osis.xml             | Latvian               | OSIS     |        | Latvian Bible                                     | Public Domain              |
