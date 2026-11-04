@@ -12,7 +12,6 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | chi-cuv-simp.usfx.xml            | Chinese (Simplified)  | USFX     | CUV    | Chinese Union Version                             | Public Domain              |
 | chr-cherokee.usfx.xml            | Cherokee              | USFX     |        | Cherokee New Testament                            | Public Domain              |
 | cze-bkr.zefania.xml              | Czech                 | Zefania  |        | Bible kralická                                    | Public Domain              |
-| hrv-croatian.osis.xml            | Croatian              | OSIS     |        | Croatian Bible                                    | Public Domain              |
 | dan-danish.osis.xml              | Danish                | OSIS     |        | Danish Bible                                      | Public Domain              |
 | dut-statenvertaling.zefania.xml  | Dutch                 | Zefania  |        | Statenvertaling (1637)                            | Public Domain              |
 | eng-asv.zefania.xml              | English               | Zefania  | ASV    | American Standard Version (1901)                  | Public Domain              |
