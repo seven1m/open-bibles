@@ -4,6 +4,8 @@
 # 2. gunzip bbe.gz
 # 3. ruby bbe.rb > ../eng-bbe.usfx.xml
 
+require 'cgi'
+
 BOOKS = {
   'GEN' => 'Genesis',			
   'EXO' => 'Exodus',			
@@ -85,6 +87,7 @@ lines.each do |line|
   (b, r, text) = line.split(' ', 3)
   (c, v) = r.split(':')
   if b != book
+    puts %(</p></book>) if book
     book = b
     book_id = BOOKS.keys[book_num]
     book_name = BOOKS[book_id]
@@ -93,8 +96,12 @@ lines.each do |line|
     book_num += 1
   end
   if c != chapter
+    puts %(</p>) if chapter
     chapter = c
     puts %(<c id="#{chapter}"/><p>)
   end
-  puts %(<v id="#{v}"/>#{text.strip}<ve/>)
+  puts %(<v id="#{v}"/>#{CGI.escapeHTML(text.strip)}<ve/>)
 end
+
+puts %(</p></book>) if book
+puts %(</usfx>)
