@@ -4,6 +4,13 @@
 # 2. gunzip bbe.gz
 # 3. ruby bbe.rb > ../eng-bbe.usfx.xml
 
+require 'bundler/inline'
+
+gemfile do
+  source 'https://rubygems.org'
+  gem 'builder', '~> 3.3'
+end
+
 BOOKS = {
   'GEN' => 'Genesis',			
   'EXO' => 'Exodus',			
@@ -73,28 +80,34 @@ BOOKS = {
   'REV' => 'Revelation',			
 }
 
-book = nil
-book_num = 0
-chapter = nil
-lines = File.read('bbe').each_line.to_a
-lines.shift if lines.first =~ /Textfile/
+lines = File.readlines('bbe', encoding: 'UTF-8')
+lines.shift if lines.first&.match?(/Textfile/)
+verses = lines.map do |line|
+  book, reference, text = line.split(' ', 3)
+  chapter, verse = reference.split(':')
+  [book, chapter, verse, text.strip]
+end
 
-puts %(<?xml version="1.0" encoding="UTF-8"?><usfx xmlns:xsi="http://eBible.org/usfx.xsd" xsi:noNamespaceSchemaLocation="usfx.xsd"><languageCode>eng</languageCode>)
-
-lines.each do |line|
-  (b, r, text) = line.split(' ', 3)
-  (c, v) = r.split(':')
-  if b != book
-    book = b
-    book_id = BOOKS.keys[book_num]
-    book_name = BOOKS[book_id]
-    chapter = nil
-    puts %(<book id="#{book_id}"><id id="#{book_id}">Bible in Basic English (BBE)</id><ide charset="UTF-8"/><h>#{book_name}</h>)
-    book_num += 1
+xml = Builder::XmlMarkup.new(target: $stdout)
+xml.instruct! :xml, version: '1.0', encoding: 'UTF-8'
+xml.usfx('xmlns:xsi' => 'http://eBible.org/usfx.xsd', 'xsi:noNamespaceSchemaLocation' => 'usfx.xsd') do
+  xml.languageCode 'eng'
+  verses.slice_when { |a, b| a[0] != b[0] }.each_with_index do |book_verses, index|
+    book_id, book_name = BOOKS.to_a.fetch(index)
+    xml.book(id: book_id) do
+      xml.id 'Bible in Basic English (BBE)', id: book_id
+      xml.ide charset: 'UTF-8'
+      xml.h book_name
+      book_verses.slice_when { |a, b| a[1] != b[1] }.each do |chapter_verses|
+        xml.c id: chapter_verses.first[1]
+        xml.p do
+          chapter_verses.each do |_, _, verse, text|
+            xml.v id: verse
+            xml.text! text
+            xml.ve
+          end
+        end
+      end
+    end
   end
-  if c != chapter
-    chapter = c
-    puts %(<c id="#{chapter}"/><p>)
-  end
-  puts %(<v id="#{v}"/>#{text.strip}<ve/>)
 end
