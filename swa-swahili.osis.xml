@@ -23,10 +23,11 @@ United States of America
         <type type='OSIS'>Bible</type>
         <identifier type='OSIS'>SWA</identifier>
         <source>ftp://unboundftp.biola.edu/pub/swahili_nt.zip</source>
+        <source>Matthew 23 restored from https://api.getbible.net/v2/swahili.json (CrossWire Swahili 1.1, Public Domain); SHA-256 199d91ceb532fd0973cf4496502d1a6e15861234700b149d27eaf538cc9cfffa. GBF font tags omitted.</source>
         <language type='IETF'>sw</language>
         <relation/>
         <coverage>provide the bible to the world</coverage>
-        <rights>i think public domain</rights>
+        <rights>Public Domain: https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Swahili</rights>
         <scope/>
         <refSystem>Bible</refSystem>
       </work>
@@ -849,6 +850,47 @@ United States of America
         <verse osisID='Matt.22.44'>`Bwana alimwambia Bwana wangu: keti upande wangu wa kulia, mpaka niwaweke adui zako chini ya miguu yako.`</verse>
         <verse osisID='Matt.22.45'>Basi, ikiwa Daudi anamwita Kristo `Bwana,` anawezaje kuwa mwanawe?"</verse>
         <verse osisID='Matt.22.46'>Hakuna mtu yeyote aliyeweza kumjibu neno. Na tangu siku hiyo hakuna aliyethubutu tena kumwuliza swali.</verse>
+      </chapter>
+      <chapter osisID='Matt.23'>
+        <verse osisID='Matt.23.1'>Kisha Yesu akauambia umati wa watu pamoja na wanafunzi wake,</verse>
+        <verse osisID='Matt.23.2'>"Walimu wa Sheria na Mafarisayo wana mamlaka ya kufafanua Sheria ya Mose.</verse>
+        <verse osisID='Matt.23.3'>Kwa hiyo shikeni na kutekeleza chochote watakachowaambieni. Lakini msiyaige matendo yao, maana hawatekelezi yale wanayoyahubiri.</verse>
+        <verse osisID='Matt.23.4'>Hufunga mizigo mizito na kuwatwika watu mabegani, lakini wao wenyewe hawataki kunyosha hata kidole wapate kuibeba.</verse>
+        <verse osisID='Matt.23.5'>Wao hufanya matendo yao yote ili watu wawaone. Huvaa tepe zenye maandishi ya Sheria juu ya panda la uso na mikononi na hupanua pindo za makoti yao.</verse>
+        <verse osisID='Matt.23.6'>Hupenda nafasi za heshima katika karamu na viti vya heshima katika masunagogi.</verse>
+        <verse osisID='Matt.23.7'>Hupenda kusalimiwa kwa heshima sokoni na kupendelea kuitwa na watu: Mwalimu.</verse>
+        <verse osisID='Matt.23.8'>Lakini ninyi msiitwe kamwe Mwalimu, maana mwalimu wenu ni mmoja tu, nanyi nyote ni ndugu.</verse>
+        <verse osisID='Matt.23.9'>Wala msimwite mtu yeyote Baba hapa duniani, maana Baba yenu ni mmoja tu aliye mbinguni.</verse>
+        <verse osisID='Matt.23.10'>Wala msiitwe Viongozi, maana kiongozi wenu ni mmoja tu, ndiye Kristo.</verse>
+        <verse osisID='Matt.23.11'>Aliye mkubwa miongoni mwenu ni lazima awe mtumishi wenu.</verse>
+        <verse osisID='Matt.23.12'>Anayejikweza atashushwa, na anayejishusha atakwezwa.</verse>
+        <verse osisID='Matt.23.13'>"Ole wenu walimu wa Sheria na Mafarisayo, wanafiki! Mnaufunga mlango wa Ufalme wa mbinguni mbele ya macho ya watu. Ninyi wenyewe hamwingii ndani, wala hamwaruhusu wanaotaka kuingia waingie.</verse>
+        <verse osisID='Matt.23.14'>Ole wenu walimu wa Sheria na Mafarisayo, wanafiki! Mnawanyonya wajane na kujisingizia kuwa watu wema kwa kusali sala ndefu. Kwa sababu hiyo mtapata adhabu kali.</verse>
+        <verse osisID='Matt.23.15'>"Ole wenu walimu wa Sheria na Mafarisayo, wanafiki! Mnasafiri baharini na nchi kavu ili kumpata mtu mmoja afuate dini yenu. Mnapompata, mnamfanya astahili maradufu kwenda katika moto wa Jehanamu kuliko ninyi wenyewe.</verse>
+        <verse osisID='Matt.23.16'>"Ole wenu viongozi vipofu! Ninyi mwasema ati mtu akiapa kwa Hekalu, kiapo hicho si kitu; lakini akiapa kwa dhahabu ya Hekalu, kiapo hicho kinamshika.</verse>
+        <verse osisID='Matt.23.17'>Enyi vipofu wapumbavu! Kipi kilicho cha maana zaidi: dhahabu au Hekalu linalofanya hiyo dhahabu kuwa takatifu?</verse>
+        <verse osisID='Matt.23.18'>Tena mwasema ati mtu akiapa kwa madhabahu si kitu; lakini akiapa kwa zawadi iliyowekwa juu ya madhabahu, kiapo hicho humshika.</verse>
+        <verse osisID='Matt.23.19'>Enyi vipofu! Ni kipi kilicho cha maana zaidi: ile zawadi, au madhabahu ambayo hufanya hiyo zawadi kuwa takatifu?</verse>
+        <verse osisID='Matt.23.20'>Anayeapa kwa madhabahu ameapa kwa hiyo madhabahu, na kwa chochote kilichowekwa juu yake.</verse>
+        <verse osisID='Matt.23.21'>Na anayeapa kwa Hekalu ameapa kwa hilo Hekalu na pia kwa yule akaaye ndani yake.</verse>
+        <verse osisID='Matt.23.22'>Na anayeapa kwa mbingu ameapa kwa kiti cha enzi cha Mungu, na kwa huyo aketiye juu yake.</verse>
+        <verse osisID='Matt.23.23'>Ole wenu walimu wa Sheria na Mafarisayo, wanafiki! Mnatoza watu zaka, hata juu ya majani yenye harufu nzuri, bizari na jira, na huku mnaacha mambo muhimu ya Sheria kama vile haki, huruma na imani. Haya ndiyo hasa mliyopaswa kuyazingatia bila kusahau yale mengine.</verse>
+        <verse osisID='Matt.23.24'>Viongozi vipofu! Mnatoa nzi katika kinywaji, lakini mnameza ngamia!</verse>
+        <verse osisID='Matt.23.25'>"Ole wenu walimu wa Sheria na Mafarisayo, wanafiki! Mnasafisha kikombe na bakuli kwa nje, lakini ndani mnaacha kumejaa vitu mlivyopata kwa unyang'anyi na uchoyo.</verse>
+        <verse osisID='Matt.23.26'>Mfarisayo kipofu! Kisafishe kikombe ndani kwanza na nje kutakuwa safi pia.</verse>
+        <verse osisID='Matt.23.27'>"Ole wenu walimu wa Sheria na Mafarisayo, wanafiki! Mko kama makaburi yaliyopakwa chokaa ambayo kwa nje yanaonekana kuwa mazuri, lakini ndani yamejaa mifupa ya maiti na kila namna ya uchafu.</verse>
+        <verse osisID='Matt.23.28'>Hali kadhalika ninyi mnaonekana na watu kwa nje kuwa wema, lakini kwa ndani mmejaa unafiki na uovu.</verse>
+        <verse osisID='Matt.23.29'>"Ole wenu walimu wa Sheria na Mafarisayo, wanafiki! Mnajenga makaburi ya manabii na kuyapamba makaburi ya watu wema.</verse>
+        <verse osisID='Matt.23.30'>Mwasema: Kama sisi tungaliishi nyakati za wazee wetu hatungalishirikiana nao katika mauaji ya manabii!</verse>
+        <verse osisID='Matt.23.31'>Hivyo mnathibitisha ninyi wenyewe kwamba ninyi ni watoto wa watu waliowaua manabii.</verse>
+        <verse osisID='Matt.23.32'>Haya, kamilisheni ile kazi wazee wenu waliyoianza!</verse>
+        <verse osisID='Matt.23.33'>Enyi kizazi cha nyoka wenye sumu! Mnawezaje kuiepa hukumu ya moto wa Jehanamu?</verse>
+        <verse osisID='Matt.23.34'>Ndiyo maana mimi ninawapelekea ninyi manabii, watu wenye hekima na walimu; mtawaua na kuwasulubisha baadhi yao, na wengine mtawapiga viboko katika masunagogi yenu na kuwasaka katika kila mji.</verse>
+        <verse osisID='Matt.23.35'>Hivyo lawama yote itawapateni kwa ajili ya damu yote ya watu wema iliyomwagwa juu ya ardhi. Naam, tangu kuuawa kwa Abeli ambaye hakuwa na hatia, mpaka kuuawa kwa Zakariya, mwana wa Barakia, ambaye mlimuua Hekaluni kati ya patakatifu na madhabahu.</verse>
+        <verse osisID='Matt.23.36'>Nawaambieni kweli, kizazi hiki kitapata adhabu kwa sababu ya mambo haya.</verse>
+        <verse osisID='Matt.23.37'>"Yerusalemu, Ee Yerusalemu! Unawaua manabii na kuwapiga mawe wale waliotumwa kwako. Mara ngapi nimejaribu kuwakusanya watoto wako kwangu, kama vile kuku anavyokusanya vifaranga vyake chini ya mabawa yake, lakini hukutaka.</verse>
+        <verse osisID='Matt.23.38'>Haya basi, nyumba yako itaachwa mahame.</verse>
+        <verse osisID='Matt.23.39'>Nakwambia kweli, hutaniona tena mpaka wakati utakaposema: Abarikiwe huyo ajaye kwa jina la Bwana."</verse>
       </chapter>
       <chapter osisID='Matt.24'>
         <verse osisID='Matt.24.1'>Yesu alitoka Hekaluni, na alipokuwa akienda zake, wanafunzi wake walimwendea, wakamwonyesha majengo ya Hekalu.</verse>
@@ -3977,8 +4019,8 @@ United States of America
         <verse osisID='Acts.1.18'>"Mnajua kwamba yeye alinunua shamba kwa zile fedha alizopata kutokana na kitendo chake kiovu. Akaanguka chini, akapasuka na matumbo yake yakamwagika nje.</verse>
         <verse osisID='Acts.1.19'>Kila mtu katika Yerusalemu alisikia habari za tukio hilo na hivyo, kwa lugha yao, wakaliita lile shamba `Hekeli Dama`, maana yake, `Shamba la Damu.`)</verse>
         <verse osisID='Acts.1.20'>Basi, imeandikwa katika kitabu cha Zaburi: `Nyumba yake ibaki mahame; mtu yeyote asiishi ndani yake.` Tena imeandikwa: `Mtu mwingine achukue nafasi yake katika huduma hiyo.`</verse>
-        <verse osisID='Acts.1.21'>Kwa hiyo, ni lazima mtu mwingine ajiunge nasi kama shahidi wa ufufuo wake Bwana Yesu. Anapaswa kuwa mmoja wa wale waliokuwa katika kundi letu wakati wote Bwana alipokuwa anasafiri pamoja nasi, tangu wakati Yohane alipokuwa anabatiza mpaka siku ile Yesu alipochukuliwa kutoka kwetu kwenda mbinguni."</verse>
-        <verse osisID='Acts.1.22'>[]</verse>
+        <verse osisID='Acts.1.21'>Kwa hiyo, ni lazima mtu mwingine ajiunge nasi kama shahidi wa ufufuo wake Bwana Yesu.</verse>
+        <verse osisID='Acts.1.22'>Anapaswa kuwa mmoja wa wale waliokuwa katika kundi letu wakati wote Bwana alipokuwa anasafiri pamoja nasi, tangu wakati Yohane alipokuwa anabatiza mpaka siku ile Yesu alipochukuliwa kutoka kwetu kwenda mbinguni."</verse>
         <verse osisID='Acts.1.23'>Basi, wakataja majina ya watu wawili; wa kwanza Yosefu aliyeitwa Barsaba (au pia Yusto), na wa pili Mathia.</verse>
         <verse osisID='Acts.1.24'>Kisha wakasali: "Bwana, wewe unajua mioyo ya watu wote. Hivyo, utuonyeshe ni yupi kati ya hawa wawili uliyemchagua</verse>
         <verse osisID='Acts.1.25'>ili achukue nafasi hii ya huduma ya kitume aliyoacha Yuda akaenda mahali pake mwenyewe."</verse>
@@ -4451,14 +4493,14 @@ United States of America
         <verse osisID='Acts.13.29'>Na baada ya kutekeleza yote yaliyokuwa yameandikwa kumhusu yeye, walimshusha kutoka msalabani, wakamweka kaburini.</verse>
         <verse osisID='Acts.13.30'>Lakini Mungu alimfufua kutoka wafu.</verse>
         <verse osisID='Acts.13.31'>Naye, kwa siku nyingi aliwatokea wale waliofuatana naye kutoka Galilaya mpaka Yerusalemu. Hao ndio walio sasa mashahidi wake kwa watu wa Israeli.</verse>
-        <verse osisID='Acts.13.32'>Sisi tumekuja hapa kuwaleteeni Habari Njema: jambo lile Mungu alilowaahidia babu zetu amelitimiza sasa kwa ajili yetu sisi tulio wajukuu wao kwa kumfufua Yesu kutoka wafu. Kama ilivyoandikwa katika zaburi ya pili: `Wewe ni Mwanangu, mimi leo nimekuwa baba yako.`</verse>
-        <verse osisID='Acts.13.33'>[]</verse>
+        <verse osisID='Acts.13.32'>Sisi tumekuja hapa kuwaleteeni Habari Njema: jambo lile Mungu alilowaahidia babu zetu amelitimiza sasa kwa ajili yetu sisi tulio wajukuu wao kwa kumfufua Yesu kutoka wafu.</verse>
+        <verse osisID='Acts.13.33'>Kama ilivyoandikwa katika zaburi ya pili: `Wewe ni Mwanangu, mimi leo nimekuwa baba yako.`</verse>
         <verse osisID='Acts.13.34'>Na juu ya kumfufua kutoka wafu, asipate tena kurudi huko na kuoza, Mungu alisema hivi: `Nitakupa baraka takatifu na za kweli nilizomwahidia Daudi.`</verse>
         <verse osisID='Acts.13.35'>Naam, na katika sehemu nyingine za zaburi asema: `Hutamwacha Mtakatifu wako aoze.`</verse>
         <verse osisID='Acts.13.36'>Sasa, Daudi mwenyewe alitimiza mapenzi ya Mungu wakati wake; kisha akafa na kuzikwa karibu na wazee wake, na mwili wake ukaoza.</verse>
         <verse osisID='Acts.13.37'>Lakini yule ambaye Mungu alimfufua kutoka wafu hakupata kuoza.</verse>
-        <verse osisID='Acts.13.38'>Jueni wazi, ndugu zangu, kwamba ujumbe kuhusu kusamehewa dhambi unahubiriwa kwenu kwa njia ya Yesu Kristo; na ya kwamba kila mmoja anayemwamini Yesu anasamehewa dhambi zote, jambo ambalo halingewezekana kwa njia ya Sheria ya Mose.</verse>
-        <verse osisID='Acts.13.39'>[]</verse>
+        <verse osisID='Acts.13.38'>Jueni wazi, ndugu zangu, kwamba ujumbe kuhusu kusamehewa dhambi unahubiriwa kwenu kwa njia ya Yesu Kristo;</verse>
+        <verse osisID='Acts.13.39'>na ya kwamba kila mmoja anayemwamini Yesu anasamehewa dhambi zote, jambo ambalo halingewezekana kwa njia ya Sheria ya Mose.</verse>
         <verse osisID='Acts.13.40'>Jihadharini basi, msije mkapatwa na yale yaliyosemwa na manabii:</verse>
         <verse osisID='Acts.13.41'>`Sikilizeni enyi wenye madharau, shangaeni mpotee! Kwa maana kitu ninachofanya sasa, nyakati zenu, ni kitu ambacho hamtakiamini hata kama mtu akiwaelezeni."`</verse>
         <verse osisID='Acts.13.42'>Paulo na Barnaba walipokuwa wanatoka katika ile sunagogi, wale watu waliwaalika waje tena siku ya Sabato iliyofuata, waongee zaidi juu ya mambo hayo.</verse>
@@ -7477,8 +7519,8 @@ United States of America
         <verse osisID='Jas.1.4'>Muwe na hakika kwamba uvumilivu wenu utawategemeza mpaka mwisho, mpate kuwa wakamilifu na watimilifu, bila kupungukiwa chochote.</verse>
         <verse osisID='Jas.1.5'>Lakini kama mmoja wenu ametindikiwa hekima, basi, anapaswa kumwomba Mungu ambaye atampatia; kwani Mungu huwapa wote kwa wingi na kwa ukarimu.</verse>
         <verse osisID='Jas.1.6'>Lakini anapaswa kuomba kwa imani bila mashaka yoyote. Mtu aliye na mashaka ni kama mawimbi ya bahari ambayo husukumwa na kutupwatupwa na upepo.</verse>
-        <verse osisID='Jas.1.7'>Mtu wa namna hiyo, mwenye nia mbili na asiye na msimamo katika mwenendo wake wote, asidhani ya kwamba atapata chochote kile kutoka kwa Bwana.</verse>
-        <verse osisID='Jas.1.8'>[]</verse>
+        <verse osisID='Jas.1.7'>Mtu wa namna hiyo, mwenye nia mbili na asiye na msimamo katika mwenendo wake wote,</verse>
+        <verse osisID='Jas.1.8'>asidhani ya kwamba atapata chochote kile kutoka kwa Bwana.</verse>
         <verse osisID='Jas.1.9'>Ndugu aliye maskini anapaswa kufurahi wakati Mungu anapomkweza,</verse>
         <verse osisID='Jas.1.10'>naye tajiri anapaswa kufurahi anaposhushwa na Mungu. Maana tajiri atatoweka kama ua la porini.</verse>
         <verse osisID='Jas.1.11'>Jua huchomoza na kwa joto lake kali hukausha mimea, nayo maua yake huanguka, na uzuri wake wote huharibika. Vivyo hivyo, tajiri ataangamizwa katika shughuli zake.</verse>
@@ -8006,9 +8048,9 @@ United States of America
         <verse osisID='Rev.2.23'>Tena nitawaua wafuasi wake, ili makanisa yote yatambue kwamba mimi ndiye ninayechunguza mioyo na fikira za watu.</verse>
         <verse osisID='Rev.2.24'>"Lakini ninyi wengine mlioko huko Thuatira ambao hamfuati mafundisho yake Yezabeli, na ambao hamkujifunza kile wanachokiita `Siri ya Shetani`, nawaambieni kwamba sitawapeni mzigo mwingine.</verse>
         <verse osisID='Rev.2.25'>Lazima mzingatie yale mliyo nayo sasa mpaka nitakapokuja.</verse>
-        <verse osisID='Rev.2.26'>"Wanaoshinda, na wale watakaozingatia mpaka mwisho kutenda ninayotaka, nitawapa mamlaka juu ya mataifa. Naam, nitawapa uwezo uleule nilioupokea kwa Baba: yaani, watayatawala mataifa kwa fimbo ya chuma na kuyavunjavunja kama chombo cha udongo. Tena nitawapa nyota ya asubuhi.</verse>
-        <verse osisID='Rev.2.27'>[]</verse>
-        <verse osisID='Rev.2.28'>[]</verse>
+        <verse osisID='Rev.2.26'>"Wanaoshinda, na wale watakaozingatia mpaka mwisho kutenda ninayotaka, nitawapa mamlaka juu ya mataifa.</verse>
+        <verse osisID='Rev.2.27'>Naam, nitawapa uwezo uleule nilioupokea kwa Baba: yaani, watayatawala mataifa kwa fimbo ya chuma na kuyavunjavunja kama chombo cha udongo.</verse>
+        <verse osisID='Rev.2.28'>Tena nitawapa nyota ya asubuhi.</verse>
         <verse osisID='Rev.2.29'>"Aliye na masikio, basi, na ayasikie yale Roho anayoyaambia makanisa!</verse>
       </chapter>
       <chapter osisID='Rev.3'>
