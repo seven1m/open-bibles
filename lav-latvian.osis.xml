@@ -18,10 +18,11 @@
         <type type='OSIS'>Bible</type>
         <identifier type='OSIS'>LATV</identifier>
         <source>ftp://unboundftp.biola.edu/pub/latvian_nt_utf8.zip</source>
+        <source>Restored passages: https://api.getbible.net/v2/latvian.json; SHA-256 6285327993c4f9bfd92622709329f6ad7417f5b2c8f2e77f57415597dcf8fd73</source>
         <language type='IETF'>lv</language>
         <relation/>
         <coverage>provide the bible to the world</coverage>
-        <rights>I think public domain</rights>
+        <rights>Public Domain (CCEL Latvian translation metadata: https://www.ccel.org/ccel/bible/lv.xml)</rights>
         <scope/>
         <refSystem>Bible</refSystem>
       </work>
@@ -932,6 +933,7 @@
         <verse osisID='Matt.24.45'>Kā tev šķiet, kurš ir uzticīgais un gudrais kalps, ko kungs iecēla pār savu saimi, lai viņiem dotu barību īstā laikā?</verse>
         <verse osisID='Matt.24.46'>Bet ja ļaunais kalps sacīs savā sirdī: mans kungs kavējas nākt,</verse>
         <verse osisID='Matt.24.47'>Patiesi es jums saku: Viņš to iecels pār visiem saviem īpašumiem.</verse>
+        <verse osisID='Matt.24.48'>Bet ja ļaunais kalps sacīs savā sirdī: mans kungs kavējas nākt,</verse>
         <verse osisID='Matt.24.49'>Un iesāks sist savus līdzdarbiniekus, un ēdīs, un dzers ar plītniekiem,</verse>
         <verse osisID='Matt.24.50'>Tad šī kalpa kungs nāks tādā dienā, kad viņš to negaida, un stundā, kuru nezina.</verse>
         <verse osisID='Matt.24.51'>Un viņš to satrieks un dos tam kopalgu ar liekuļiem: tur būs raudāšana un zobu griešana.</verse>
@@ -1153,6 +1155,53 @@
       </chapter>
     </div>
     <div type='book' osisID='Mark'>
+      <chapter osisID='Mark.1'>
+        <verse osisID='Mark.1.1'>Jēzus Kristus, Dieva Dēla, Evaņģēlija sākums.</verse>
+        <verse osisID='Mark.1.2'>Kā pravietis Isajs ir rakstījis: Lūk, es sūtu savu eņģeli Tava vaiga priekšā, kas sataisīs Tavā priekšā ceļu.</verse>
+        <verse osisID='Mark.1.3'>Saucēja balss tuksnesī: Sataisiet Kungam ceļu, dariet taisnas Viņa tekas!</verse>
+        <verse osisID='Mark.1.4'>Jānis bija tuksnesī. Viņš kristīja un sludināja grēku nožēlošanas kristību grēku piedošanai.</verse>
+        <verse osisID='Mark.1.5'>Un visa Jūdejas zeme un visi jeruzalemieši izgāja pie viņa, izsūdzēja savus grēkus, un viņš tos kristīja Jordānas upē.</verse>
+        <verse osisID='Mark.1.6'>Un Jānis bija ģērbies kamieļa spalvas drēbēs, un ādas josta bija ap viņa gurniem. Viņš ēda siseņus un meža medu un sludināja, sacīdams:</verse>
+        <verse osisID='Mark.1.7'>Pēc manis nāks spēcīgāks par mani; es neesmu cienīgs noliecies atraisīt Viņa kurpju siksnas.</verse>
+        <verse osisID='Mark.1.8'>Es jūs kristīju ar ūdeni, bet Viņš jūs kristīs ar Svēto Garu.</verse>
+        <verse osisID='Mark.1.9'>Un notika, ka tanīs dienās Jēzus no Nācaretes ienāca Galilejā; un Jānis Viņu kristīja Jordānā.</verse>
+        <verse osisID='Mark.1.10'>Un tūdaļ, izkāpdams no ūdens, viņš redzēja atvērtas debesis un Svēto Garu baloža veidā nolaižamies un paliekam pār Viņu.</verse>
+        <verse osisID='Mark.1.11'>Un balss atskanēja no debesīm: Tu esi mans mīļais Dēls; pie Tevis man labpatikšana.</verse>
+        <verse osisID='Mark.1.12'>Un Gars Viņu tūdaļ aizveda tuksnesī.</verse>
+        <verse osisID='Mark.1.13'>Un Viņš bija tuksnesī četrdesmit dienas un četrdesmit naktis un tika sātana kārdināts; un Viņš bija pie zvēriem, un eņģeļi Viņam kalpoja.</verse>
+        <verse osisID='Mark.1.14'>Bet pēc tam, kad Jānis bija nodots, Jēzus atnāca uz Galileju, sludinādams Dieva valstības evaņģēliju.</verse>
+        <verse osisID='Mark.1.15'>Un Viņš sacīja, ka laiks piepildījies, un Dieva valstība tuvu klāt; gandariet par grēkiem un ticiet evaņģēlijam!</verse>
+        <verse osisID='Mark.1.16'>Un Viņš, iedams gar Galilejas jūru, redzēja Sīmani un tā brāli Andreju, tīklus jūrā metam, jo tie bija zvejnieki.</verse>
+        <verse osisID='Mark.1.17'>Un Jēzus viņiem sacīja: Sekojiet man, un es padarīšu, ka jūs būsiet cilvēku zvejnieki.</verse>
+        <verse osisID='Mark.1.18'>Un tūdaļ tie atstāja tīklus un sekoja Viņam.</verse>
+        <verse osisID='Mark.1.19'>Un pagājis nedaudz tālāk, Viņš redzēja Jēkabu, Zebedeja dēlu, un tā brāli Jāni, kas laivā lāpīja tīklus.</verse>
+        <verse osisID='Mark.1.20'>Un tūdaļ Viņš tos aicināja. Un tie, atstājuši savu tēvu Zebedeju ar algādžiem laivā, sekoja Viņam.</verse>
+        <verse osisID='Mark.1.21'>Un tie iegāja Kafarnaumā, un Viņš tūdaļ sabatā iegāja sinagogā un mācīja tos.</verse>
+        <verse osisID='Mark.1.22'>Un tie brīnījās par Viņa mācību, jo Viņš mācīja kā tāds, kam ir vara, un ne tā kā rakstu mācītāji.</verse>
+        <verse osisID='Mark.1.23'>Un viņu sinagogā bija nešķīstā gara apsēsts cilvēks; un viņš kliedza,</verse>
+        <verse osisID='Mark.1.24'>Sacīdams: Kas mums ar Tevi, Jēzu Nācarieti? Vai Tu esi atnācis mūs nomaitāt? Es zinu, kas Tu esi, Dieva Svētais!</verse>
+        <verse osisID='Mark.1.25'>Un Jēzus tam piedraudēja, sacīdams: Ciet klusu un izej no šī cilvēka!</verse>
+        <verse osisID='Mark.1.26'>Un nešķīstais gars, raustīdams viņu un kliegdams stiprā balsī, izgāja no tā.</verse>
+        <verse osisID='Mark.1.27'>Un visi brīnījās, viens otram jautādami un sacīdami: Kas ir tas? Kas tā par jaunu mācību, jo Viņam vara ļaunajiem gariem pavēlēt? Un tie Viņam paklausa.</verse>
+        <verse osisID='Mark.1.28'>Un Viņa cildināšana tūdaļ izpaudās visā Galilejas zemē.</verse>
+        <verse osisID='Mark.1.29'>Un nekavējoties viņi izgāja no sinagogas un kopā ar Jēkabu un Jāni gāja Pētera un Andreja namā.</verse>
+        <verse osisID='Mark.1.30'>Bet Sīmaņa sievasmāte gulēja drudzī, un tūdaļ tie pateica Viņam to.</verse>
+        <verse osisID='Mark.1.31'>Un Viņš piegāja un, paņēmis aiz rokas, piecēla to. Un tūdaļ drudzis viņu atstāja; un tā kalpoja viņiem.</verse>
+        <verse osisID='Mark.1.32'>Bet pie Viņa, vakaram iestājoties, kad saule bija norietējusi, atnesa visus slimniekus un ļaunā gara apsēstos.</verse>
+        <verse osisID='Mark.1.33'>Un visa pilsēta sapulcējās durvju priekšā.</verse>
+        <verse osisID='Mark.1.34'>Un Viņš daudzus izdziedināja, kas sirga ar dažādām slimībām; un Viņš izdzina daudz ļauno garu; un Viņš neļāva tiem runāt, jo tie Viņu pazina.</verse>
+        <verse osisID='Mark.1.35'>Un ļoti agri uzcēlies, Viņš izgāja un aizgāja tuksnešainā vietā; tur Viņš lūdza Dievu.</verse>
+        <verse osisID='Mark.1.36'>Un Sīmanis un tie, kas ar Viņu bija, sekoja Viņam.</verse>
+        <verse osisID='Mark.1.37'>Un kad tie Viņu atrada, tie sacīja Viņam: Visi Tevi meklē.</verse>
+        <verse osisID='Mark.1.38'>Un Viņš sacīja tiem: Iesim tuvējos ciemos un pilsētās, lai es tur sludinātu, jo tāpēc es esmu atnācis.</verse>
+        <verse osisID='Mark.1.39'>Un Viņš sludināja viņu sinagogās un visā Galilejā un izdzina ļaunos garus.</verse>
+        <verse osisID='Mark.1.40'>Un kāds spitālīgs atnāca pie Viņa un, ceļos nometies, lūdza Viņu, sacīdams Viņam: Ja Tu vēlies, Tu vari mani šķīstīt.</verse>
+        <verse osisID='Mark.1.41'>Bet Jēzus apžēlojās par to; Viņš izstiepa savu roku, pieskārās viņam un sacīja tam: Es gribu, topi šķīsts!</verse>
+        <verse osisID='Mark.1.42'>Un kad Viņš to pateica, tūdaļ spitālība no tā nozuda; un viņš kļuva tīrs.</verse>
+        <verse osisID='Mark.1.43'>Un Viņš tam piedraudēja un tūlīt to aizraidīja.</verse>
+        <verse osisID='Mark.1.44'>Un Viņš sacīja tam: Pielūko, ka tu nevienam nesacītu, bet ej, parādies augstajam priesterim un par savu šķīstīšanu upurē viņiem par liecību, ko Mozus pavēlējis!</verse>
+        <verse osisID='Mark.1.45'>Bet tas izgājis sāka sludināt un šo runu izpaust, tā ka Viņš vairs nevarēja atklāti ieiet pilsētā, bet palika ārpusē, vientuļās vietās. Un tie nāca pie Viņa no visām malām.</verse>
+      </chapter>
       <chapter osisID='Mark.2'>
         <verse osisID='Mark.2.1'>Un pēc dažām dienām Viņš atkal gāja uz Kafarnaumu;</verse>
         <verse osisID='Mark.2.2'>Un, kad kļuva zināms, ka Viņš ir namā, daudzi sapulcējās tā, ka tiem pat durvju priekšā nebija vietas; un Viņš tiem sludināja vārdu.</verse>
@@ -1610,6 +1659,7 @@
         <verse osisID='Mark.12.22'>Līdzīgā kārtā viņu apprecēja visi septiņi, bet pēcnācējus neatstāja. Beidzot pēc visiem nomira arī sieva.</verse>
         <verse osisID='Mark.12.23'>Jo kad tie no miroņiem augšāmcelsies, viņi nedz precēsies, nedz taps precēti, bet būs kā eņģeļi debesīs.</verse>
         <verse osisID='Mark.12.24'>Un Jēzus atbildēja un sacīja viņiem: Vai jūs nemaldāties, nepazīdami nedz Rakstus, nedz Dieva spēku?</verse>
+        <verse osisID='Mark.12.25'>Jo kad tie no miroņiem augšāmcelsies, viņi nedz precēsies, nedz taps precēti, bet būs kā eņģeļi debesīs.</verse>
         <verse osisID='Mark.12.26'>Bet par mirušajiem, ka viņi celsies augšām, vai neesat lasījuši Mozus grāmatā, kā Dievs tam pie ērkšķu krūma runājis, sacīdams: Es esmu Ābrahama Dievs un Īzāka Dievs, un Jēkaba Dievs?</verse>
         <verse osisID='Mark.12.27'>Viņš nav mirušo, bet dzīvo Dievs. Un tā jūs ļoti maldāties.</verse>
         <verse osisID='Mark.12.28'>Un pienāca viens no rakstu mācītājiem, kas bija noklausījies viņu sarunā, un, redzēdams to, ka Viņš labi tiem atbildējis, jautāja Viņam: Kurš ir no visiem augstākais bauslis?</verse>
@@ -4521,7 +4571,8 @@
         <verse osisID='Acts.15.33'>Kad viņi kādu laiku tur bija palikuši, brāļi tos atlaida mierā pie tiem, kas viņus bija sūtījuši.</verse>
         <verse osisID='Acts.15.34'>Tomēr Sīla nolēma palikt tur, bet Jūda aizgāja viens uz Jeruzalemi.</verse>
         <verse osisID='Acts.15.35'>Pāvils un Barnaba uzturējās Antiohijā un kopā ar daudz citiem mācīja un sludināja Kunga vārdu.</verse>
-        <verse osisID='Acts.15.36'>Pēc dažām dienām Pāvils sacīja Barnabam: Atgriezīsimies un apmeklēsim brāļus visās pilsētās, kur sludinājām Kunga vārdu, kā viņiem klājās. &lt;font size=2&gt;&lt;b&gt;37.&lt;/b&gt;&lt;/font&gt;</verse>
+        <verse osisID='Acts.15.36'>Pēc dažām dienām Pāvils sacīja Barnabam: Atgriezīsimies un apmeklēsim brāļus visās pilsētās, kur sludinājām Kunga vārdu, kā viņiem klājās.</verse>
+        <verse osisID='Acts.15.37'>Barnaba gribēja ņemt līdz arī Jāni, kas saucās Marks.</verse>
         <verse osisID='Acts.15.38'>Bet Pāvils lūdza viņu, ka nevajag ņemt, jo tas Pamfilijā nošķīrās no viņiem un negāja līdzi darbā.</verse>
         <verse osisID='Acts.15.39'>Tad radās nesaskaņas, tā ka viņi šķīrās viens no otra: un Barnaba, paņēmis līdz Marku, pārcēlās uz Kipru.</verse>
         <verse osisID='Acts.15.40'>Bet Pāvils, izvēlējies sev Sīlu, devās ceļā, un brāļi to novēlēja Dieva žēlastībai.</verse>
@@ -4853,7 +4904,9 @@
         <verse osisID='Acts.24.22'>Tad Fēlikss, labi šo mācību pazīdams, atlika šo lietu, sacīdams: Es jūs uzklausīšu, kad atnāks priekšnieks Lizijs.</verse>
         <verse osisID='Acts.24.23'>Un viņš pavēlēja virsniekam to apsargāt, dot viņam mieru un neliegt nevienam no savējiem sniegt viņam pakalpojumus.</verse>
         <verse osisID='Acts.24.24'>Pēc dažām dienām atnāca Fēlikss kopā ar Druzillu, savu sievu, kas bija jūdiete, un, ataicinājis Pāvilu, klausījās viņu par ticību uz Jēzu Kristu.</verse>
-        <verse osisID='Acts.24.25'>Kad viņš runāja par taisnību un par šķīstību, un nākamo tiesu, tad Fēlikss pārbijās un atbildēja: Tagad ej! Attiecīgā brīdī es tevi atkal aicināšu. &lt;font size=2&gt;&lt;b&gt;26.</verse>
+        <verse osisID='Acts.24.25'>Kad viņš runāja par taisnību un par šķīstību, un nākamo tiesu, tad Fēlikss pārbijās un atbildēja: Tagad ej! Attiecīgā brīdī es tevi atkal aicināšu.</verse>
+        <verse osisID='Acts.24.26'>Bet viņš turklāt arī cerēja, ka Pāvils viņam dos naudu, tāpēc tas bieži aicināja viņu un runāja ar to.</verse>
+        <verse osisID='Acts.24.27'>Kad divi gadi bija pagājuši, Porcijs Fēsts kļuva Fēliksa pēctecis. Fēlikss, gribēdams jūdiem parādīt labvēlību, atstāja Pāvilu cietumā.</verse>
       </chapter>
       <chapter osisID='Acts.25'>
         <verse osisID='Acts.25.1'>Nonācis šinī apgabalā, Fēsts pēc trim dienām devās no Cēzarejas uz Jeruzalemi.</verse>
