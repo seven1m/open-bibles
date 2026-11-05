@@ -50,7 +50,6 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | swa-swahili.osis.xml             | Swahili               | OSIS     |        | Swahili Bible                                     | Public Domain              |
 | tgl-tagalog.osis.xml             | Tagalog               | OSIS     |        | Tagalog Bible (Ang Dating Biblia)                 | Public Domain              |
 | tha-thai.osis.xml                | Thai                  | OSIS     |        | Thai Bible                                        | Public Domain              |
-| tur-turkish.osis.xml             | Turkish               | OSIS     |        | Turkish Bible                                     | Public Domain              |
 | vie-cadman.osis.xml              | Vietnamese            | OSIS     |        | Vietnamese Cadman Bible 1934                      | Public Domain              |
 
 
