@@ -12,7 +12,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | chi-cuv-simp.usfx.xml            | Chinese (Simplified)  | USFX     | CUV    | Chinese Union Version                             | Public Domain              |
 | chr-cherokee.usfx.xml            | Cherokee              | USFX     |        | Cherokee New Testament                            | Public Domain              |
 | cze-bkr.zefania.xml              | Czech                 | Zefania  |        | Bible kralická                                    | Public Domain              |
-| dan-danish.osis.xml              | Danish                | OSIS     |        | Danish Bible (OT 1931, NT 1907)                     | Public Domain              |
+| dan-danish.osis.xml              | Danish                | OSIS     |        | Danish Bible (OT 1931, NT 1907)                   | Public Domain              |
 | dut-statenvertaling.zefania.xml  | Dutch                 | Zefania  |        | Statenvertaling (1637)                            | Public Domain              |
 | eng-asv.zefania.xml              | English               | Zefania  | ASV    | American Standard Version (1901)                  | Public Domain              |
 | eng-bbe.usfx.xml                 | English               | USFX     | BBE    | Bible in Basic English                            | Public Domain              |
@@ -33,7 +33,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | ita-riveduta.osis.xml            | Italian               | OSIS     |        | Italian Riveduta Bible 1927                       | Public Domain              |
 | jpn-kougo.osis.xml               | Japanese              | OSIS     |        | Japanese Kougo (Colloquial)                       | Public Domain              |
 | jpn-bungo.osis.xml               | Japanese              | OSIS     |        | Japanese Bungo (Classical)                        | Public Domain              |
-| kor-korean.osis.xml              | Korean                | OSIS     |        | Korean Bible                                      | Public Domain              |
+| kor-korean.osis.xml              | Korean                | OSIS     |        | Korean Revised Version (1952/1961)                | Public Domain              |
 | lat-clementine.usfx.xml          | Latin                 | USFX     |        | Clementine Latin Vulgate                          | Public Domain              |
 | lav-latvian.osis.xml             | Latvian               | OSIS     |        | Latvian Bible                                     | Public Domain              |
 | mri-maori.osis.xml               | Maori                 | OSIS     |        | Maori Bible                                       | Public Domain              |
