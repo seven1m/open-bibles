@@ -22,7 +22,6 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | eng-kjv.osis.xml                 | English               | OSIS     | KJV    | King James Version                                | Public Domain              |
 | eng-us-oeb.osis.xml              | English (US)          | OSIS     | OEB-US | Open English Bible, US Edition                    | Public Domain              |
 | eng-web.usfx.xml                 | English               | USFX     | WEB    | World English Bible                               | Public Domain              |
-| eng-ylt.zefania.xml              | English               | Zefania  | YLT    | Young's Literal Translation (NT only)             | Public Domain              |
 | fin-biblia.osis.xml              | Finnish               | OSIS     |        | Finnish Bible                                     | Public Domain              |
 | deu-luther1912.osis.xml          | German                | OSIS     |        | Luther Bible 1912                                 | Public Domain              |
 | heb-leningrad.usfx.xml           | Hebrew                | USFX     |        | Hebrew Leningrad Codex                            | _see below_                |
