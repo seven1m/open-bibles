@@ -18,10 +18,11 @@
         <type type='OSIS'>Bible</type>
         <identifier type='OSIS'>poland</identifier>
         <source>http://acn.waw.pl/biblia/teksty/downloads/pbg-osis.zip</source>
+        <source>Public-domain status: https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=PolGdanska</source>
         <language type='IETF'>pl</language>
         <relation/>
         <coverage>provide the bible to the world</coverage>
-        <rights>I think public domain</rights>
+        <rights>Public Domain</rights>
         <scope/>
         <refSystem>Bible</refSystem>
       </work>
