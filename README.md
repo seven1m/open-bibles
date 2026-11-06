@@ -36,7 +36,6 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | mri-maori.osis.xml               | Maori                 | OSIS     |        | Maori Bible                                       | Public Domain              |
 | nor-norwegian.osis.xml           | Norwegian             | OSIS     |        | Norwegian Bible                                   | Public Domain              |
 | pol-gdanska.osis.xml             | Polish                | OSIS     |        | Polish Gdańska Bible                              | Public Domain              |
-| por-almeida.usfx.xml             | Portuguese            | USFX     |        | João Ferreira de Almeida                          | Public Domain              |
 | ron-rccv.usfx.xml                | Romanian              | USFX     |        | Protestant Romanian Corrected Cornilescu Version  | Public Domain              |
 | rus-synodal.zefania.xml          | Russian               | Zefania  |        | Russian Synodal Translation                       | Public Domain              |
 | spa-bes.usfx.xml                 | Spanish               | USFX     | SPNBES | La Biblia en Español Sencillo                     | [CC BY 4.0][cc-by-4]       |
