@@ -25,10 +25,11 @@ United States of America
         <source>ftp://unboundftp.biola.edu/pub/swedish1917_utf8.zip</source>
         <source>Colossians 3:25 and 4:2-18 restored from https://api.getbible.net/v2/swedish.json (Public Domain; SHA-256 b1887e0e6641593234d786453223df27f470402712454b44bf8a467123c384fc). Split its combined 4:2-3 at the embedded verse marker, verified against Svenska 1917 on Bible Gateway.</source>
         <source>Text and verse-boundary repairs verified against https://runeberg.org/bibeln/ (Swedish 1917 text and 1927 facsimile).</source>
+        <source>Public-domain status: https://runeberg.org/admin/maj94sv.html</source>
         <language type='IETF'>sv</language>
         <relation/>
         <coverage>provide the bible to the world</coverage>
-        <rights>i think public domain</rights>
+        <rights>Public Domain</rights>
         <scope/>
         <refSystem>Bible</refSystem>
       </work>
