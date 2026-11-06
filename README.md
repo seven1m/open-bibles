@@ -32,7 +32,6 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | kor-korean.osis.xml              | Korean                | OSIS     |        | Korean Revised Version (1952/1961)                | Public Domain              |
 | lat-clementine.usfx.xml          | Latin                 | USFX     |        | Clementine Latin Vulgate                          | Public Domain              |
 | lav-latvian.osis.xml             | Latvian               | OSIS     |        | Latvian Bible                                     | Public Domain              |
-| mri-maori.osis.xml               | Maori                 | OSIS     |        | Maori Bible                                       | Public Domain              |
 | nor-norwegian.osis.xml           | Norwegian             | OSIS     |        | Norwegian Bible                                   | Public Domain              |
 | pol-gdanska.osis.xml             | Polish                | OSIS     |        | Polish Gdańska Bible                              | Public Domain              |
 | ron-rccv.usfx.xml                | Romanian              | USFX     |        | Protestant Romanian Corrected Cornilescu Version  | Public Domain              |
