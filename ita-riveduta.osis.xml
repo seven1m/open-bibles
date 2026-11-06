@@ -1,33 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osis xmlns='http://www.bibletechnologies.net/2003/OSIS/namespace' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd'>
-  <osisText osisRefWork='Bible' osisIDWork='IRV_1990' xml:lang='it'>
+  <osisText osisRefWork='Bible' osisIDWork='Riveduta_Luzzi' xml:lang='it'>
     <header>
       <revisionDesc>
         <date>2010-02-26</date>
         <p>initial OSIS 2.1.1 version</p>
       </revisionDesc>
-      <work osisWork='IRV_1990'>
-        <title>Riveduta 1990</title>
+      <work osisWork='Riveduta_Luzzi'>
+        <title>Riveduta (Luzzi, 1924)</title>
         <contributor/>
-        <creator>xxx</creator>
+        <creator>Giovanni Luzzi</creator>
         <creator role='encoder'>ZefToOsis 1.0.0</creator>
         <subject/>
         <date>2009-01-20</date>
-        <description/>
+        <description>Historical Riveduta translation (1924); reprinted in 1990.</description>
         <publisher>FREE BIBLE SOFTWARE GROUP</publisher>
         <type type='OSIS'>Bible</type>
-        <identifier type='OSIS'>IRV_1990</identifier>
-        <source>Internet</source>
+        <identifier type='OSIS'>Riveduta_Luzzi</identifier>
+        <source>https://raw.githubusercontent.com/LPN6/LaParola/4b3a60464f08ca964a4cdc56b0a65f2094d5b467/Testi/Bibbia/italiano/Riveduta%20%28Luzzi%29.xml</source>
         <language type='IETF'>it</language>
         <relation/>
         <coverage>provide the Bible to the nations of the world</coverage>
-        <rights>
-      1990 Italian Riveduta Version
-
-           Copyright (c) 1990
- Societa Biblica Britiannica &amp; Forestriera
-              Rome, Italy
-</rights>
+        <rights>Public Domain</rights>
         <scope/>
         <refSystem>Bible</refSystem>
       </work>
