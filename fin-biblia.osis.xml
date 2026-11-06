@@ -30,6 +30,7 @@
         <type type='OSIS'>Bible</type>
         <identifier type='OSIS'>fin</identifier>
         <source>ftp://unboundftp.biola.edu/pub/finnish1938_utf8.zip</source>
+        <source>2 Chronicles 23:3 restored and 23:4 relabeled from the public-domain FABC 2020.3 edition: https://github.com/amikael/HELFI/blob/534d29f870869027d87680c7586540aed20ae8d4/Finnish1938/fi-FABC-2020m3/14-2x.txt</source>
         <language type='IETF'>fi</language>
         <relation/>
         <coverage>provide the bible to the world</coverage>
@@ -12503,7 +12504,8 @@
       <chapter osisID='2Chr.23'>
         <verse osisID='2Chr.23.1'>Mutta seitsemäntenä vuotena Joojada rohkaisi mielensä ja liittoutui  sadanpäämiesten Asarjan, Jerohamin pojan, Ismaelin, Joohananin pojan,  Asarjan, Oobedin pojan, Maasejan, Adajan pojan, ja Elisafatin, Sikrin  pojan, kanssa.</verse>
         <verse osisID='2Chr.23.2'>Nämä kiertelivät Juudassa ja kokosivat leeviläiset kaikista Juudan  kaupungeista sekä Israelin perhekunta-päämiehet; ja he tulivat  Jerusalemiin.</verse>
-        <verse osisID='2Chr.23.3'>Tehkää näin: Kolmas osa teistä, papeista ja leeviläisistä,   joiden on mentävä vartionpitoon sapattina, olkoon ovenvartijoina kynnyksillä,</verse>
+        <verse osisID='2Chr.23.3'>Ja koko seurakunta teki Jumalan temppelissä liiton kuninkaan kanssa. Joojada sanoi heille: "Katso, kuninkaan poika on tuleva kuninkaaksi, niinkuin Herra on puhunut Daavidin pojista.</verse>
+        <verse osisID='2Chr.23.4'>Tehkää näin: Kolmas osa teistä, papeista ja leeviläisistä,   joiden on mentävä vartionpitoon sapattina, olkoon ovenvartijoina kynnyksillä,</verse>
         <verse osisID='2Chr.23.5'>kolmas osa miehittäköön kuninkaan linnan ja kolmas osa Jesod-portin,  ja koko kansa Herran temppelin esikartanot.</verse>
         <verse osisID='2Chr.23.6'>Älköön kukaan muu kuin papit ja palvelusta tekevät leeviläiset menkö  Herran temppeliin. He saavat mennä sisään, sillä he ovat pyhät, mutta  kaikki muu kansa noudattakoon Herran määräystä.</verse>
         <verse osisID='2Chr.23.7'>Leeviläiset asettukoot kuninkaan ympärille, kullakin ase kädessä; ja  joka tunkeutuu temppeliin, se surmattakoon. Näin olkaa kuninkaan luona,  menköön hän ulos tai sisään."</verse>
