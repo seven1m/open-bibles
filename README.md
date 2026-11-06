@@ -6,7 +6,6 @@ Repository of public domain and freely licensed bibles in some standard XML form
 
 | Filename                         | Language              | Format   | Abbrev | Version                                           | License                    |
 |----------------------------------|-----------------------|----------|--------|---------------------------------------------------|----------------------------|
-| sqi-albanian.osis.xml            | Albanian              | OSIS     |        | Albanian Bible                                    | Public Domain              |
 | chi-cuv.usfx.xml                 | Chinese (Traditional) | USFX     | CUV    | Chinese Union Version                             | Public Domain              |
 | chi-cuv-simp.usfx.xml            | Chinese (Simplified)  | USFX     | CUV    | Chinese Union Version                             | Public Domain              |
 | chr-cherokee.usfx.xml            | Cherokee              | USFX     |        | Cherokee New Testament                            | Public Domain              |
