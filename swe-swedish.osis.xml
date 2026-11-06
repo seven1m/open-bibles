@@ -24,6 +24,7 @@ United States of America
         <identifier type='OSIS'>SVD</identifier>
         <source>ftp://unboundftp.biola.edu/pub/swedish1917_utf8.zip</source>
         <source>Colossians 3:25 and 4:2-18 restored from https://api.getbible.net/v2/swedish.json (Public Domain; SHA-256 b1887e0e6641593234d786453223df27f470402712454b44bf8a467123c384fc). Split its combined 4:2-3 at the embedded verse marker, verified against Svenska 1917 on Bible Gateway.</source>
+        <source>Text and verse-boundary repairs verified against https://runeberg.org/bibeln/ (Swedish 1917 text and 1927 facsimile).</source>
         <language type='IETF'>sv</language>
         <relation/>
         <coverage>provide the bible to the world</coverage>
@@ -2770,10 +2771,10 @@ United States of America
         <verse osisID='Exod.35.32'>både till att tänka ut konstarbeten och till att arbeta i guld, silver och koppar,</verse>
         <verse osisID='Exod.35.33'>till att smida stenar för infattning: och till att snida i trä, korteligen, till att utföra alla slags konstarbeten.</verse>
         <verse osisID='Exod.35.34'>Åt honom och åt Oholiab, Ahisamaks son, av Dans stam, har han ock givit förmåga att undervisa andra.</verse>
-        <verse osisID='Exod.35.35'>Han har uppfyllt deras hjärtan med vishet till att utföra alla slags snideriarbeten och konstvävnader och brokiga vävnader av mörkblått, purpurrött, rosenrött och vitt garn, så ock andra vävnader, korteligen, alla slags arbeten och särskilt konstvävnadsarbeten.  36:1.   den elektroniska utgåvan.</verse>
+        <verse osisID='Exod.35.35'>Han har uppfyllt deras hjärtan med vishet till att utföra alla slags snideriarbeten och konstvävnader och brokiga vävnader av mörkblått, purpurrött, rosenrött och vitt garn, så ock andra vävnader, korteligen, alla slags arbeten och särskilt konstvävnadsarbeten.</verse>
       </chapter>
       <chapter osisID='Exod.36'>
-        <verse osisID='Exod.36.1'>Och Besalel och Oholiab och alla andra konstförfarna män, åt vilka HERREN har givit vishet och förstånd till att veta huru de skola utföra allt arbete vid helgedomens förfärdigande, skola utföra det, i alla stycken såsom HERREN har bjudit.»  Andra Mosebok (Exodus), 36 Kapitlet  Förfärdigandet av tabernaklet, dess täckelse, överdrag, brädställning, förlåt och förhänge.</verse>
+        <verse osisID='Exod.36.1'>Och Besalel och Oholiab och alla andra konstförfarna män, åt vilka HERREN har givit vishet och förstånd till att veta huru de skola utföra allt arbete vid helgedomens förfärdigande, skola utföra det, i alla stycken såsom HERREN har bjudit.»</verse>
         <verse osisID='Exod.36.2'>Därefter kallade Mose till sig Besalel och Oholiab och alla de andra konstförfarna männen, åt vilka HERREN hade givit vishet i hjärtat, alla som av sitt hjärta manades att träda fram för att utföra arbetet.</verse>
         <verse osisID='Exod.36.3'>Och de mottogo från Mose hela den gärd som Israels barn hade burit fram till utförande av arbetet vid helgedomens förfärdigande.  Men man fortfor att bära fram till honom frivilliga gåvor, morgon efter morgon.</verse>
         <verse osisID='Exod.36.4'>Då kommo alla de konstförfarna män som utförde allt arbetet till helgedomen, var och en från det arbete som han utförde,</verse>
@@ -3075,7 +3076,7 @@ United States of America
         <verse osisID='Lev.5.16'>Och han skall giva ersättning för det som han har undanhållit av det helgade och skall lägga femtedelen av värdet därtill; och detta skall han giva åt prästen.  När så prästen bringar försoning för honom genom skuldoffersväduren, då bliver honom förlåtet.</verse>
         <verse osisID='Lev.5.17'>Och om någon, utan att veta det, syndar, i det att han bryter mot något HERRENS bud genom vilket något förbjudes, och han så ådrager sig skuld och bär på missgärning,</verse>
         <verse osisID='Lev.5.18'>så skall han såsom skuldoffer föra fram till prästen av småboskapen en felfri vädur, efter det värde du bestämmer.  När så prästen för honom bringar försoning för den synd han har begått ouppsåtligen och utan att veta det, då bliver honom förlåtet.</verse>
-        <verse osisID='Lev.5.19'>Det är ett skuldoffer, ty han har ådragit sig skuld inför HERREN.  6:1.   6:2.   6:3.   6:4.   6:5.   6:6.   6:7.    den elektroniska utgåvan.</verse>
+        <verse osisID='Lev.5.19'>Det är ett skuldoffer, ty han har ådragit sig skuld inför HERREN.</verse>
       </chapter>
       <chapter osisID='Lev.6'>
         <verse osisID='Lev.6.1'>Och HERREN talade till Mose och sade:</verse>
@@ -3084,7 +3085,7 @@ United States of America
         <verse osisID='Lev.6.4'>så skall den som så har syndat Och därmed ådragit sig skuld återställa vad han med våld har tagit eller med orätt tillägnat sig, eller det som har varit honom ombetrott, eller det borttappade som han har hittat,</verse>
         <verse osisID='Lev.6.5'>eller vad det må vara, varom han har svurit falskt; han skall ersätta det till dess fulla belopp och lägga femtedelen av värdet därtill.  Han skall giva det åt ägaren samma dag han bär fram sitt skuldoffer.</verse>
         <verse osisID='Lev.6.6'>Ty sitt skuldoffer skall han föra fram inför HERREN; en felfri vädur av småboskapen, efter det värde du bestämmer, skall han såsom sitt skuldoffer föra fram till prästen.</verse>
-        <verse osisID='Lev.6.7'>När så prästen bringar försoning för honom inför HERRENS ansikte, då bliver honom förlåtet, vad han än må hava gjort, som har dragit skuld över honom.  Tredje Mosebok (Leviticus), 6 Kapitlet  Tillägg till lagarna om brännoffer, spisoffer och syndoffer. Invigningsoffret.</verse>
+        <verse osisID='Lev.6.7'>När så prästen bringar försoning för honom inför HERRENS ansikte, då bliver honom förlåtet, vad han än må hava gjort, som har dragit skuld över honom.</verse>
         <verse osisID='Lev.6.8'>Och Herren talade till Mose och sade:</verse>
         <verse osisID='Lev.6.9'>Bjud Aron och hans söner och säg: Detta är lagen om brännoffret: Brännoffret skall ligga på altarets härd hela natten intill morgonen, och elden på altaret skall därigenom hållas brinnande.</verse>
         <verse osisID='Lev.6.10'>Och prästen skall ikläda sig sin livrock av linne och ikläda sig benkläder av linne, för att de må skyla hans kött; därefter skall han taga bort askan vartill elden har förbränt brännoffret på altaret, och lägga den vid sidan av altaret.</verse>
@@ -4977,10 +4978,10 @@ United States of America
         <verse osisID='Num.29.36'>Och såsom brännoffer, såsom eldsoffer, skolen I då offra till en välbehaglig lukt för HERREN en tjur, en vädur, sju årsgamla felfria lamm,</verse>
         <verse osisID='Num.29.37'>med det spisoffer och de drickoffer som skola offras till dem, till tjuren, väduren och lammen, efter deras antal, på föreskrivet sätt,</verse>
         <verse osisID='Num.29.38'>tillika också en syndoffersbock -- detta förutom det dagliga brännoffret med tillhörande spisoffer och drickoffer.</verse>
-        <verse osisID='Num.29.39'>Dessa offer skolen I offra åt HERREN vid edra högtider, förutom edra löftesoffer och frivilliga offer, dessa må nu vara brännoffer eller spisoffer eller drickoffer eller tackoffer.  30:1.   den elektroniska utgåvan.</verse>
+        <verse osisID='Num.29.39'>Dessa offer skolen I offra åt HERREN vid edra högtider, förutom edra löftesoffer och frivilliga offer, dessa må nu vara brännoffer eller spisoffer eller drickoffer eller tackoffer.</verse>
       </chapter>
       <chapter osisID='Num.30'>
-        <verse osisID='Num.30.1'>Och Mose sade detta till Israels barn, alldeles såsom HERREN hade bjudit honom.  Fjärde Mosebok (Numeri), 30 Kapitlet  Lagar om löften.</verse>
+        <verse osisID='Num.30.1'>Och Mose sade detta till Israels barn, alldeles såsom HERREN hade bjudit honom.</verse>
         <verse osisID='Num.30.2'>Och Mose talade till Israels barns stamhövdingar och sade: Detta är vad HERREN har bjudit:</verse>
         <verse osisID='Num.30.3'>om någon gör ett löfte åt HERREN, eller svär en ed genom vilken han förbinder sig till återhållsamhet i något stycke, så skall han icke sedan bryta sitt ord; han skall i alla stycken göra vad hans mun har talat.</verse>
         <verse osisID='Num.30.4'>Och om en kvinna, medan hon vistas i sin faders hus och ännu är ung, gör ett löfte åt HERREN och förbinder sig till återhållsamhet i något stycke,</verse>
@@ -9843,7 +9844,7 @@ United States of America
         <verse osisID='1Kgs.12.29'>Och han ställde upp den ena i Betel, och den andra satte han upp i Dan.</verse>
         <verse osisID='1Kgs.12.30'>Detta blev en orsak till synd; folket gick ända till Dan för att träda fram inför den ena av dem.</verse>
         <verse osisID='1Kgs.12.31'>Han byggde också upp offerhöjdshus och gjorde till präster allahanda män ur folket, sådana som icke voro av Levi barn.</verse>
-        <verse osisID='1Kgs.12.32'>Och Jerobeam anordnade en högtid i åttonde månaden, på femtonde dagen i månaden, lik högtiden Juda, och steg då upp till altaret; så gjorde han i Betel för att offra åt de kalvar som han hade låtit göra.  Och de män som han hade gjort till offerhöjdspräster lät han göra tjänst i Betel.  Första Konungaboken, 13 Kapitlet  Gudsmannen från Juda och hans profetia mot altaret i Betel.  Den gamle profeten i Betel och gudsmannens död.  Jerobeams fortsatta försyndelser.</verse>
+        <verse osisID='1Kgs.12.32'>Och Jerobeam anordnade en högtid i åttonde månaden, på femtonde dagen i månaden, lik högtiden Juda, och steg då upp till altaret; så gjorde han i Betel för att offra åt de kalvar som han hade låtit göra.  Och de män som han hade gjort till offerhöjdspräster lät han göra tjänst i Betel.</verse>
         <verse osisID='1Kgs.12.33'>Till det altare som han hade gjort i Betel steg han alltså upp på femtonde dagen i åttonde månaden, den månad som han av eget påfund hade valt.  Han anordnade nämligen då en högtid för Israels barn och steg upp till altaret för att där tända offereld.</verse>
       </chapter>
       <chapter osisID='1Kgs.13'>
@@ -10402,11 +10403,11 @@ United States of America
         <verse osisID='2Kgs.6.30'>När konungen hörde kvinnans ord, rev han sönder sina kläder, där han gick på muren.  Då fick folket se att han hade säcktyg inunder, närmast kroppen.</verse>
         <verse osisID='2Kgs.6.31'>Och han sade: »Gud straffe mig nu och framgent, om Elisas, Safats sons, huvud i dag får sitta kvar på honom.»</verse>
         <verse osisID='2Kgs.6.32'>Så sände han då dit en man före sig, under det att Elisa satt i sitt hus och de äldste sutto där hos honom.  Men innan den utskickade hann fram till honom, sade han till de äldste: »Sen I huru denne mördarson sänder hit en man för att taga mitt huvud? Men sen nu till, att I stängen igen dörren, när den utskickade kommer; och spärren så vägen för honom med den.  Jag hör nu ock ljudet av hans herres steg efter honom.»</verse>
-        <verse osisID='2Kgs.6.33'>Medan han ännu talade med dem, kom den utskickade ned till honom.  Och denne sade: »Se, detta är en olycka som kommer från HERREN; huru skall jag då längre kunna hoppas på HERREN?» 7:1.   7:2.    den elektroniska utgåvan.</verse>
+        <verse osisID='2Kgs.6.33'>Medan han ännu talade med dem, kom den utskickade ned till honom.  Och denne sade: »Se, detta är en olycka som kommer från HERREN; huru skall jag då längre kunna hoppas på HERREN?»</verse>
       </chapter>
       <chapter osisID='2Kgs.7'>
         <verse osisID='2Kgs.7.1'>Men Elisa svarade: »Hören HERRENS ord.  Så säger HERREN: I morgon vid denna tid skall man få ett sea-mått fint mjöl för en sikel, så ock två sea-mått korn för en sikel, i Samarias port.»</verse>
-        <verse osisID='2Kgs.7.2'>Den kämpe vid vilkens hand konungen stödde sig svarade då gudsmannen och sade: »Om HERREN också gjorde fönster på himmelen, huru skulle väl detta kunna ske?»  Han sade: »Du skall få se det med egna ögon, men du skall icke få äta därav.»  Andra Konungaboken, 7 Kapitlet  De spetälska vid Samarias stadsport. Araméernas flykt.  Tvivlarens straff.</verse>
+        <verse osisID='2Kgs.7.2'>Den kämpe vid vilkens hand konungen stödde sig svarade då gudsmannen och sade: »Om HERREN också gjorde fönster på himmelen, huru skulle väl detta kunna ske?»  Han sade: »Du skall få se det med egna ögon, men du skall icke få äta därav.»</verse>
         <verse osisID='2Kgs.7.3'>Utanför stadsporten uppehöllo sig då fyra spetälska män.  Dessa sade till varandra: »Varför skola vi stanna kvar här, till dess vi dö?»</verse>
         <verse osisID='2Kgs.7.4'>Om vi besluta oss för att gå in i staden nu då hungersnöd är i staden, så skola vi dö där, och om vi stanna här, skola vi ock dö.  Välan då, låt oss gå över till araméernas läger; låta de oss leva, så få vi leva, och döda de oss, så må vi dö.»</verse>
         <verse osisID='2Kgs.7.5'>Så stodo de då upp i skymningen för att gå in i araméernas läger.  Men när de kommo till utkanten av araméernas läger, se, då fanns ingen människa där.</verse>
@@ -10554,7 +10555,7 @@ United States of America
         <verse osisID='2Kgs.11.17'>Och Jojada slöt det förbundet mellan HERREN, konungen och folket, att de skulle vara ett HERRENS folk; han slöt ock ett förbund mellan konungen och folket.</verse>
         <verse osisID='2Kgs.11.18'>Och hela folkmängden begav sig till Baals tempel och rev ned det och förstörde i grund dess altaren och dess bilder; och Mattan, Baals präst, dräpte de framför altarna.  Därefter ställde prästen ut vakter vid HERRENS hus.</verse>
         <verse osisID='2Kgs.11.19'>Och han tog med sig underhövitsmännen jämte karéerna och drabanterna och hela folkmängden, och de förde konungen ned från HERRENS hus och gingo in i konungshuset genom Drabantporten; och han satte sig på konungatronen.</verse>
-        <verse osisID='2Kgs.11.20'>Och hela folkmängden gladde sig, och staden förblev lugn.  Men Atalja hade de dödat med svärd i konungshuset.  Andra Konungaboken, 12 Kapitlet  Joas konung i Juda.  Insamling för att sätta templet i stånd.  Hasaels tåg mot Jerusalem.  Joas dödad genom en sammansvärjning.</verse>
+        <verse osisID='2Kgs.11.20'>Och hela folkmängden gladde sig, och staden förblev lugn.  Men Atalja hade de dödat med svärd i konungshuset.</verse>
         <verse osisID='2Kgs.11.21'>Joas var sju år gammal, när han blev konung.</verse>
       </chapter>
       <chapter osisID='2Kgs.12'>
@@ -10869,7 +10870,8 @@ United States of America
         <verse osisID='2Kgs.21.22'>Han övergav HERREN, sina fäders Gud, och vandrade icke på HERRENS väg.</verse>
         <verse osisID='2Kgs.21.23'>Och Amons tjänare sammansvuro sig mot honom och dödade konungen hemma i hans hus.</verse>
         <verse osisID='2Kgs.21.24'>Men folket i landet dräpte alla som hade sammansvurit sig mot konung Amon.  Därefter gjorde folket i landet hans son Josia till konung efter honom.</verse>
-        <verse osisID='2Kgs.21.25'>Vad nu mer är att säga om Amon, om vad han gjorde, det finnes upptecknat i Juda konungars krönika.  Och man begrov honom i hans grav i Ussas trädgård.  Och hans son Josia blev konung efter honom.</verse>
+        <verse osisID='2Kgs.21.25'>Vad nu mer är att säga om Amon, om vad han gjorde, det finnes upptecknat i Juda konungars krönika.</verse>
+        <verse osisID='2Kgs.21.26'>Och man begrov honom i hans grav i Ussas trädgård.  Och hans son Josia blev konung efter honom.</verse>
       </chapter>
       <chapter osisID='2Kgs.22'>
         <verse osisID='2Kgs.22.1'>Josia var åtta år gammal, när han blev konung, och han regerade trettioett år i Jerusalem.  Hans moder hette Jedida, Adajas dotter, från Boskat.</verse>
@@ -13457,7 +13459,7 @@ United States of America
         <verse osisID='Neh.9.34'>Och våra konungar, våra furstar, våra präster och våra fäder hava icke gjort efter din lag och icke aktat på dina bud och på de varningar som du har låtit komma till dem.</verse>
         <verse osisID='Neh.9.35'>Och fastän de sutto i sitt eget rike i det myckna goda som du hade givit dem, och i det rymliga och bördiga land som du hade upplåtit för dem, hava de ändå icke tjänat dig och icke omvänt sig från sina onda gärningar.</verse>
         <verse osisID='Neh.9.36'>Se, vi äro nu andras tjänare; i det land som du gav åt våra fäder, för att de skulle äta dess frukt och dess goda, just där äro vi andras tjänare,</verse>
-        <verse osisID='Neh.9.37'>och sin rika avkastning giver det åt de konungar som du för våra synders skull har satt över oss.  Och de råda över våra kroppar och vår boskap såsom de vilja, och vi äro i stor nöd.»  Nehemja, 10 Kapitlet  Förbundets förnyelse och innehåll.</verse>
+        <verse osisID='Neh.9.37'>och sin rika avkastning giver det åt de konungar som du för våra synders skull har satt över oss.  Och de råda över våra kroppar och vår boskap såsom de vilja, och vi äro i stor nöd.»</verse>
         <verse osisID='Neh.9.38'>På grund av allt detta slöto vi ett fast förbund och uppsatte det skriftligen; och på skrivelsen, som försågs med sigill, stodo våra furstars, våra leviters och våra prästers namn.</verse>
       </chapter>
       <chapter osisID='Neh.10'>
@@ -14883,7 +14885,7 @@ United States of America
         <verse osisID='Job.39.30'>Eller är det på ditt bud som örnen stiger så högt och bygger sitt näste i höjden?</verse>
         <verse osisID='Job.39.31'>På klippan bor han, där har han sitt tillhåll, på klippans spets och på branta berget.</verse>
         <verse osisID='Job.39.32'>Därifrån spanar han efter sitt byte, långt bort i fjärran skådar hans ögon.</verse>
-        <verse osisID='Job.39.33'>Hans ungar frossa på blod, och där slagna ligga, där finner man honom.  Job, 40 Kapitlet  Herren manar Job ytterligare till ödmjukhet, med hänvisning på sina båda underskapelser Behemot (flodhästen) och Leviatan (krokodilen).</verse>
+        <verse osisID='Job.39.33'>Hans ungar frossa på blod, och där slagna ligga, där finner man honom.</verse>
         <verse osisID='Job.39.34'>Så svarade nu HERREN Job och sade:</verse>
         <verse osisID='Job.39.35'>Vill du tvista med den Allsmäktige, du mästare? Svara då, du som så klagar på Gud!</verse>
         <verse osisID='Job.39.36'>Job svarade HERREN och sade:</verse>
@@ -18864,7 +18866,7 @@ United States of America
         <verse osisID='Eccl.4.13'>Bättre är en gammal konung som är dåraktig och ej har förstånd nog att låta varna sig är en fattig yngling med vishet.</verse>
         <verse osisID='Eccl.4.14'>Ty ifrån fängelset gick en gång en sådan till konungavälde, fastän han var född i fattigdom inom den andres rike.</verse>
         <verse osisID='Eccl.4.15'>Jag såg huru alla som levde och rörde sig under solen följde ynglingen, denne nye som skulle träda i den förres ställe;</verse>
-        <verse osisID='Eccl.4.16'>det var ingen ände på hela skaran av alla dem som han gick i spetsen för.  Men ändå hava de efterkommande ingen glädje av honom.  Ty också detta är fåfänglighet och ett jagande efter vind.  Predikaren, 5 Kapitlet  Förhastade löften inför Gud.  Fåfänglig undran; fåfänglig ävlan.</verse>
+        <verse osisID='Eccl.4.16'>det var ingen ände på hela skaran av alla dem som han gick i spetsen för.  Men ändå hava de efterkommande ingen glädje av honom.  Ty också detta är fåfänglighet och ett jagande efter vind.</verse>
         <verse osisID='Eccl.4.17'>Bevara din fot, när du går till Guds hus; att komma dit för att höra är bättre än något slaktoffer som dårarna frambära; ty de äro oförståndiga och göra så vad ont är.</verse>
       </chapter>
       <chapter osisID='Eccl.5'>
@@ -18899,10 +18901,10 @@ United States of America
         <verse osisID='Eccl.6.8'>Ty vad förmån har den vise framför dåren?  Vad båtar det den fattige, om han förstår att skicka sig inför de levande?</verse>
         <verse osisID='Eccl.6.9'>Bättre är att se något för ögonen än att fara efter något med begäret.  Också detta är fåfänglighet och ett jagande efter vind.</verse>
         <verse osisID='Eccl.6.10'>Vad som är, det var redan förut nämnt vid namn; förutbestämt var vad en människa skulle bliva.  Och hon kan icke gå till rätta med honom som är mäktigare än hon själv.</verse>
-        <verse osisID='Eccl.6.11'>Ty om man ock ordar än så mycket och därmed förökar fåfängligheten, vad förmån har man därav? 7:1.    elektroniska utgåvan.</verse>
+        <verse osisID='Eccl.6.11'>Ty om man ock ordar än så mycket och därmed förökar fåfängligheten, vad förmån har man därav?</verse>
       </chapter>
       <chapter osisID='Eccl.7'>
-        <verse osisID='Eccl.7.1'>Ty vem vet vad gott som skall hända en människa i livet, under de fåfängliga livsdagar som hon får framleva, lik en skugga?  Och vem kan säga en människa vad som efter henne skall ske under solen?  Predikaren, 7 Kapitlet  Sorg och glädje, rättfärdighet och orättfärdighet, vishet, kvinnors ondska m. m.</verse>
+        <verse osisID='Eccl.7.1'>Ty vem vet vad gott som skall hända en människa i livet, under de fåfängliga livsdagar som hon får framleva, lik en skugga?  Och vem kan säga en människa vad som efter henne skall ske under solen?</verse>
         <verse osisID='Eccl.7.2'>Bättre är gott namn än god salva, och bättre är dödens dag än födelsedagen.</verse>
         <verse osisID='Eccl.7.3'>Bättre än att gå i gästabudshus är det att gå i sorgehus; ty där är änden för alla människor, och den efterlevande må lägga det på hjärtat.</verse>
         <verse osisID='Eccl.7.4'>Bättre är grämelse än löje, ty av det som gör ansiktet sorgset far hjärtat väl.</verse>
@@ -18968,7 +18970,7 @@ United States of America
         <verse osisID='Eccl.9.13'>Också detta såg jag under solen, ett visdomsverk, som tycktes mig stort:</verse>
         <verse osisID='Eccl.9.14'>Det fanns en liten stad med få invånare, och mot den kom en stor konung och belägrade den och byggde stora bålverk mot den.</verse>
         <verse osisID='Eccl.9.15'>Men därinne fanns en fattig man som var vis; och denne räddade staden genom sin vishet.  Dock, sedan tänkte ingen människa på denne fattige man.</verse>
-        <verse osisID='Eccl.9.16'>Då sade jag: Väl är vishet bättre än styrka, men den fattiges vishet bliver icke föraktad, och hans ord varda icke hörda.  Predikaren, 10 Kapitlet  Levnadsregler och tänkespråk.</verse>
+        <verse osisID='Eccl.9.16'>Då sade jag: Väl är vishet bättre än styrka, men den fattiges vishet bliver icke föraktad, och hans ord varda icke hörda.</verse>
         <verse osisID='Eccl.9.17'>De vises ord, om de ock höras helt stilla, äro förmer än allt ropande av en dårarnas överste.</verse>
         <verse osisID='Eccl.9.18'>Bättre är vishet än krigsredskap; ty en enda som felar kan fördärva mycket gott.</verse>
       </chapter>
@@ -19002,7 +19004,7 @@ United States of America
         <verse osisID='Eccl.11.5'>Lika litet som du vet vart vinden far, eller huru benen bildas i den havandes liv, lika litet förstår du Guds verk, hans som verkar alltsammans.</verse>
         <verse osisID='Eccl.11.6'>Så ut om morgonen din säd, och underlåt det ej heller om aftonen, ty du vet icke vilketdera som är gagneligast, eller om det ena jämte det andra är bäst.</verse>
         <verse osisID='Eccl.11.7'>Och ljuset är ljuvligt, och det är gott för ögonen att få se solen.</verse>
-        <verse osisID='Eccl.11.8'>Ja, om en människa får leva än så många år, så må hon vara glad under dem alla, men betänka, att eftersom mörkrets dagar bliva så många, är ändå allt som händer fåfänglighet.  Predikaren, 12 Kapitlet  Ungdom och ålderdom.  Slutord.</verse>
+        <verse osisID='Eccl.11.8'>Ja, om en människa får leva än så många år, så må hon vara glad under dem alla, men betänka, att eftersom mörkrets dagar bliva så många, är ändå allt som händer fåfänglighet.</verse>
         <verse osisID='Eccl.11.9'>Gläd dig, du yngling, din ungdom, och låt ditt hjärta unna dig fröjd i din ungdomstid; ja, vandra de vägar ditt hjärta lyster och så, som det behagar dina ögon. Men vet att Gud för allt detta skall draga dig till doms.</verse>
         <verse osisID='Eccl.11.10'>Ja, låt grämelse vika ur ditt hjärta, och håll plåga borta från din kropp. Ty ungdom och blomstring är fåfänglighet.</verse>
       </chapter>
@@ -19091,10 +19093,10 @@ United States of America
         <verse osisID='Song.4.13'>Såsom en park av granatträd skjuter du upp, med de ädlaste frukter, med cyperblommor och nardusplantor,</verse>
         <verse osisID='Song.4.14'>med nardus och saffran, kalmus och kanel och rökelseträd av alla slag, med myrra och aloe och de yppersta kryddor av alla slag.</verse>
         <verse osisID='Song.4.15'>Ja, en källa i lustgården är du, en brunn med friskt vatten och ett rinnande flöde ifrån Libanon.»</verse>
-        <verse osisID='Song.4.16'>»Vakna upp, du nordanvind, och kom, du sunnanvind; blås genom min lustgård, låt dess vällukt strömma ut. Må min vän komma till sin lustgård och äta dess ädla frukter.»  5:1.    den elektroniska utgåvan.</verse>
+        <verse osisID='Song.4.16'>»Vakna upp, du nordanvind, och kom, du sunnanvind; blås genom min lustgård, låt dess vällukt strömma ut. Må min vän komma till sin lustgård och äta dess ädla frukter.»</verse>
       </chapter>
       <chapter osisID='Song.5'>
-        <verse osisID='Song.5.1'>»Ja, jag kommer till min lustgård, du min syster, min brud; jag hämtar min myrra och mina välluktande kryddor, jag äter min honungskaka och min honung, jag dricker mitt vin och min mjölk.» ----  Äten, I kära, och dricken, ja, berusen eder av kärlek.  Höga Visan, 5 Kapitlet  Bruden talar v.  2a, anför brudgummens ord v.  2b och sitt svar v.  3, talar vidare v.  4--8.  Jerusalems döttrar tala v.  9, bruden svarar och beskriver sin brudgum för Jerusalems döttrar v. 10--16, Jerusalems döttrar fråga v.  17, bruden svarar 6:1--2.</verse>
+        <verse osisID='Song.5.1'>»Ja, jag kommer till min lustgård, du min syster, min brud; jag hämtar min myrra och mina välluktande kryddor, jag äter min honungskaka och min honung, jag dricker mitt vin och min mjölk.» ----  Äten, I kära, och dricken, ja, berusen eder av kärlek.</verse>
         <verse osisID='Song.5.2'>Jag låg och sov, dock vakade mitt hjärta. Hör, då klappar min vän på dörren:  »Öppna för mig, du min syster, min älskade, min duva, min fromma; ty mitt huvud är fullt av dagg, mina lockar av nattens droppar.»</verse>
         <verse osisID='Song.5.3'>»Jag har lagt av mina kläder; skulle jag nu åter taga dem på mig? Jag har tvagit mina fötter; skulle jag nu orena dem?»</verse>
         <verse osisID='Song.5.4'>Min vän räckte in sin hand genom luckan; då rördes mitt hjärta över honom.</verse>
@@ -19110,11 +19112,11 @@ United States of America
         <verse osisID='Song.5.14'>Hans händer äro tenar av guld, besatta med krysoliter. Hans midja är formad av elfenben, övertäckt med safirer.</verse>
         <verse osisID='Song.5.15'>Hans ben äro pelare av vitaste marmor, som vila på fotstycken av finaste guld. Att se honom är såsom att se Libanon; ståtlig är han såsom en ceder.</verse>
         <verse osisID='Song.5.16'>Hans mun är idel sötma, hela hans väsende är ljuvlighet. Sådan är min vän, ja, sådan är min älskade, I Jerusalems döttrar.»</verse>
-        <verse osisID='Song.5.17'>»Vart har han då gått, din vän, du skönaste bland kvinnor? Vart har din vän tagit vägen? Låt oss hjälpa dig att söka honom.» 6:1.  6:2.   den elektroniska utgåvan.</verse>
+        <verse osisID='Song.5.17'>»Vart har han då gått, din vän, du skönaste bland kvinnor? Vart har din vän tagit vägen? Låt oss hjälpa dig att söka honom.»</verse>
       </chapter>
       <chapter osisID='Song.6'>
         <verse osisID='Song.6.1'>»Min vän har gått ned till sin lustgård, till sina välluktrika blomstersängar, för att låta sin hjord beta i lustgårdarna och för att plocka liljor.</verse>
-        <verse osisID='Song.6.2'>Jag är min väns, och min vän är min, där han för sin hjord i bet ibland liljor.  Höga Visan, 6 Kapitlet  Brudgummen beskriver bruden v.  3--6.  -- Brudgummen jämför sin brud med andra v. 7--8.  -- Brudgummen talar om bruden och sig själv v.  9--11.</verse>
+        <verse osisID='Song.6.2'>Jag är min väns, och min vän är min, där han för sin hjord i bet ibland liljor.</verse>
         <verse osisID='Song.6.3'>Du är skön såsom Tirsa, min älskade, ljuvlig såsom Jerusalem, överväldigande såsom en härskara.</verse>
         <verse osisID='Song.6.4'>Vänd bort ifrån mig dina ögon, ty de hava underkuvat mig. Ditt hår är likt en hjord av getter som strömma nedför Gilead.</verse>
         <verse osisID='Song.6.5'>Dina tänder likna en hjord av tackor, nyss uppkomna ur badet, allasammans med tvillingar, ofruktsam är ingen ibland dem.</verse>
@@ -19123,7 +19125,7 @@ United States of America
         <verse osisID='Song.6.8'>Men en enda är hon, min duva, min fromma, hon, sin moders endaste, hon, sin fostrarinnas utkorade. När jungfrur se henne, prisa de henne säll, drottningar och bihustrur höja hennes lov. ----</verse>
         <verse osisID='Song.6.9'>Vem är hon som där blickar fram lik en morgonrodnad, skön såsom månen, strålande såsom solen, överväldigande såsom en härskara?</verse>
         <verse osisID='Song.6.10'>Till valnötslunden gick jag ned, för att glädja mig åt grönskan i dalen, för att se om vinträden hade slagit ut, om granatträden hade fått blommor.</verse>
-        <verse osisID='Song.6.11'>Oförtänkt satte mig då min kärlek upp på mitt furstefolks vagnar.  Höga Visan, 7 Kapitlet  Den dansande bruden beskrives 6:12--7:5. -- Brudgummen talar om sin kärlek och om bruden v.  6--9a, bruden svarar v. 9b--10.  -- Bruden talar v.  11--13.</verse>
+        <verse osisID='Song.6.11'>Oförtänkt satte mig då min kärlek upp på mitt furstefolks vagnar.</verse>
         <verse osisID='Song.6.12'>»Vänd om, vänd om, du brud från Sulem, vänd om, vänd om, så att vi få se på dig.» »Vad finnen I att se hos bruden från Sulem, där hon rör sig såsom i vapendans?»</verse>
       </chapter>
       <chapter osisID='Song.7'>
@@ -19242,10 +19244,10 @@ United States of America
         <verse osisID='Isa.3.23'>speglar, fina linneskjortor, huvudbindlar och flor.</verse>
         <verse osisID='Isa.3.24'>Och där skall vara stank i stället för vällukt, rep i stället för bälte, skalligt huvud i stället för krusat hår, hölje av säcktyg i stället för högtidsmantel, märken av brännjärn i stället för skönhet.</verse>
         <verse osisID='Isa.3.25'>Dina män skola falla för svärd och dina hjältar i krig:</verse>
-        <verse osisID='Isa.3.26'>hennes portar skola klaga och sörja, och övergiven skall hon sitta på marken.  4:1.    elektroniska utgåvan.</verse>
+        <verse osisID='Isa.3.26'>hennes portar skola klaga och sörja, och övergiven skall hon sitta på marken.</verse>
       </chapter>
       <chapter osisID='Isa.4'>
-        <verse osisID='Isa.4.1'>Och på den tiden skola sju kvinnor fatta i en och samma man och säga: »Vi vilja själva föda oss och själva kläda oss; låt oss allenast få bära ditt namn, och tag så bort vår smälek.»  Jesaja, 4 Kapitlet  Det renade Sions härlighet och trygghet.</verse>
+        <verse osisID='Isa.4.1'>Och på den tiden skola sju kvinnor fatta i en och samma man och säga: »Vi vilja själva föda oss och själva kläda oss; låt oss allenast få bära ditt namn, och tag så bort vår smälek.»</verse>
         <verse osisID='Isa.4.2'>På den tiden skall det som HERREN låter växa bliva till prydnad och härlighet, och vad landet alstrar bliva till berömmelse och ära, för den räddade skaran i Israel.</verse>
         <verse osisID='Isa.4.3'>Och det skall ske att den som lämnas övrig i Sion och den som bliver kvar i Jerusalem, han skall då kallas helig, var och en som är upptecknad till liv i Jerusalem --</verse>
         <verse osisID='Isa.4.4'>när en gång Herren har avtvått Sions döttrars orenlighet och bortsköljt ur Jerusalem dess blodskulder genom rättens och reningens ande.</verse>
@@ -20315,7 +20317,7 @@ United States of America
         <verse osisID='Isa.52.9'>Ja, bristen ut i jubel tillsammans, I Jerusalems ruiner; ty HERREN tröstar sitt folk, han förlossar Israel.</verse>
         <verse osisID='Isa.52.10'>HERREN blottar sin heliga arm inför alla hedningars ögon, och alla jordens ändar få se vår Guds frälsning.</verse>
         <verse osisID='Isa.52.11'>Bort, bort, dragen ut därifrån, kommen icke vid det orent är; dragen ut ifrån henne, renen eder, I som bären HERRENS kärl.</verse>
-        <verse osisID='Isa.52.12'>Se, I behöven icke draga ut med hast, icke vandra bort såsom flyktingar, ty HERREN går framför eder, och Israels Gud slutar edert tåg.  Jesaja, 53 Kapitlet  Herrens tjänares lidande och förhärligande.</verse>
+        <verse osisID='Isa.52.12'>Se, I behöven icke draga ut med hast, icke vandra bort såsom flyktingar, ty HERREN går framför eder, och Israels Gud slutar edert tåg.</verse>
         <verse osisID='Isa.52.13'>Se, min tjänare skall hava framgång; han skall bliva upphöjd och stor och högt uppsatt.</verse>
         <verse osisID='Isa.52.14'>Såsom många häpnade över honom, därför att hans utseende var vanställt mer än andra människors och hans gestalt oansenligare än andra människobarns,</verse>
         <verse osisID='Isa.52.15'>så skall han ock väcka förundran hos många folk; ja, konungar skola förstummas i förundran över honom. Ty vad aldrig har varit förtäljt för dem, det få de se, och vad de aldrig hava hört, det få de förnimma.</verse>
@@ -21388,10 +21390,10 @@ United States of America
         <verse osisID='Jer.30.21'>Hans väldige skall stamma från honom själv, och hans herre skall utgå från honom själv, och honom skall jag låta komma mig nära och nalkas mig; ty vilken annan vill våga sitt liv med att nalkas mig?  säger HERREN.</verse>
         <verse osisID='Jer.30.22'>Och I skolen vara mitt folk och jag skall vara eder Gud.</verse>
         <verse osisID='Jer.30.23'>Se, en stormvind från HERREN är här, hans förtörnelse bryter fram, en härjande storm! Över de ogudaktigas huvuden virvlar den ned.</verse>
-        <verse osisID='Jer.30.24'>HERRENS vredes glöd skall icke upphöra, förrän han har utfört och fullbordat sitt hjärtas tankar; i kommande dagar skolen I förnimma det. 31:1.   för den elektroniska utgåvan.</verse>
+        <verse osisID='Jer.30.24'>HERRENS vredes glöd skall icke upphöra, förrän han har utfört och fullbordat sitt hjärtas tankar; i kommande dagar skolen I förnimma det.</verse>
       </chapter>
       <chapter osisID='Jer.31'>
-        <verse osisID='Jer.31.1'>På den tiden, säger HERREN, skall jag vara alla Israels släkters Gud, och de skola vara mitt folk.  Jeremia, 31 Kapitlet  Israels frälsning i kommande dagar.</verse>
+        <verse osisID='Jer.31.1'>På den tiden, säger HERREN, skall jag vara alla Israels släkters Gud, och de skola vara mitt folk.</verse>
         <verse osisID='Jer.31.2'>Så säger HERREN: Det folk som undslipper svärdet finner nåd i öknen; Israel får draga åstad dit där det får ro.</verse>
         <verse osisID='Jer.31.3'>Fjärran ifrån uppenbarade sig HERREN för mig: »Ja, med evig kärlek har jag älskat dig; därför låter jag min nåd förbliva över dig.</verse>
         <verse osisID='Jer.31.4'>Ännu en gång skall jag upprätta dig, så att du varder upprättad, du jungfru Israel; ännu en gång skall du få utrusta dig med puka och draga ut i dans bland dem som göra sig glada.</verse>
@@ -21636,7 +21638,7 @@ United States of America
         <verse osisID='Jer.38.25'>Och om furstarna få höra att jag har talat med dig, och de komma till dig och säga till dig: 'Låt oss veta vad du har sagt till konungen; dölj intet för oss, så skola vi icke döda dig; säg oss ock vad konungen har sagt till dig' --</verse>
         <verse osisID='Jer.38.26'>då skall du svara dem: 'Jag bönföll inför konungen att han icke skulle sända mig tillbaka till Jonatans hus för att dö där.'»</verse>
         <verse osisID='Jer.38.27'>Och alla furstarna kommo till Jeremia och frågade honom; men han svarade dem alldeles såsom konungen hade bjudit honom.  Då tego de och gingo bort ifrån honom, eftersom ingen hade hört huru det verkligen hade gått till.</verse>
-        <verse osisID='Jer.38.28'>Men Jeremia fick stanna i fängelsegården ända till den dag då Jerusalem blev intaget.  Jeremia, 39 Kapitlet  Uppfyllelse av profetian om Jerusalems förstöring och Sidkias fångenskap. Nebukadressars omvårdnad om Jeremia. Profetia om etiopiern Ebed-Meleks räddning.  Sedan nu Jerusalem hade blivit intaget</verse>
+        <verse osisID='Jer.38.28'>Men Jeremia fick stanna i fängelsegården ända till den dag då Jerusalem blev intaget.  Sedan nu Jerusalem hade blivit intaget</verse>
       </chapter>
       <chapter osisID='Jer.39'>
         <verse osisID='Jer.39.1'>-- efter det att Nebukadressar, konungen i Babel, med hela sin här hade kommit till Jerusalem och begynt belägra det i Sidkia, Juda konungs, nionde regeringsår, i tionde månaden,</verse>
@@ -22076,7 +22078,8 @@ United States of America
         <verse osisID='Lam.1.18'>Ja, HERREN är rättfärdig, ty jag var gensträvig mot hans bud. Hören då, alla I folk, och sen min plåga: mina jungfrur och mina unga män fingo gå i fångenskap.</verse>
         <verse osisID='Lam.1.19'>Jag kallade på mina vänner, men de bedrogo mig. Mina präster och mina äldste förgingos i staden, medan de tiggde sig mat för att stilla sin hunger.</verse>
         <verse osisID='Lam.1.20'>Se HERRE, huru jag är i nöd, mitt innersta är upprört. Mitt hjärta vänder sig i mitt bröst, därför att jag var så gensträvig. Ute har svärdet förgjort mina barn, och inomhus pesten.</verse>
-        <verse osisID='Lam.1.21'>Låt all deras ondska komma inför ditt ansikte, och hemsök dem, likasom du har hemsökt mig för alla mina överträdelsers skull ty många äro mina suckar, och mitt hjärta är sjukt.</verse>
+        <verse osisID='Lam.1.21'>Väl hör man huru jag suckar, men ingen finnes, som tröstar mig; alla mina fiender höra om min olycka och fröjda sig över att du har gjort detta. Den dag du förkunnade har du låtit komma. Dock, dem skall det gå såsom mig.</verse>
+        <verse osisID='Lam.1.22'>Låt all deras ondska komma inför ditt ansikte, och hemsök dem, likasom du har hemsökt mig för alla mina överträdelsers skull ty många äro mina suckar, och mitt hjärta är sjukt.</verse>
       </chapter>
       <chapter osisID='Lam.2'>
         <verse osisID='Lam.2.1'>Huru höljer icke Herren genom sin vrede dottern Sion i mörker! Från himmelen ned till jorden kastade han Israels härlighet. Han vårdade sig icke om sin fotapall på sin vredes dag.</verse>
@@ -23358,7 +23361,7 @@ United States of America
         <verse osisID='Ezek.40.44'>Och utanför den inre porten funnos för sångarna, på den inre gården, tempelkamrar, som lågo vid den norra portens sidovägg, med sin framsida åt söder; och en annan låg vid den östra portens sidovägg med sin framsida åt norr.</verse>
         <verse osisID='Ezek.40.45'>Och han talade till mig: »Denna tempelkammare, vars framsida ligger mot söder, är för de präster som förrätta tjänsten inne i huset.</verse>
         <verse osisID='Ezek.40.46'>Och den tempelkammare vars framsida ligger mot norr är för de präster som förrätta tjänsten vid altaret, alltså för Sadoks söner, vilka äro de av Levi barn, som få träda fram till HERREN för att göra tjänst inför honom.»</verse>
-        <verse osisID='Ezek.40.47'>Och han mätte förgården; den var hundra alnar lång och hundra alnar bred, en liksidig fyrkant; och altaret stod framför huset.  Hesekiel, 41 Kapitlet  Tempelhuset.</verse>
+        <verse osisID='Ezek.40.47'>Och han mätte förgården; den var hundra alnar lång och hundra alnar bred, en liksidig fyrkant; och altaret stod framför huset.</verse>
         <verse osisID='Ezek.40.48'>Sedan förde han mig till huset förhus.  Och han mätte för husets murpelare: de höllo fem alnar var på sin sida, så ock porten bredd: den var på var sida tre alnar.</verse>
         <verse osisID='Ezek.40.49'>Förhuset var tjugu alnar lång och elva alnar brett, nämligen vid trappstegen på vilka man steg ditupp.  Och vid murpelarna stodo pelare, en på var sida.</verse>
       </chapter>
@@ -23695,7 +23698,7 @@ United States of America
         <verse osisID='Dan.3.27'>Och satraperna, landshövdingarna och ståthållarna och konungens rådsherrar församlade sig där, och fingo då se att elden icke hade haft någon makt över männens kroppar, och att håret på deras huvuden icke var svett, och att deras kläder icke hade blivit skadade; ja, man kunde icke ens känna lukten av något bränt på dem.</verse>
         <verse osisID='Dan.3.28'>Då hov Nebukadnessar upp sin röst och sade: »Lovad vare Sadraks, Mesaks och Abed-Negos Gud, som sände sin ängel och räddade sina tjänare, vilka så förtröstade på honom, att de överträdde konungens befallning och vågade sina liv för att icke nödgas dyrka eller tillbedja någon annan gud än sin egen Gud!</verse>
         <verse osisID='Dan.3.29'>Och härmed giver jag nu befallning att vilken som helst av alla folk och stammar och tungomål, som säger något otillbörligt om Sadraks, Mesaks och Abed-Negos Gud, han skall huggas i stycken, och hans hus skall göras till en plats för orenlighet; ty ingen gud finnes, som så kan hjälpa som denne.</verse>
-        <verse osisID='Dan.3.30'>Därefter lät konungen Sadrak, Mesak och Abed-Nego komma till stor ära och makt i Babels hövdingdöme.  Daniel, 4 Kapitlet  Skrivelse från konung Nebukadnessar rörande hans dröm om det avhuggna trädet.</verse>
+        <verse osisID='Dan.3.30'>Därefter lät konungen Sadrak, Mesak och Abed-Nego komma till stor ära och makt i Babels hövdingdöme.</verse>
         <verse osisID='Dan.3.31'>Konung Nebukadnessar till alla folk och stammar och tungomål som finnas på hela jorden.  Mycken frid vare med eder!</verse>
         <verse osisID='Dan.3.32'>Jag har funnit för gott att härmed kungöra de tecken och under som den högste Guden har gjort med mig.</verse>
         <verse osisID='Dan.3.33'>Ty stora äro förvisso hans tecken, och mäktiga äro hans under.  Hans rike är ett evigt rike, och hans välde varar från släkte till släkte.</verse>
@@ -23766,7 +23769,7 @@ United States of America
         <verse osisID='Dan.5.27'>Tekel, det betyder: du är vägd på en våg och befunnen för lätt.</verse>
         <verse osisID='Dan.5.28'>Peres, det betyder: ditt rike har blivit styckat och givet åt meder och perser.»</verse>
         <verse osisID='Dan.5.29'>Då befallde Belsassar att man skulle kläda Daniel i purpur, och att den gyllene kedjan skulle hängas om hans hals, och att man skulle utropa om honom att han skulle vara den tredje herren i riket.</verse>
-        <verse osisID='Dan.5.30'>Samma natt blev Belsassar, kaldéernas konung, dödad.  Daniel, 6 Kapitlet  Daniel i lejongropen.</verse>
+        <verse osisID='Dan.5.30'>Samma natt blev Belsassar, kaldéernas konung, dödad.</verse>
         <verse osisID='Dan.5.31'>Och Darejaves av Medien mottog riket, när han var sextiotvå år gammal.</verse>
       </chapter>
       <chapter osisID='Dan.6'>
@@ -23908,10 +23911,10 @@ United States of America
         <verse osisID='Dan.10.18'>Då rörde han som såg ut såsom en människa åter vid mig och styrkte mig.</verse>
         <verse osisID='Dan.10.19'>Han sade: »Frukta icke, du högt benådade man; frid vare med dig, var stark, ja, var stark.»  När han så talade med mig, kände jag mig styrkt och sade: »Tala, min herre, ty du har nu styrkt mig.»</verse>
         <verse osisID='Dan.10.20'>Då sade han: »Kan du nu förstå varför jag har kommit till dig? Men jag måste strax vända tillbaka för att strida mot fursten för Persien, och när jag är fri ifrån honom, kommer fursten för Javan.</verse>
-        <verse osisID='Dan.10.21'>Dock vill jag förkunna för dig vad som är upptecknat i sanningens bok.  Och ingen enda står mig bi mot dessa, förutom Mikael, eder furste. 11:1.   den elektroniska utgåvan.</verse>
+        <verse osisID='Dan.10.21'>Dock vill jag förkunna för dig vad som är upptecknat i sanningens bok.  Och ingen enda står mig bi mot dessa, förutom Mikael, eder furste.</verse>
       </chapter>
       <chapter osisID='Dan.11'>
-        <verse osisID='Dan.11.1'>Och jag stod vid hans sida såsom hans stöd och värn i medern Darejaves' första regeringsår.  Daniel, 11 Kapitlet  Fortsättning av föregående uppenbarelse: Persiens, Javans (Greklands), Söderlandets (Egyptens) och Nordlandets (Syriens) konungavälden.  Hemsökelser över »det härliga landet» (Palestina).</verse>
+        <verse osisID='Dan.11.1'>Och jag stod vid hans sida såsom hans stöd och värn i medern Darejaves' första regeringsår.</verse>
         <verse osisID='Dan.11.2'>Och nu skall jag förkunna för dig vad visst är.  Se, ännu tre konungar skola uppstå i Persien, och den fjärde skall förvärva sig större rikedomar än någon av de andra, och när han har blivit som starkast genom sina rikedomar, skall han uppbjuda all sin makt mot Javans rike.</verse>
         <verse osisID='Dan.11.3'>Sedan skall en väldig konung uppstå, och han skall härska med stor makt och göra vad han vill.</verse>
         <verse osisID='Dan.11.4'>Men knappt har han uppstått, så skall hans rike brista sönder och bliva delat efter himmelens förra väderstreck; och det skall icke tillfalla hans avkomlingar eller förbliva lika mäktigt som när han hade makten; ty hans rike skall omstörtas och tillfalla andra än dem.</verse>
@@ -23985,10 +23988,10 @@ United States of America
         <verse osisID='Hos.1.8'>Och när hon hade avvant Lo-Ruhama, blev hon åter havande och födde en son.</verse>
         <verse osisID='Hos.1.9'>Då sade han: »Giv denne namnet Lo-Ammi; ty I ären icke mitt folk, ej heller vill jag höra eder till.»</verse>
         <verse osisID='Hos.1.10'>Men antalet av Israels barn skall bliva såsom havets sand, som man icke kan mäta, ej heller räkna; och det skall ske, att i stället för att det sades till dem: »I ären icke mitt folk», skola de kallas »den levande Gudens barn».</verse>
-        <verse osisID='Hos.1.11'>Och Juda barn och Israels barn skola samla sig tillhopa, och skola sätta över sig ett gemensamt huvud, och skola draga upp ur landet; ty stor skall Jisreels dag vara. 2:1.   den elektroniska utgåvan.</verse>
+        <verse osisID='Hos.1.11'>Och Juda barn och Israels barn skola samla sig tillhopa, och skola sätta över sig ett gemensamt huvud, och skola draga upp ur landet; ty stor skall Jisreels dag vara.</verse>
       </chapter>
       <chapter osisID='Hos.2'>
-        <verse osisID='Hos.2.1'>Kallen då edra bröder Ammi och edra systrar Ruhama.  Hosea, 2 Kapitlet  Israels trolöshet, Herrens trofasthet.</verse>
+        <verse osisID='Hos.2.1'>Kallen då edra bröder Ammi och edra systrar Ruhama.</verse>
         <verse osisID='Hos.2.2'>Gån till rätta med eder moder, gån till rätta; ty hon är icke min hustru, och jag är icke hennes man. Må hon skaffa bort det lösaktiga väsendet från sitt ansikte och otuktsväsendet från sin barm.</verse>
         <verse osisID='Hos.2.3'>Varom icke, skall jag kläda av henne, så att hon ligger naken, jag skall låta henne stå där sådan hon var den dag då hon föddes. Jag skall göra henne lik en öken och låta henne bliva såsom ett torrt land och låta henne dö av törst.</verse>
         <verse osisID='Hos.2.4'>Och mot hennes barn skall jag icke visa något förbarmande, eftersom de äro barn av en trolös moder;</verse>
@@ -24151,7 +24154,7 @@ United States of America
         <verse osisID='Hos.11.8'>Men huru skall jag kunna giva dig till pris, Efraim, och låta dig fara, Israel? Icke kan jag giva dig till pris såsom Adma och låta det gå dig såsom Seboim? Mitt hjärta vänder sig i mig, all min barmhärtighet vaknar.</verse>
         <verse osisID='Hos.11.9'>Jag vill icke låta dig känna min vredes glöd, jag skall icke vidare fördärva Efraim. Ty jag är Gud och icke en människa; helig är jag bland eder, och med vrede vill jag ej komma.</verse>
         <verse osisID='Hos.11.10'>Efter HERREN skola de så draga åstad, och han skall ryta såsom ett lejon; ja, han skall upphäva ett rytande, och hans barn skola då med bävan samlas västerifrån;</verse>
-        <verse osisID='Hos.11.11'>såsom fåglar skola de med bävan komma från Egypten och såsom duvor från Assurs land. Och sedan skall jag låta dem bo kvar i sina hus, säger HERREN.  Hosea, 12 Kapitlet  Efraims trolöshet.  Drag ur hans stamfaders historia.</verse>
+        <verse osisID='Hos.11.11'>såsom fåglar skola de med bävan komma från Egypten och såsom duvor från Assurs land. Och sedan skall jag låta dem bo kvar i sina hus, säger HERREN.</verse>
         <verse osisID='Hos.11.12'>Efraim har omvärvt mig med lögn och Israels hus med svek Juda är alltjämt trolös mot Gud, mot den Helige, den Trofaste.</verse>
       </chapter>
       <chapter osisID='Hos.12'>
@@ -24185,10 +24188,10 @@ United States of America
         <verse osisID='Hos.13.12'>Efraims missgärning är samlad såsom i en pung, och hans synd är i förvar.</verse>
         <verse osisID='Hos.13.13'>En barnaföderskas vånda skall komma över honom. Han är ett oförnuftigt foster, som icke kommer fram i födseln. när tiden är inne.</verse>
         <verse osisID='Hos.13.14'>Skulle jag förlossa sådana ur dödsrikets våld, köpa dem fria ifrån döden? -- Var har du dina hemsökelser, du död? Var har du din pest, du dödsrike? Ånger må vara fördold för mina ögon.</verse>
-        <verse osisID='Hos.13.15'>Bäst han står där frodig bland sina bröder skall en östanvind komma, ett HERRENS väder, som stiger upp från öknen; då skall hans brunn komma på skam och hans källa sina ut. Den vinden rycker bort de skatter han har samlat av alla slags dyrbara håvor. 14:1.   den elektroniska utgåvan.</verse>
+        <verse osisID='Hos.13.15'>Bäst han står där frodig bland sina bröder skall en östanvind komma, ett HERRENS väder, som stiger upp från öknen; då skall hans brunn komma på skam och hans källa sina ut. Den vinden rycker bort de skatter han har samlat av alla slags dyrbara håvor.</verse>
       </chapter>
       <chapter osisID='Hos.14'>
-        <verse osisID='Hos.14.1'>Samarien skall lida vad det har förskyllt genom sin gensträvighet mot sin Gud. Inbyggarna skola falla för svärd, deras späda barn skola bliva krossade och deras havande kvinnor skall man upprista.  Hosea, 14 Kapitlet  Förmaning till omvändelse.  Löfte om nåd.</verse>
+        <verse osisID='Hos.14.1'>Samarien skall lida vad det har förskyllt genom sin gensträvighet mot sin Gud. Inbyggarna skola falla för svärd, deras späda barn skola bliva krossade och deras havande kvinnor skall man upprista.</verse>
         <verse osisID='Hos.14.2'>Vänd om, o Israel, till HERREN, din Gud; ty genom din missgärning har du kommit på fall.</verse>
         <verse osisID='Hos.14.3'>Tagen med eder böneord, och vänden så åter till HERREN; sägen till honom: »Skaffa bort all missgärning, och tag fram goda håvor, så vilja vi hembära dig våra läppars offer, såsom man offrar tjurar.</verse>
         <verse osisID='Hos.14.4'>Hos Assur skola vi ej mer söka vår frälsning, vi skola icke vidare stiga till häst. våra händers verk skola vi icke mer kalla för vår Gud. Ty hos dig är det som den faderlöse undfår barmhärtighet.»</verse>
@@ -24846,10 +24849,10 @@ United States of America
         <verse osisID='Hag.1.11'>Och jag har bjudit torka komma över land och berg, och över säd, vin och olja och alla andra jordens alster, och över människor och djur, och över all frukt av edra händers arbete.</verse>
         <verse osisID='Hag.1.12'>Och Serubbabel, Sealtiels son, och översteprästen Josua, Josadaks son med hela kvarlevan av folket lyssnade till HERRENS, sin Guds, röst och till profeten Haggais ord, eftersom HERREN, deras Gud, hade sänt honom; och folket fruktade för HERREN.</verse>
         <verse osisID='Hag.1.13'>Då sade Haggai, HERRENS sändebud, efter HERRENS uppdrag, till folket så: »Jag är med eder, säger HERREN.»</verse>
-        <verse osisID='Hag.1.14'>Och HERREN uppväckte Serubbabels, Sealtiels sons, Juda ståthållares, ande och översteprästen Josuas, Josadaks sons, ande och allt det kvarblivna folkets ande, så att de gingo till verket och arbetade på HERREN Sebaots; sin Guds, hus. 2:1.    den elektroniska utgåvan.</verse>
+        <verse osisID='Hag.1.14'>Och HERREN uppväckte Serubbabels, Sealtiels sons, Juda ståthållares, ande och översteprästen Josuas, Josadaks sons, ande och allt det kvarblivna folkets ande, så att de gingo till verket och arbetade på HERREN Sebaots; sin Guds, hus.</verse>
       </chapter>
       <chapter osisID='Hag.2'>
-        <verse osisID='Hag.2.1'>Detta skedde på tjugufjärde dagen i sjätte månaden av konung Darejaves' andra regeringsår.  Haggai, 2 Kapitlet  Det nya templet tillkommande härlighet. En bättre tid.  Serubbabels utkorelse.</verse>
+        <verse osisID='Hag.2.1'>Detta skedde på tjugufjärde dagen i sjätte månaden av konung Darejaves' andra regeringsår.</verse>
         <verse osisID='Hag.2.2'>I sjunde månaden, på tjuguförsta dagen i månaden, kom HERRENS ord genom profeten Haggai han sade:</verse>
         <verse osisID='Hag.2.3'>Säg till Serubbabel, Sealtiels son Juda ståthållare, och till översteprästen Josua, Josadaks son, och till kvarlevan av folket:</verse>
         <verse osisID='Hag.2.4'>Leva icke ännu bland eder män kvar, som hava sett detta hus i dess forna härlighet?  Och hurudant sen I det nu vara?  Är det icke såsom intet i edra ögon?</verse>
@@ -25149,7 +25152,7 @@ United States of America
         <verse osisID='Mal.2.13'>Och ännu något annat gören I: I vållen, att HERRENS altare höljes med tårar, med gråt och klagan, så att han icke mer vill se till offergåvorna, ej heller med välbehag kan taga emot något ur eder hand.</verse>
         <verse osisID='Mal.2.14'>Nu frågen I: »Huru så?»  Jo, HERREN var ju vittne mellan dig och din ungdoms hustru, henne som du nu har varit trolös emot, fastän hon är din maka, din äkta hustru.</verse>
         <verse osisID='Mal.2.15'>Hava vi då icke en och samma skapare, den, i vilkens hand det står, att vår ande bevaras?  Och vad vill nu denne ene?  Han vill ju hava ett gudaktigt släkte.  Tagen eder därför väl till vara, så att ingen bliver trolös mot sin ungdoms hustru.</verse>
-        <verse osisID='Mal.2.16'>Ty jag hatar äktenskapsskillnad, säger HERREN, Israels Gud, och att man höljer sig i våld såsom i en överklädnad, säger HERREN Sebaot.  Tagen eder därför väl till vara, så att I icke bliven trolösa.  Malaki, 3 Kapitlet  Herrens dag skall snart komma, med straff och med luttring.</verse>
+        <verse osisID='Mal.2.16'>Ty jag hatar äktenskapsskillnad, säger HERREN, Israels Gud, och att man höljer sig i våld såsom i en överklädnad, säger HERREN Sebaot.  Tagen eder därför väl till vara, så att I icke bliven trolösa.</verse>
         <verse osisID='Mal.2.17'>I trötten ut HERREN med edert tal.  Nu frågen I: »Varmed trötta vi då ut honom?»  Jo, därmed att I sägen: »Den som gör ont är ändå god i HERRENS ögon, och till sådana har han behag.  Ty varför kommer icke eljest domens Gud?»</verse>
       </chapter>
       <chapter osisID='Mal.3'>
@@ -26648,10 +26651,10 @@ United States of America
         <verse osisID='Mark.8.35'>Ty den som vill bevara sitt liv, han skall mista det; men den som mister sitt liv, för min och för evangelii skull, han skall bevara det.</verse>
         <verse osisID='Mark.8.36'>Och vad hjälper det en människa, om hon vinner hela världen, men förlorar sin själ?</verse>
         <verse osisID='Mark.8.37'>Och vad kan en människa giva till lösen för sin själ?</verse>
-        <verse osisID='Mark.8.38'>Den som blyges för mig och för mina ord, i detta trolösa och syndiga släkte, för honom skall ock Människosonen blygas, när han kommer i sin Faders härlighet med de heliga änglarna.»  9:1.    den elektroniska utgåvan.</verse>
+        <verse osisID='Mark.8.38'>Den som blyges för mig och för mina ord, i detta trolösa och syndiga släkte, för honom skall ock Människosonen blygas, när han kommer i sin Faders härlighet med de heliga änglarna.»</verse>
       </chapter>
       <chapter osisID='Mark.9'>
-        <verse osisID='Mark.9.1'>Ytterligare sade han till dem: »Sannerligen säger jag eder: Bland dem som här stå finnas några som icke skola smaka döden, förrän de få se Guds rike vara kommet i sin kraft.»  Evangelium enligt Markus, 9 Kapitlet  Jesus förklaras, botar en månadsrasande gosse, förutsäger på nytt sitt lidande, bestraffar lärjungarnas storhetstankar och falska nit, talar om faran av förförelser.</verse>
+        <verse osisID='Mark.9.1'>Ytterligare sade han till dem: »Sannerligen säger jag eder: Bland dem som här stå finnas några som icke skola smaka döden, förrän de få se Guds rike vara kommet i sin kraft.»</verse>
         <verse osisID='Mark.9.2'>Sex dagar därefter tog Jesus med sig Petrus och Jakob och Johannes och förde dem ensamma upp på ett högt berg, där de voro allena.  Och hans utseende förvandlades inför dem;</verse>
         <verse osisID='Mark.9.3'>och hans kläder blevo glänsande och mycket vita, så att ingen valkare på jorden kan göra kläder så vita.</verse>
         <verse osisID='Mark.9.4'>Och för dem visade sig Elias jämte Moses, och dessa samtalade med Jesus.</verse>
@@ -27849,7 +27852,7 @@ United States of America
         <verse osisID='Luke.17.33'>Den som står efter att vinna sitt liv, han skall mista det; men den som mister det, han skall rädda det.</verse>
         <verse osisID='Luke.17.34'>Jag säger eder: Den natten skola två ligga i samma säng; den ene skall bliva upptagen, den andre skall lämnas kvar.</verse>
         <verse osisID='Luke.17.35'>Två kvinnor skola mala tillhopa; den ena skall bliva upptagen, den andra skall lämnas kvar.»</verse>
-        <verse osisID='Luke.17.36'>Då frågade de honom: »Var då, Herre?»  Han svarade dem: »Där den döda kroppen är, dit skola ock rovfåglarna församla sig.»</verse>
+        <verse osisID='Luke.17.37'>Då frågade de honom: »Var då, Herre?»  Han svarade dem: »Där den döda kroppen är, dit skola ock rovfåglarna församla sig.»</verse>
       </chapter>
       <chapter osisID='Luke.18'>
         <verse osisID='Luke.18.1'>Och han framställde för dem en liknelse, för att lära dem att de alltid borde bedja, utan att förtröttas.</verse>
@@ -27968,6 +27971,7 @@ United States of America
         <verse osisID='Luke.20.19'>Och de skriftlärde och översteprästerna hade gärna velat i samma stund gripa honom, men de fruktade för folket.  Ty de förstodo att det var om dem som han hade talat i denna liknelse.</verse>
         <verse osisID='Luke.20.20'>Och de vaktade på honom och sände ut några som försåtligen skulle låtsa sig vara rättsinniga män, för att dessa skulle fånga honom genom något hans ord, så att de skulle kunna överlämna honom åt överheten, i landshövdingens våld.</verse>
         <verse osisID='Luke.20.21'>Dessa frågade honom och sade: »Mästare, vi veta att du talar och undervisar rätt och icke har anseende till personen, utan lär om Guds väg vad sant är.</verse>
+        <verse osisID='Luke.20.22'>Är det lovligt för oss att giva kejsaren skatt, eller är det icke lovligt?»</verse>
         <verse osisID='Luke.20.23'>Men han märkte deras illfundighet och sade till dem:</verse>
         <verse osisID='Luke.20.24'>»Låten mig se en penning.  Vems bild och överskrift bär den?»  De svarade: »Kejsarens.»</verse>
         <verse osisID='Luke.20.25'>Då sade han till dem: »Given alltså kejsaren vad kejsaren tillhör, och Gud vad Gud tillhör.»</verse>
@@ -28569,7 +28573,7 @@ United States of America
         <verse osisID='John.7.49'>Nej; men detta folk, som icke känner lagen, det är förbannat.</verse>
         <verse osisID='John.7.50'>Då sade Nikodemus till dem, han som förut hade besökt honom, och som själv var en av dem:</verse>
         <verse osisID='John.7.51'>»Icke dömer väl vår lag någon, utan att man först har förhört honom och utrönt vad han förehar?»</verse>
-        <verse osisID='John.7.52'>De svarade och sade till honom: »Kanske också du är från Galileen?  Rannsaka, så skall du finna att ingen profet kommer från Galileen.»  Evangelium enligt Johannes, 8 Kapitlet  [Äktenskapsbryterskan inför Jesus.] Jesus vittnar om sig själv, att han är världens ljus; undervisar och bestraffar folket.  Judarna vilja stena honom.</verse>
+        <verse osisID='John.7.52'>De svarade och sade till honom: »Kanske också du är från Galileen?  Rannsaka, så skall du finna att ingen profet kommer från Galileen.»</verse>
         <verse osisID='John.7.53'>[Och de gingo hem, var och en till sitt.</verse>
       </chapter>
       <chapter osisID='John.8'>
@@ -29409,10 +29413,10 @@ United States of America
         <verse osisID='Acts.7.57'>Då skriade de med hög röst och höllo för sina öron och stormade alla på en gång emot honom</verse>
         <verse osisID='Acts.7.58'>och förde honom ut ur staden och stenade honom.  Och vittnena lade av sina mantlar vid en ung mans fötter, som hette Saulus.</verse>
         <verse osisID='Acts.7.59'>Så stenade de Stefanus, under det att han åkallade och sade: »Herre Jesus, tag emot min ande.»</verse>
-        <verse osisID='Acts.7.60'>Och han föll ned på sina knän och ropade med hög röst: »Herre, tillräkna dem icke denna synd.»  Och när han hade sagt detta, avsomnade han.  8:1.    elektroniska utgåvan.</verse>
+        <verse osisID='Acts.7.60'>Och han föll ned på sina knän och ropade med hög röst: »Herre, tillräkna dem icke denna synd.»  Och när han hade sagt detta, avsomnade han.</verse>
       </chapter>
       <chapter osisID='Acts.8'>
-        <verse osisID='Acts.8.1'>Och jämväl Saulus hade gillat att man dödade honom.  Apostlagärningarna, 8 Kapitlet  Förföljelse mot församlingen i Jerusalem.  Evangelium predikat i Samarien.  Trollkarlen Simon.  En etiopisk hovmans dop.  Samma dag utbröt en svår förföljelse mot församlingen i Jerusalem; och alla, utom apostlarna, blevo kringspridda över Judeens och Samariens landsbygd.</verse>
+        <verse osisID='Acts.8.1'>Och jämväl Saulus hade gillat att man dödade honom.  Samma dag utbröt en svår förföljelse mot församlingen i Jerusalem; och alla, utom apostlarna, blevo kringspridda över Judeens och Samariens landsbygd.</verse>
         <verse osisID='Acts.8.2'>Några fromma män begrovo dock Stefanus och höllo en stor dödsklagan efter honom.</verse>
         <verse osisID='Acts.8.3'>Saulus åter for våldsamt fram mot församlingen; han gick omkring i husen och drog fram män och kvinnor och lät sätta dem i fängelse.</verse>
         <verse osisID='Acts.8.4'>Men de som hade blivit kringspridda gingo omkring och förkunnade evangelii ord.</verse>
@@ -30929,10 +30933,10 @@ United States of America
         <verse osisID='1Cor.10.30'>Om jag äter därav med tacksägelse, varför skulle jag då bliva smädad för det som jag tackar Gud för?</verse>
         <verse osisID='1Cor.10.31'>Alltså, vare sig I äten eller dricken, eller vadhelst annat I gören, så gören allt till Guds ära.</verse>
         <verse osisID='1Cor.10.32'>Bliven icke för någon till en stötesten, varken för judar eller för greker eller för Guds församling;</verse>
-        <verse osisID='1Cor.10.33'>varen såsom jag, som i alla stycken fogar mig efter alla och icke söker min egen nytta, utan de mångas, för att de skola bliva frälsta. 11:1.   elektroniska utgåvan.</verse>
+        <verse osisID='1Cor.10.33'>varen såsom jag, som i alla stycken fogar mig efter alla och icke söker min egen nytta, utan de mångas, för att de skola bliva frälsta.</verse>
       </chapter>
       <chapter osisID='1Cor.11'>
-        <verse osisID='1Cor.11.1'>Varen I mina efterföljare, såsom jag är Kristi.  Paulus' första brev till korintierna, 11 Kapitlet  Kvinnan må icke vid gudstjänsten uppträda med ohöljt huvud.  Herrens måltid må icke hållas på ovärdigt sätt.</verse>
+        <verse osisID='1Cor.11.1'>Varen I mina efterföljare, såsom jag är Kristi.</verse>
         <verse osisID='1Cor.11.2'>Jag prisar eder för det att I i alla stycken haven mig i minne och hållen fast vid mina lärdomar, såsom de äro eder givna av mig.</verse>
         <verse osisID='1Cor.11.3'>Men jag vill att I skolen inse detta, att Kristus är envar mans huvud, och att mannen är kvinnans huvud, och att Gud är Kristi huvud.</verse>
         <verse osisID='1Cor.11.4'>Var och en man som har sitt huvud betäckt, när han beder eller profeterar, han vanärar sitt huvud.</verse>
@@ -31169,13 +31173,13 @@ United States of America
         <verse osisID='2Cor.1.21'>Men den som befäster oss såväl som eder i Kristus, och den som har smort oss, det är Gud,</verse>
         <verse osisID='2Cor.1.22'>han som har låtit oss undfå sitt insegel och givit oss Anden till en underpant i våra hjärtan.</verse>
         <verse osisID='2Cor.1.23'>Jag kallar Gud till vittne över min själ, att det är av skonsamhet mot eder som jag ännu icke har kommit till Korint.</verse>
-        <verse osisID='2Cor.1.24'>(Detta säger jag icke, som om vi vore herrar över eder tro; fastmer äro vi edra medarbetare till att bereda eder glädje, ty i tron stån I fasta.) 2:1.   2:2.   2:3.   2:4.    den elektroniska utgåvan</verse>
+        <verse osisID='2Cor.1.24'>(Detta säger jag icke, som om vi vore herrar över eder tro; fastmer äro vi edra medarbetare till att bereda eder glädje, ty i tron stån I fasta.)</verse>
       </chapter>
       <chapter osisID='2Cor.2'>
         <verse osisID='2Cor.2.1'>Jag satte mig nämligen i sinnet att jag icke åter skulle komma till eder med bedrövelse.</verse>
         <verse osisID='2Cor.2.2'>Ty om jag bedrövade eder, vem skulle då bereda mig glädje? Månne någon annan än den som genom mig hade blivit bedrövad?</verse>
         <verse osisID='2Cor.2.3'>Och vad jag skrev, det skrev jag, för att jag icke vid min ankomst skulle få bedrövelse från dem som jag borde få glädje av.  Ty jag har den tillförsikten till eder alla, att min glädje är allas eder glädje.</verse>
-        <verse osisID='2Cor.2.4'>Och det var i stor nöd och hjärteångest, under många tårar, som jag skrev till eder, icke för att I skullen bliva bedrövade, utan för att I skullen förstå den synnerliga kärlek som jag har till eder.  Paulus' andra brev till korintierna, 2 Kapitlet  Paulus förklarar att en viss syndare må efter utståndet straff få förlåtelse; han tackar Gud, som låter evangelium gå fram i segertåg, omgivet av Kristi kunskaps rökelsedoft, till vars spridande Paulus har undfått skicklighet av Gud.</verse>
+        <verse osisID='2Cor.2.4'>Och det var i stor nöd och hjärteångest, under många tårar, som jag skrev till eder, icke för att I skullen bliva bedrövade, utan för att I skullen förstå den synnerliga kärlek som jag har till eder.</verse>
         <verse osisID='2Cor.2.5'>Men om en viss man har vållat bedrövelse, så är det icke särskilt mig han har bedrövat, utan eder alla, i någon mån -- för att jag nu icke skall tala för strängt.</verse>
         <verse osisID='2Cor.2.6'>Nu är det likväl nog med den näpst som han har fått mottaga från de flesta bland eder.</verse>
         <verse osisID='2Cor.2.7'>I mån alltså nu tvärtom snarare förlåta och trösta honom, så att han icke till äventyrs går under genom sin alltför stora bedrövelse.</verse>
@@ -31271,10 +31275,10 @@ United States of America
         <verse osisID='2Cor.6.15'>Huru förlika sig Kristus och Beliar, eller vad delaktighet har den som tror med den som icke tror?</verse>
         <verse osisID='2Cor.6.16'>Eller huru låter ett Guds tempel förena sig med avgudar?  Vi äro ju ett den levande Gudens tempel, ty Gud har sagt: »Jag skall bo i dem och vandra ibland dem; jag skall vara deras Gud, och de skola vara mitt folk.»</verse>
         <verse osisID='2Cor.6.17'>Alltså: »Gån ut ifrån dem och skiljen eder ifrån dem, säger Herren; kommen icke vid det orent är.  Då skall jag taga emot eder</verse>
-        <verse osisID='2Cor.6.18'>och vara en Fader för eder; och I skolen vara mina söner och döttrar, säger Herren, den Allsmäktige.»  7:1.    elektroniska utgåvan.</verse>
+        <verse osisID='2Cor.6.18'>och vara en Fader för eder; och I skolen vara mina söner och döttrar, säger Herren, den Allsmäktige.»</verse>
       </chapter>
       <chapter osisID='2Cor.7'>
-        <verse osisID='2Cor.7.1'>Då vi nu hava dessa löften, mina älskade, så låtom oss rena oss från allt som befläckar vare sig kött eller ande, i det vi fullborda vår helgelse i Guds fruktan.  Paulus' andra brev till korintierna, 7 Kapitlet  Paulus gläder sig över de vittnesbörd om korintiernas tillgivenhet och lydnad som han har mottagit genom Titus.</verse>
+        <verse osisID='2Cor.7.1'>Då vi nu hava dessa löften, mina älskade, så låtom oss rena oss från allt som befläckar vare sig kött eller ande, i det vi fullborda vår helgelse i Guds fruktan.</verse>
         <verse osisID='2Cor.7.2'>Bereden oss ett rum i edra hjärtan; vi hava icke handlat orätt mot någon, icke varit någon till skada, icke gjort någon något förfång.  --</verse>
         <verse osisID='2Cor.7.3'>Jag säger icke detta för att döma eder; jag har ju redan sagt att I haven ett rum i vårt hjärta, så att vi skola både dö och leva med varandra.</verse>
         <verse osisID='2Cor.7.4'>Stor är den tillit som jag har till eder, mycket berömmer jag mig av eder; jag har fått hugnad i fullt mått och glädje i rikt överflöd, mitt i allt vårt betryck.</verse>
@@ -31696,11 +31700,11 @@ United States of America
         <verse osisID='Eph.4.29'>Låten intet ohöviskt tal utgå ur eder mun, utan allenast det som är gott, till uppbyggelse, där sådan behöves, så att det bliver till välsignelse för dem som höra det.</verse>
         <verse osisID='Eph.4.30'>Och bedröven icke Guds helige Ande, vilken I haven undfått såsom ett insegel, för förlossningens dag.</verse>
         <verse osisID='Eph.4.31'>All bitterhet och häftighet och vrede, allt skriande och smädande, ja, allt vad ondska heter vare fjärran ifrån eder.</verse>
-        <verse osisID='Eph.4.32'>Varen i stället goda och barmhärtiga mot varandra, och förlåten varandra, såsom Gud i Kristus har förlåtit eder.  5:1.  5:2.   tryckta upplagan.  --Red för den elektroniska upplagan. elektroniska utgåvan.</verse>
+        <verse osisID='Eph.4.32'>Varen i stället goda och barmhärtiga mot varandra, och förlåten varandra, såsom Gud i Kristus har förlåtit eder.</verse>
       </chapter>
       <chapter osisID='Eph.5'>
         <verse osisID='Eph.5.1'>Bliven alltså Guds efterföljare, såsom hans älskade barn,</verse>
-        <verse osisID='Eph.5.2'>och vandren i kärlek, såsom Kristus älskade eder och utgav sig själv för oss till en gåva och ett offer, »Gud till en välbehaglig lukt».  Paulus' brev till efesierna, 5 Kapitlet  Förmaningar att undfly mörkrets gärningar och vandra såsom ljusets barn. Äkta makars plikter mot varandra.</verse>
+        <verse osisID='Eph.5.2'>och vandren i kärlek, såsom Kristus älskade eder och utgav sig själv för oss till en gåva och ett offer, »Gud till en välbehaglig lukt».</verse>
         <verse osisID='Eph.5.3'>Men otukt och orenhet, av vad slag det vara må, och girighet skolen I, såsom det anstår heliga, icke ens låta nämnas bland eder,</verse>
         <verse osisID='Eph.5.4'>ej heller ohöviskt väsende och dåraktigt tal och gyckel; sådant är otillbörligt.  Låten fastmer tacksägelse höras.</verse>
         <verse osisID='Eph.5.5'>Ty det bören I veta, och det insen I också själva, att ingen otuktig eller oren människa har arvedel i Kristi och Guds rike, ej heller någon girig, ty en sådan är en avgudadyrkare.</verse>
@@ -33491,7 +33495,7 @@ United States of America
         <verse osisID='Rev.12.14'>Men åt kvinnan gåvos den stora örnens två vingar, för att hon skulle flyga ut i öknen till den plats där hon skulle få sitt uppehälle under en tid och tider och en halv tid, fjärran ifrån ormens åsyn.</verse>
         <verse osisID='Rev.12.15'>Då sprutade ormen ur sitt gap vatten efter kvinnan såsom en ström, för att strömmen skulle bortföra henne.</verse>
         <verse osisID='Rev.12.16'>Men jorden kom kvinnan till hjälp; jorden öppnade sin mun och drack upp strömmen, som draken hade sprutat ut ur sitt gap.</verse>
-        <verse osisID='Rev.12.17'>Och draken vredgades än mer på kvinnan och gick åstad för att föra krig mot de övriga av hennes säd, mot dem som hålla Guds bud och hava Jesu vittnesbörd.  Johannes' uppenbarelse, 13 Kapitlet  De två vilddjuren.</verse>
+        <verse osisID='Rev.12.17'>Och draken vredgades än mer på kvinnan och gick åstad för att föra krig mot de övriga av hennes säd, mot dem som hålla Guds bud och hava Jesu vittnesbörd.</verse>
         <verse osisID='Rev.12.18'>Och han ställde sig på sanden invid havet.</verse>
       </chapter>
       <chapter osisID='Rev.13'>
