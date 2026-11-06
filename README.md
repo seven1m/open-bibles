@@ -25,7 +25,6 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | eng-web.usfx.xml                 | English               | USFX     | WEB    | World English Bible                               | Public Domain              |
 | eng-ylt.zefania.xml              | English               | Zefania  | YLT    | Young's Literal Translation (NT only)             | Public Domain              |
 | fin-biblia.osis.xml              | Finnish               | OSIS     |        | Finnish Bible                                     | Public Domain              |
-| fra-ostervald.osis.xml           | French                | OSIS     |        | French Ostervald 1996                             | Public Domain              |
 | deu-luther1912.osis.xml          | German                | OSIS     |        | Luther Bible 1912                                 | Public Domain              |
 | heb-leningrad.usfx.xml           | Hebrew                | USFX     |        | Hebrew Leningrad Codex                            | _see below_                |
 | hun-karoli.osis.xml              | Hungarian             | OSIS     |        | Hungarian Károli Bible                            | Public Domain              |
