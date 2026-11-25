@@ -33,6 +33,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | lat-clementine.usfx.xml          | Latin                 | USFX     |        | Clementine Latin Vulgate                          | Public Domain              |
 | nor-norwegian.osis.xml           | Norwegian             | OSIS     |        | Norwegian Bible                                   | Public Domain              |
 | pol-gdanska.osis.xml             | Polish                | OSIS     |        | Polish Gdańska Bible                              | Public Domain              |
+| por-arc1911.usfx.xml             | Portuguese            | USFX     | ARC1911 | Almeida Revista e Corrigida (Lisbon, 1911)        | Public Domain              |
 | por-blivre.usfx.xml              | Portuguese (Brazil)   | USFX     | BLIVRE | Bíblia Livre (Textus Receptus, February 2018)       | [CC BY 3.0 BR][cc-by-3-br]  |
 | por-bpm.usfx.xml                 | Portuguese (Brazil)   | USFX     | BPM    | Bíblia Portuguesa Mundial                         | Public Domain              |
 | ron-rccv.usfx.xml                | Romanian              | USFX     |        | Protestant Romanian Corrected Cornilescu Version  | Public Domain              |
@@ -48,6 +49,14 @@ Repository of public domain and freely licensed bibles in some standard XML form
 
 
 ## Translation Details
+
+### Almeida Revista e Corrigida (1911)
+
+- Edition: Depósito das Escripturas Sagradas, Lisbon, 1911. [Scanned title page](https://faithofgod.net/pt/Portuguese/1911/Titulo%20%281%29.jpg)
+- Source: [Structured transcription](https://github.com/mazza/biblia-arc1911/tree/eda2823f85894a2b09f5c191186325467410739f), based on ebook 62383 and the Faithofgod.net scans.
+- License: Public domain for the 1911 text. [CC0 1.0 for the source's Markdown structure](https://github.com/mazza/biblia-arc1911/blob/eda2823f85894a2b09f5c191186325467410739f/NOTICE.md).
+
+The USFX conversion preserves historical spelling and follows the structured source's [documented verse numbering](https://github.com/mazza/biblia-arc1911/blob/eda2823f85894a2b09f5c191186325467410739f/QUALITY.md).
 
 ### Bíblia Livre
 
