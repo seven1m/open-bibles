@@ -33,6 +33,8 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | lat-clementine.usfx.xml          | Latin                 | USFX     |        | Clementine Latin Vulgate                          | Public Domain              |
 | nor-norwegian.osis.xml           | Norwegian             | OSIS     |        | Norwegian Bible                                   | Public Domain              |
 | pol-gdanska.osis.xml             | Polish                | OSIS     |        | Polish Gdańska Bible                              | Public Domain              |
+| por-blivre.usfx.xml              | Portuguese (Brazil)   | USFX     | BLIVRE | Bíblia Livre (Textus Receptus, February 2018)       | [CC BY 3.0 BR][cc-by-3-br]  |
+| por-bpm.usfx.xml                 | Portuguese (Brazil)   | USFX     | BPM    | Bíblia Portuguesa Mundial                         | Public Domain              |
 | ron-rccv.usfx.xml                | Romanian              | USFX     |        | Protestant Romanian Corrected Cornilescu Version  | Public Domain              |
 | rus-synodal.zefania.xml          | Russian               | Zefania  |        | Russian Synodal Translation                       | Public Domain              |
 | spa-bes.usfx.xml                 | Spanish               | USFX     | SPNBES | La Biblia en Español Sencillo                     | [CC BY 4.0][cc-by-4]       |
@@ -46,6 +48,20 @@ Repository of public domain and freely licensed bibles in some standard XML form
 
 
 ## Translation Details
+
+### Bíblia Livre
+
+- Source: [eBible.org USFX export of the February 2018 Textus Receptus edition](https://ebible.org/bible/details.php?id=porbr2018)
+- License: [CC BY 3.0 Brazil][cc-by-3-br], as published by the [translators](https://sites.google.com/site/biblialivre/perguntas-e-respostas/posso-usar-a-b%C3%ADblia-livre). The eBible.org package also carries a CC BY 4.0 notice.
+
+Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio, and Marco Teles. [Bíblia Livre project](https://sites.google.com/site/biblialivre/). The USFX file is distributed as exported by eBible.org.
+
+### Bíblia Portuguesa Mundial
+
+- Source: [eBible.org USFX export](https://ebible.org/bible/details.php?id=porbrbsl)
+- License: Public Domain
+
+The source identifies this as a draft dated October 8, 2026. The USFX file includes the additional books provided by eBible.org.
 
 ### Hebrew Leningrad Codex
 
@@ -138,5 +154,6 @@ The XML files are in a few different (de facto) standard formats, all marked up 
 
 I use these files along with the [bible_parser](https://github.com/seven1m/bible_parser) Ruby gem to build a MySQL database that backs the service [bible-api.com](https://bible-api.com), which is free for everyone to use.
 
+[cc-by-3-br]: https://creativecommons.org/licenses/by/3.0/br/
 [cc-by-4]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-sa-4]: https://creativecommons.org/licenses/by-sa/4.0/
