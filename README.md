@@ -34,6 +34,7 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | nor-norwegian.osis.xml           | Norwegian             | OSIS     |        | Norwegian Bible                                   | Public Domain              |
 | pol-gdanska.osis.xml             | Polish                | OSIS     |        | Polish Gdańska Bible                              | Public Domain              |
 | por-arc1911.usfx.xml             | Portuguese            | USFX     | ARC1911 | Almeida Revista e Corrigida (Lisbon, 1911)        | Public Domain              |
+| por-bdl.usfx.xml                 | Portuguese (Brazil)   | USFX     | BDL    | Bíblia Desbloqueada Literal                       | [CC BY-SA 4.0][cc-by-sa-4] |
 | por-blivre.usfx.xml              | Portuguese (Brazil)   | USFX     | BLIVRE | Bíblia Livre (Textus Receptus, February 2018)       | [CC BY 3.0 BR][cc-by-3-br]  |
 | por-blt.usfx.xml                 | Portuguese (Brazil)   | USFX     | BLT    | Bíblia Livre Para Todos (New Testament)            | [CC BY-SA 4.0][cc-by-sa-4] |
 | por-bpm.usfx.xml                 | Portuguese (Brazil)   | USFX     | BPM    | Bíblia Portuguesa Mundial                         | Public Domain              |
@@ -60,6 +61,15 @@ Repository of public domain and freely licensed bibles in some standard XML form
 - License: Public domain for the 1911 text. [CC0 1.0 for the source's Markdown structure](https://github.com/mazza/biblia-arc1911/blob/eda2823f85894a2b09f5c191186325467410739f/NOTICE.md).
 
 The USFX conversion preserves historical spelling and follows the structured source's [documented verse numbering](https://github.com/mazza/biblia-arc1911/blob/eda2823f85894a2b09f5c191186325467410739f/QUALITY.md).
+
+### Bíblia Desbloqueada Literal
+
+- Source: [Wycliffe Associates, Brazilian Portuguese Unlocked Literal Bible 6.10](https://content.wacsdev.org/WycliffeAssociates/pt-br_ulb/src/commit/f63e8b13f2cba842ce5acd6cfc4398c3ad250c40), issued March 30, 2022
+- License: [CC BY-SA 4.0][cc-by-sa-4]
+
+Original work available at [Door43](https://door43.org/). See the source [manifest](https://content.wacsdev.org/WycliffeAssociates/pt-br_ulb/src/commit/f63e8b13f2cba842ce5acd6cfc4398c3ad250c40/manifest.yaml) for contributor credits.
+
+Converted from USFM to USFX. The source's chapter-heading placeholder for 2 Samuel 17:5–7 was replaced with the three verses from an [earlier revision of the same translation](https://content.wacsdev.org/api/v1/repos/WycliffeAssociates/pt-br_ulb/raw/10-2SA.usfm?ref=539d1c6294327968209784a1397d6fe001895c55). The conversion preserves the text of Matthew 19:9's note and drops its dangling formatting marker.
 
 ### Bíblia Livre
 
