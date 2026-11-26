@@ -35,7 +35,10 @@ Repository of public domain and freely licensed bibles in some standard XML form
 | pol-gdanska.osis.xml             | Polish                | OSIS     |        | Polish Gdańska Bible                              | Public Domain              |
 | por-arc1911.usfx.xml             | Portuguese            | USFX     | ARC1911 | Almeida Revista e Corrigida (Lisbon, 1911)        | Public Domain              |
 | por-blivre.usfx.xml              | Portuguese (Brazil)   | USFX     | BLIVRE | Bíblia Livre (Textus Receptus, February 2018)       | [CC BY 3.0 BR][cc-by-3-br]  |
+| por-blt.usfx.xml                 | Portuguese (Brazil)   | USFX     | BLT    | Bíblia Livre Para Todos (New Testament)            | [CC BY-SA 4.0][cc-by-sa-4] |
 | por-bpm.usfx.xml                 | Portuguese (Brazil)   | USFX     | BPM    | Bíblia Portuguesa Mundial                         | Public Domain              |
+| por-onbv.usfx.xml                | Portuguese (Brazil)   | USFX     | ONBV   | Biblica® Open Nova Bíblia Viva 2007                 | [CC BY-SA 4.0][cc-by-sa-4] |
+| por-tftp.usfx.xml                | Portuguese (Brazil)   | USFX     | TfTP   | A Bíblia Sagrada, Tradução para Tradutores (New Testament) | [CC BY-SA 4.0][cc-by-sa-4] |
 | ron-rccv.usfx.xml                | Romanian              | USFX     |        | Protestant Romanian Corrected Cornilescu Version  | Public Domain              |
 | rus-synodal.zefania.xml          | Russian               | Zefania  |        | Russian Synodal Translation                       | Public Domain              |
 | spa-bes.usfx.xml                 | Spanish               | USFX     | SPNBES | La Biblia en Español Sencillo                     | [CC BY 4.0][cc-by-4]       |
@@ -65,12 +68,41 @@ The USFX conversion preserves historical spelling and follows the structured sou
 
 Bíblia Livre (BLIVRE), © 2018 Diego Santos, Mario Sérgio, and Marco Teles. [Bíblia Livre project](https://sites.google.com/site/biblialivre/). The USFX file is distributed as exported by eBible.org.
 
+### Bíblia Livre Para Todos
+
+- Source: [eBible.org USFX export](https://ebible.org/bible/details.php?id=porblt)
+- License: [CC BY-SA 4.0][cc-by-sa-4]
+
+Copyright © 2022 [Free Bible Ministry, Inc.](https://www.freebibleministry.org/). The export contains the New Testament and retains the source's empty verse markers.
+
 ### Bíblia Portuguesa Mundial
 
 - Source: [eBible.org USFX export](https://ebible.org/bible/details.php?id=porbrbsl)
 - License: Public Domain
 
 The source identifies this as a draft dated October 8, 2026. The USFX file includes the additional books provided by eBible.org.
+
+### Biblica® Open Nova Bíblia Viva 2007
+
+- Source: [eBible.org USFX export](https://ebible.org/bible/details.php?id=poronbv)
+- License: [CC BY-SA 4.0][cc-by-sa-4]
+
+> Biblica® Open Nova Bíblia Viva™
+>
+> Copyright © 2007, 2010 by Biblica, Inc.
+>
+> “Biblica” é uma marca registrada na Oficina de Patentes e Marcas dos Estados Unidos por Biblica, Inc. Usado com permissão.
+>
+> “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.
+
+The original work is available from [Biblica](https://www.biblica.com/) and [Open Bible](https://open.bible/).
+
+### A Bíblia Sagrada, Tradução para Tradutores
+
+- Source: [eBible.org USFX export](https://ebible.org/bible/details.php?id=portft)
+- License: [CC BY-SA 4.0][cc-by-sa-4]
+
+Copyright © 2018 Ellis W. Deibler, Jr. This export contains the New Testament. It retains the source's combined verse ranges.
 
 ### Hebrew Leningrad Codex
 
